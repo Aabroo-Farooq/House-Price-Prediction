@@ -1,0 +1,1813 @@
+house_id,location,area_sqft,bedrooms,bathrooms,floors,age_years,distance_to_city_km,parking,furnishing,price_lakhs
+H2000,Pantha Chowk,1442.0,2,1.0,1,0.0,7.0,No,Semi-Furnished,55.77
+H2001,Nowgam,1739.0,3,3.0,1,24.0,21.8,Yes,Furnished,62.22
+H2002,Soura,1887.0,3,2.0,1,0.0,6.8,Yes,Semi-Furnished,73.26
+H2003,Pantha Chowk,1273.0,1,1.0,1,12.0,24.8,No,Unfurnished,35.96
+H2004,Nowgam,1660.0,2,1.0,2,,1.3,Yes,Semi-Furnished,68.15
+H2005,Soura,1355.0,3,2.0,1,24.0,20.1,No,Furnished,49.94
+H2006,Budgam Road,1563.0,3,2.0,2,29.0,13.0,Yes,Furnished,51.98
+H2007,Sanat Nagar,1431.0,3,3.0,2,27.0,20.6,No,Unfurnished,56.49
+H2008,Rajbagh,906.0,2,2.0,2,9.0,13.5,Yes,Furnished,67.67
+H2009,Sanat Nagar,1489.0,3,2.0,2,5.0,21.0,Yes,Semi-Furnished,76.45
+H2010,Sanat Nagar,1956.0,4,4.0,2,2.0,18.0,Yes,Unfurnished,93.59
+H2011,Budgam Road,997.0,1,1.0,2,30.0,16.3,No,Semi-Furnished,27.76
+H2012,Pantha Chowk,9000.0,4,3.0,2,21.0,23.8,Yes,Furnished,54.45
+H2013,Rajbagh,1846.0,4,3.0,3,12.0,3.8,No,Furnished,131.76
+H2014,Hyderpora,944.0,2,2.0,2,12.0,23.2,Yes,Unfurnished,40.41
+H2015,Budgam Road,1595.0,2,2.0,3,20.0,13.5,No,Semi-Furnished,52.06
+H2016,Jawahar Nagar,949.0,2,1.0,3,15.0,18.0,No,Unfurnished,52.6
+H2017,Budgam Road,2090.0,3,2.0,2,10.0,17.0,Yes,Semi-Furnished,71.76
+H2018,Jawahar Nagar,2703.0,4,3.0,1,13.0,10.4,Yes,Unfurnished,149.86
+H2019,Hyderpora,2552.0,5,4.0,2,11.0,13.6,Yes,Semi-Furnished,115.43
+H2020,Budgam Road,1386.0,3,3.0,1,38.0,24.3,Yes,Unfurnished,38.04
+H2021,Sanat Nagar,1885.0,3,2.0,2,35.0,12.7,Yes,Unfurnished,77.4
+H2022,Bemina,1563.0,3,2.0,2,27.0,23.0,No,Unfurnished,57.03
+H2023,Sanat Nagar,1553.0,2,2.0,2,30.0,1.2,No,Furnished,78.3
+H2024,Soura,2305.0,4,4.0,1,3.0,14.8,No,Unfurnished,76.03
+H2025,Sanat Nagar,814.0,1,1.0,1,2.0,17.5,Yes,Semi-Furnished,41.3
+H2026,Pantha Chowk,2049.0,3,3.0,2,6.0,10.5,Yes,Unfurnished,72.92
+H2027,Hyderpora,1475.0,3,2.0,2,30.0,2.9,Yes,Semi-Furnished,74.48
+H2028,Hyderpora,2232.0,3,3.0,1,33.0,20.0,No,Furnished,92.91
+H2029,Hyderpora,1597.0,4,4.0,1,36.0,19.1,No,Unfurnished,69.73
+H2030,Nowgam,1150.0,2,1.0,1,3.0,10.2,No,Semi-Furnished,47.47
+H2031,Hyderpora,1644.0,4,4.0,1,28.0,3.3,Yes,Unfurnished,80.43
+H2032,Hyderpora,1883.0,3,3.0,1,0.0,21.1,Yes,Unfurnished,80.73
+H2033,Pantha Chowk,9000.0,3,2.0,1,27.0,19.6,Yes,Furnished,50.2
+H2034,Budgam Road,1754.0,2,2.0,1,11.0,21.0,Yes,Unfurnished,53.03
+H2035,Budgam Road,1229.0,1,1.0,1,10.0,20.7,Yes,Semi-Furnished,39.28
+H2036,Soura,450.0,1,1.0,1,5.0,7.3,Yes,Furnished,25.92
+H2037,Nowgam,1968.0,4,4.0,1,27.0,16.0,Yes,Semi-Furnished,75.75
+H2038,Bemina,1864.0,3,2.0,2,27.0,12.2,Yes,Unfurnished,72.01
+H2039,Pantha Chowk,1577.0,4,3.0,2,15.0,10.4,No,Semi-Furnished,57.41
+H2040,Hyderpora,1536.0,2,2.0,2,7.0,10.8,Yes,Semi-Furnished,72.74
+H2041,Jawahar Nagar,2039.0,4,3.0,2,36.0,17.2,No,Unfurnished,105.05
+H2042,Budgam Road,1262.0,3,3.0,2,11.0,25.0,No,Furnished,47.37
+H2043,Jawahar Nagar,1133.0,2,2.0,1,28.0,12.3,Yes,Unfurnished,52.05
+H2044,Budgam Road,1402.0,1,1.0,1,14.0,9.8,Yes,Unfurnished,45.03
+H2045,Nowgam,2118.0,5,4.0,1,12.0,16.1,Yes,Semi-Furnished,90.41
+H2046,Jawahar Nagar,779.0,2,2.0,3,16.0,16.1,Yes,Semi-Furnished,56.73
+H2047,Rajbagh,2120.0,4,3.0,2,35.0,10.8,No,Unfurnished,116.77
+H2048,Hyderpora,1168.0,2,1.0,2,12.0,16.5,Yes,Semi-Furnished,55.62
+H2049,Rajbagh,928.0,1,1.0,2,30.0,16.8,Yes,Unfurnished,45.84
+H2050,Jawahar Nagar,2155.0,3,2.0,2,31.0,18.9,Yes,Furnished,120.34
+H2051,Hyderpora,1450.0,3,3.0,2,8.0,5.0,Yes,Semi-Furnished,79.28
+H2052,Pantha Chowk,824.0,1,1.0,1,23.0,16.7,Yes,Semi-Furnished,25.12
+H2053,Hyderpora,1313.0,2,1.0,2,8.0,11.0,No,Unfurnished,55.22
+H2054,Budgam Road,1984.0,3,3.0,2,2.0,22.1,Yes,Furnished,72.55
+H2055,Pantha Chowk,2120.0,5,4.0,1,0.0,15.8,No,Unfurnished,69.57
+H2056,Budgam Road,1278.0,2,2.0,1,17.0,20.5,No,Semi-Furnished,39.87
+H2057,Nowgam,1711.0,3,3.0,1,30.0,20.4,Yes,Semi-Furnished,56.52
+H2058,Bemina,1871.0,4,4.0,2,9.0,6.1,Yes,Semi-Furnished,92.46
+H2059,Hyderpora,1165.0,2,1.0,3,3.0,2.9,Yes,Unfurnished,60.83
+H2060,Sanat Nagar,1685.0,3,3.0,2,17.0,19.2,Yes,Semi-Furnished,77.97
+H2061,Hyderpora,1483.0,2,2.0,1,11.0,2.3,No,Semi-Furnished,67.65
+H2062,Bemina,1221.0,1,1.0,1,7.0,23.8,Yes,Unfurnished,43.96
+H2063,Sanat Nagar,1244.0,2,1.0,1,29.0,17.6,No,Unfurnished,42.37
+H2064,Pantha Chowk,1535.0,3,3.0,1,2.0,11.2,Yes,Unfurnished,56.44
+H2065,Rajbagh,1516.0,3,2.0,1,12.0,17.1,Yes,Unfurnished,89.28
+H2066,Rajbagh,1206.0,2,2.0,2,33.0,4.2,Yes,Semi-Furnished,80.96
+H2067,Jawahar Nagar,1279.0,3,2.0,1,11.0,16.3,Yes,Furnished,82.46
+H2068,Pantha Chowk,2079.0,4,4.0,2,16.0,23.1,No,Unfurnished,65.69
+H2069,Soura,1611.0,3,2.0,1,2.0,1.0,Yes,Furnished,76.03
+H2070,Budgam Road,1960.0,3,2.0,3,6.0,23.5,Yes,Unfurnished,66.85
+H2071,Jawahar Nagar,2125.0,3,3.0,2,2.0,8.5,No,Furnished,132.49
+H2072,Soura,1806.0,3,3.0,1,20.0,10.5,Yes,Unfurnished,65.89
+H2073,Bemina,2681.0,4,4.0,2,22.0,23.5,Yes,Unfurnished,108.05
+H2074,Hyderpora,1071.0,2,1.0,1,17.0,20.1,No,Furnished,47.71
+H2075,Rajbagh,1920.0,3,2.0,2,5.0,10.2,No,Furnished,119.57
+H2076,Nowgam,1335.0,2,2.0,1,8.0,24.5,Yes,Furnished,49.8
+H2077,Budgam Road,2465.0,4,4.0,2,38.0,1.8,Yes,Semi-Furnished,86.21
+H2078,Nowgam,2384.0,4,4.0,1,29.0,16.9,No,Unfurnished,88.32
+H2079,Jawahar Nagar,484.0,1,1.0,1,1.0,13.2,Yes,Furnished,40.55
+H2080,Hyderpora,996.0,1,1.0,1,39.0,22.3,Yes,Semi-Furnished,35.18
+H2081,Sanat Nagar,1845.0,4,4.0,3,12.0,1.4,Yes,Furnished,118.56
+H2082,Pantha Chowk,1911.0,3,2.0,1,18.0,8.7,Yes,Unfurnished,60.05
+H2083,Budgam Road,1883.0,3,2.0,1,7.0,12.5,Yes,Furnished,67.17
+H2084,Jawahar Nagar,1463.0,3,2.0,2,19.0,2.8,Yes,Semi-Furnished,102.82
+H2085,Hyderpora,1737.0,4,4.0,1,35.0,16.5,Yes,Semi-Furnished,80.75
+H2086,Pantha Chowk,1840.0,3,3.0,1,7.0,21.3,Yes,Unfurnished,62.73
+H2087,Budgam Road,1460.0,3,2.0,2,30.0,22.8,No,Semi-Furnished,43.49
+H2088,Soura,2034.0,5,4.0,2,34.0,4.5,Yes,Unfurnished,76.23
+H2089,Nowgam,450.0,2,1.0,2,4.0,13.2,Yes,Unfurnished,24.18
+H2090,Rajbagh,1830.0,3,3.0,2,7.0,24.6,No,Semi-Furnished,119.45
+H2091,Soura,962.0,3,2.0,2,2.0,2.7,No,Unfurnished,41.32
+H2092,Hyderpora,1999.0,4,4.0,2,24.0,17.9,No,Unfurnished,75.21
+H2093,Rajbagh,1381.0,2,1.0,1,3.0,7.9,Yes,Semi-Furnished,92.18
+H2094,Sanat Nagar,1038.0,2,2.0,1,8.0,22.8,Yes,Semi-Furnished,53.66
+H2095,Hyderpora,1694.0,3,2.0,2,29.0,15.6,Yes,Unfurnished,67.21
+H2096,Soura,1026.0,2,2.0,2,39.0,22.5,No,Semi-Furnished,29.95
+H2097,Hyderpora,1025.0,2,2.0,2,29.0,2.2,No,Unfurnished,44.98
+H2098,Nowgam,685.0,2,1.0,1,29.0,15.5,Yes,Semi-Furnished,25.37
+H2099,Budgam Road,1486.0,2,2.0,2,25.0,11.1,No,Unfurnished,42.85
+H2100,Soura,1758.0,3,3.0,1,18.0,3.6,Yes,Unfurnished,61.33
+H2101,Bemina,2032.0,4,3.0,1,19.0,10.8,No,Semi-Furnished,79.94
+H2102,Nowgam,1426.0,3,3.0,3,24.0,18.8,No,Semi-Furnished,52.33
+H2103,Nowgam,2045.0,4,3.0,1,18.0,15.0,Yes,Semi-Furnished,86.02
+H2104,Rajbagh,1509.0,2,1.0,2,2.0,15.3,Yes,Semi-Furnished,94.68
+H2105,Rajbagh,1451.0,3,2.0,3,23.0,7.7,No,Semi-Furnished,92.68
+H2106,Nowgam,1798.0,4,3.0,3,8.0,13.2,Yes,Unfurnished,79.76
+H2107,Bemina,2050.0,5,4.0,1,4.0,11.7,Yes,Unfurnished,89.68
+H2108,Nowgam,1322.0,2,2.0,1,15.0,22.8,Yes,Unfurnished,42.96
+H2109,Sanat Nagar,1373.0,3,3.0,1,31.0,22.1,No,Semi-Furnished,59.79
+H2110,Sanat Nagar,1416.0,2,1.0,1,20.0,11.5,Yes,Semi-Furnished,61.33
+H2111,Jawahar Nagar,1543.0,2,2.0,3,31.0,13.1,Yes,Furnished,92.97
+H2112,Bemina,1032.0,1,1.0,2,28.0,8.0,Yes,Furnished,48.37
+H2113,Budgam Road,2035.0,4,3.0,1,27.0,14.6,Yes,Semi-Furnished,63.95
+H2114,Bemina,1292.0,2,1.0,1,8.0,4.1,Yes,Semi-Furnished,60.02
+H2115,Bemina,1740.0,3,2.0,2,9.0,24.2,No,Unfurnished,71.4
+H2116,Nowgam,1071.0,2,1.0,2,20.0,10.9,Yes,Semi-Furnished,40.79
+H2117,Pantha Chowk,9000.0,4,4.0,1,8.0,1.2,Yes,Unfurnished,64.89
+H2118,Bemina,1704.0,4,3.0,2,36.0,8.1,Yes,Furnished,80.29
+H2119,Nowgam,1281.0,2,2.0,1,39.0,23.8,Yes,Unfurnished,36.98
+H2120,Bemina,2551.0,5,5.0,1,35.0,8.4,No,Semi-Furnished,101.45
+H2121,Nowgam,1693.0,4,4.0,1,37.0,10.3,Yes,Unfurnished,67.31
+H2122,Hyderpora,2424.0,4,4.0,3,26.0,24.4,Yes,Unfurnished,95.29
+H2123,Nowgam,1999.0,3,3.0,2,29.0,19.8,Yes,Semi-Furnished,72.6
+H2124,Hyderpora,1156.0,3,2.0,2,23.0,9.7,No,Unfurnished,51.21
+H2125,Soura,1301.0,3,3.0,1,31.0,5.0,Yes,Unfurnished,47.43
+H2126,Pantha Chowk,1727.0,2,1.0,2,5.0,10.4,Yes,Unfurnished,54.98
+H2127,Jawahar Nagar,1532.0,1,1.0,2,18.0,10.0,No,Furnished,91.7
+H2128,Nowgam,1526.0,2,2.0,2,25.0,22.5,Yes,Furnished,54.59
+H2129,Bemina,1351.0,2,2.0,3,35.0,13.9,Yes,Unfurnished,54.98
+H2130,Bemina,560.0,1,1.0,1,27.0,23.2,Yes,Furnished,18.62
+H2131,Sanat Nagar,1383.0,3,3.0,1,27.0,24.7,No,Unfurnished,54.04
+H2132,Rajbagh,450.0,1,1.0,2,5.0,21.9,Yes,Unfurnished,31.35
+H2133,Bemina,1693.0,3,3.0,1,17.0,10.8,No,Semi-Furnished,73.16
+H2134,Budgam Road,1122.0,2,2.0,2,15.0,10.4,Yes,Unfurnished,38.39
+H2135,Rajbagh,1128.0,1,1.0,2,27.0,14.1,No,Furnished,63.4
+H2136,Bemina,1386.0,2,1.0,2,8.0,17.3,Yes,Furnished,59.18
+H2137,Pantha Chowk,1642.0,3,3.0,2,3.0,21.4,Yes,Unfurnished,57.49
+H2138,Pantha Chowk,755.0,3,3.0,2,12.0,20.6,No,Semi-Furnished,27.7
+H2139,Jawahar Nagar,591.0,2,2.0,2,15.0,8.5,Yes,Semi-Furnished,48.61
+H2140,Rajbagh,946.0,1,1.0,1,5.0,18.7,No,Furnished,63.0
+H2141,Soura,450.0,1,1.0,2,33.0,10.0,Yes,Furnished,18.8
+H2142,Rajbagh,997.0,2,1.0,1,26.0,19.6,Yes,Unfurnished,53.73
+H2143,Sanat Nagar,2327.0,3,,3,,1.3,No,,112.82
+H2144,Hyderpora,951.0,1,1.0,1,18.0,21.4,Yes,Semi-Furnished,38.85
+H2145,Budgam Road,1839.0,3,,1,,17.8,Yes,,58.93
+H2146,Rajbagh,787.0,2,2.0,2,6.0,4.5,Yes,Semi-Furnished,66.1
+H2147,Nowgam,1656.0,3,3.0,3,22.0,7.0,Yes,Furnished,72.24
+H2148,Hyderpora,1334.0,2,2.0,2,4.0,8.5,No,Unfurnished,51.9
+H2149,Jawahar Nagar,1469.0,2,2.0,2,37.0,13.3,No,Unfurnished,74.88
+H2150,Budgam Road,1796.0,3,2.0,2,38.0,22.7,No,Unfurnished,49.01
+H2151,Budgam Road,2413.0,4,3.0,1,8.0,24.3,Yes,Unfurnished,77.41
+H2152,Hyderpora,1601.0,3,2.0,1,6.0,15.5,No,Furnished,73.22
+H2153,Pantha Chowk,1565.0,4,4.0,3,27.0,3.6,No,Furnished,66.95
+H2154,Nowgam,994.0,1,1.0,3,24.0,24.5,Yes,Unfurnished,31.49
+H2155,Pantha Chowk,1803.0,4,3.0,1,17.0,24.1,No,Unfurnished,50.28
+H2156,Pantha Chowk,1372.0,3,2.0,3,33.0,3.1,Yes,Semi-Furnished,47.8
+H2157,Nowgam,1933.0,4,3.0,1,9.0,17.0,Yes,Unfurnished,72.73
+H2158,Sanat Nagar,1477.0,1,1.0,2,35.0,17.0,Yes,Unfurnished,53.4
+H2159,Jawahar Nagar,2405.0,4,3.0,1,1.0,16.9,Yes,Furnished,151.89
+H2160,Nowgam,469.0,1,1.0,2,35.0,18.4,Yes,Unfurnished,13.41
+H2161,Jawahar Nagar,1346.0,3,,2,,1.1,No,,97.23
+H2162,Soura,1958.0,4,4.0,2,2.0,8.4,No,Semi-Furnished,70.37
+H2163,Pantha Chowk,1318.0,3,3.0,3,7.0,9.1,Yes,Unfurnished,49.34
+H2164,Sanat Nagar,1088.0,2,2.0,2,38.0,16.6,Yes,Unfurnished,42.09
+H2165,Hyderpora,1362.0,2,2.0,1,23.0,3.3,Yes,Unfurnished,57.25
+H2166,Rajbagh,782.0,1,1.0,1,22.0,7.6,Yes,Furnished,51.63
+H2167,Jawahar Nagar,1562.0,3,3.0,2,17.0,5.2,Yes,Semi-Furnished,102.08
+H2168,Bemina,2769.0,5,4.0,1,30.0,2.1,Yes,Unfurnished,106.36
+H2169,Budgam Road,2095.0,4,3.0,1,16.0,12.4,No,Semi-Furnished,70.93
+H2170,Pantha Chowk,923.0,1,1.0,1,6.0,5.9,Yes,Unfurnished,37.78
+H2171,Nowgam,1046.0,2,1.0,3,35.0,12.6,Yes,Furnished,42.79
+H2172,Nowgam,1290.0,3,3.0,2,7.0,5.9,No,Unfurnished,60.2
+H2173,Nowgam,2022.0,3,3.0,1,3.0,20.0,Yes,Semi-Furnished,82.26
+H2174,Rajbagh,1073.0,3,3.0,2,34.0,3.7,Yes,Unfurnished,71.01
+H2175,Bemina,1141.0,2,2.0,2,22.0,19.5,No,Unfurnished,46.85
+H2176,Pantha Chowk,1960.0,4,3.0,2,28.0,16.8,Yes,Semi-Furnished,70.04
+H2177,Bemina,1950.0,4,4.0,3,16.0,4.8,No,Semi-Furnished,98.58
+H2178,Jawahar Nagar,1306.0,3,2.0,2,29.0,10.1,Yes,Furnished,83.25
+H2179,Sanat Nagar,919.0,2,2.0,2,6.0,10.2,No,Unfurnished,43.92
+H2180,Soura,694.0,2,1.0,3,29.0,11.9,No,Semi-Furnished,24.89
+H2181,Rajbagh,1137.0,1,1.0,2,15.0,17.2,No,Unfurnished,60.57
+H2182,Pantha Chowk,450.0,1,1.0,2,37.0,1.4,Yes,Semi-Furnished,19.5
+H2183,Budgam Road,1890.0,2,2.0,3,34.0,5.0,Yes,Unfurnished,57.95
+H2184,Nowgam,1172.0,3,3.0,3,23.0,17.8,Yes,Furnished,53.72
+H2185,Hyderpora,1750.0,2,1.0,2,7.0,3.2,Yes,Semi-Furnished,79.19
+H2186,Soura,2472.0,5,5.0,2,24.0,21.3,Yes,Semi-Furnished,85.78
+H2187,Hyderpora,2110.0,3,3.0,2,27.0,9.9,Yes,Unfurnished,92.69
+H2188,Hyderpora,901.0,1,1.0,1,38.0,1.9,Yes,Unfurnished,37.45
+H2189,Sanat Nagar,1952.0,3,2.0,1,10.0,19.4,Yes,Furnished,95.34
+H2190,Hyderpora,2102.0,4,3.0,2,23.0,6.9,Yes,Semi-Furnished,105.33
+H2191,Soura,1112.0,2,2.0,2,20.0,25.0,No,Unfurnished,35.83
+H2192,Rajbagh,1004.0,3,3.0,3,27.0,23.1,Yes,Furnished,64.37
+H2193,Rajbagh,1443.0,3,3.0,2,22.0,22.2,Yes,Unfurnished,82.63
+H2194,Soura,667.0,2,1.0,2,4.0,22.2,Yes,Unfurnished,24.1
+H2195,Bemina,2265.0,4,4.0,2,2.0,2.8,No,Unfurnished,99.07
+H2196,Budgam Road,450.0,1,1.0,2,29.0,1.6,No,Semi-Furnished,19.64
+H2197,Rajbagh,924.0,2,2.0,2,32.0,10.6,Yes,Semi-Furnished,53.57
+H2198,Pantha Chowk,1360.0,2,1.0,2,39.0,11.1,Yes,Unfurnished,43.88
+H2199,Jawahar Nagar,1382.0,2,1.0,2,15.0,10.8,Yes,Semi-Furnished,90.98
+H2200,Bemina,1586.0,3,3.0,2,7.0,15.3,Yes,Unfurnished,71.28
+H2201,Pantha Chowk,1641.0,3,3.0,1,8.0,19.8,No,Semi-Furnished,59.61
+H2202,Rajbagh,1389.0,3,2.0,3,4.0,19.9,Yes,Semi-Furnished,98.84
+H2203,Nowgam,2091.0,3,3.0,3,8.0,23.3,Yes,Semi-Furnished,78.75
+H2204,Soura,450.0,1,1.0,2,18.0,17.2,Yes,Furnished,19.88
+H2205,Bemina,1500.0,3,2.0,2,39.0,22.1,No,Semi-Furnished,55.31
+H2206,Rajbagh,1128.0,1,1.0,2,9.0,3.2,Yes,Semi-Furnished,71.94
+H2207,Hyderpora,1569.0,2,1.0,2,37.0,1.6,Yes,Semi-Furnished,65.65
+H2208,Bemina,9000.0,4,4.0,2,13.0,11.8,Yes,Semi-Furnished,76.56
+H2209,Budgam Road,1026.0,1,1.0,1,18.0,22.2,Yes,Furnished,33.67
+H2210,Soura,1167.0,2,2.0,2,33.0,10.3,Yes,Furnished,44.38
+H2211,Bemina,1912.0,4,4.0,3,10.0,3.7,Yes,Unfurnished,93.91
+H2212,Rajbagh,1682.0,2,1.0,2,34.0,4.0,No,Unfurnished,86.9
+H2213,Nowgam,1146.0,4,3.0,3,28.0,6.5,Yes,Semi-Furnished,49.95
+H2214,Sanat Nagar,2561.0,3,2.0,1,8.0,21.7,Yes,Furnished,131.6
+H2215,Soura,2701.0,6,5.0,3,2.0,9.1,Yes,Unfurnished,116.12
+H2216,Budgam Road,740.0,2,1.0,3,0.0,21.6,No,Unfurnished,27.84
+H2217,Bemina,1657.0,4,4.0,2,34.0,23.6,Yes,Furnished,71.68
+H2218,Pantha Chowk,2805.0,5,4.0,3,5.0,19.6,No,Semi-Furnished,102.75
+H2219,Hyderpora,1908.0,4,4.0,2,0.0,23.2,No,Semi-Furnished,83.93
+H2220,Hyderpora,1615.0,2,1.0,2,31.0,7.1,Yes,Unfurnished,64.9
+H2221,Soura,1392.0,3,2.0,2,1.0,5.7,Yes,Unfurnished,52.89
+H2222,Budgam Road,1219.0,2,2.0,1,22.0,6.8,No,Unfurnished,40.54
+H2223,Pantha Chowk,1389.0,2,2.0,1,13.0,1.4,No,Unfurnished,50.17
+H2224,Pantha Chowk,1214.0,3,2.0,2,25.0,23.3,Yes,Furnished,42.41
+H2225,Jawahar Nagar,1887.0,3,2.0,1,18.0,5.9,Yes,Semi-Furnished,110.04
+H2226,Bemina,1293.0,2,2.0,2,23.0,16.1,Yes,Semi-Furnished,50.36
+H2227,Pantha Chowk,1271.0,2,2.0,1,0.0,7.8,No,Semi-Furnished,47.88
+H2228,Sanat Nagar,875.0,1,1.0,2,17.0,14.0,Yes,Semi-Furnished,44.74
+H2229,Rajbagh,1474.0,3,3.0,3,11.0,11.5,No,Unfurnished,90.6
+H2230,Nowgam,1035.0,2,2.0,2,31.0,18.3,No,Semi-Furnished,38.11
+H2231,Soura,1406.0,2,2.0,1,39.0,5.8,Yes,Semi-Furnished,46.38
+H2232,Soura,2042.0,4,4.0,2,14.0,7.9,No,Furnished,81.36
+H2233,Budgam Road,1690.0,3,2.0,2,30.0,4.3,Yes,Semi-Furnished,57.35
+H2234,Nowgam,1762.0,3,3.0,3,8.0,8.8,Yes,Unfurnished,69.93
+H2235,Jawahar Nagar,1685.0,3,2.0,1,2.0,21.0,Yes,Furnished,110.06
+H2236,Budgam Road,1531.0,2,1.0,1,29.0,24.1,No,Unfurnished,35.21
+H2237,Bemina,1434.0,3,3.0,3,35.0,1.4,Yes,Unfurnished,66.24
+H2238,Budgam Road,1340.0,2,1.0,2,35.0,21.3,Yes,Semi-Furnished,39.46
+H2239,Budgam Road,1895.0,4,3.0,3,18.0,18.6,Yes,Furnished,69.57
+H2240,Pantha Chowk,936.0,2,2.0,2,35.0,2.9,Yes,Furnished,38.59
+H2241,Rajbagh,2197.0,5,,2,,4.9,Yes,,139.27
+H2242,Budgam Road,1518.0,2,2.0,3,4.0,21.8,Yes,Unfurnished,51.01
+H2243,Nowgam,1111.0,2,1.0,2,12.0,5.7,Yes,Unfurnished,45.97
+H2244,Hyderpora,1246.0,2,1.0,1,2.0,22.8,Yes,Semi-Furnished,53.45
+H2245,Budgam Road,1148.0,2,2.0,1,12.0,14.0,No,Semi-Furnished,40.02
+H2246,Pantha Chowk,1583.0,3,3.0,1,11.0,24.6,Yes,Unfurnished,54.37
+H2247,Hyderpora,1127.0,3,2.0,1,27.0,13.1,Yes,Semi-Furnished,53.49
+H2248,Rajbagh,2094.0,5,5.0,1,35.0,4.1,Yes,Furnished,144.18
+H2249,Soura,1094.0,2,2.0,2,19.0,15.5,Yes,Unfurnished,39.07
+H2250,Sanat Nagar,450.0,1,1.0,2,1.0,11.7,Yes,Semi-Furnished,31.14
+H2251,Sanat Nagar,1120.0,2,1.0,3,11.0,2.7,Yes,Semi-Furnished,62.02
+H2252,Jawahar Nagar,456.0,1,1.0,2,23.0,20.6,Yes,Semi-Furnished,22.93
+H2253,Jawahar Nagar,1479.0,4,4.0,1,20.0,22.6,Yes,Unfurnished,84.05
+H2254,Pantha Chowk,2051.0,4,4.0,3,22.0,24.1,Yes,Furnished,78.92
+H2255,Bemina,1837.0,3,2.0,3,25.0,16.5,No,Unfurnished,67.9
+H2256,Rajbagh,804.0,1,1.0,3,39.0,15.0,No,Semi-Furnished,38.97
+H2257,Jawahar Nagar,1104.0,3,3.0,1,12.0,5.7,No,Unfurnished,75.96
+H2258,Bemina,2425.0,5,5.0,2,27.0,24.1,No,Unfurnished,92.93
+H2259,Bemina,1666.0,3,2.0,2,32.0,18.6,Yes,Furnished,70.32
+H2260,Sanat Nagar,1502.0,3,2.0,2,39.0,17.0,Yes,Unfurnished,62.88
+H2261,Pantha Chowk,2049.0,3,2.0,1,29.0,17.7,Yes,Furnished,71.73
+H2262,Budgam Road,2775.0,5,4.0,3,0.0,21.2,Yes,Furnished,102.2
+H2263,Nowgam,2174.0,4,3.0,2,30.0,9.2,No,Semi-Furnished,76.98
+H2264,Pantha Chowk,1572.0,2,1.0,1,35.0,3.7,Yes,Semi-Furnished,56.82
+H2265,Bemina,1684.0,4,4.0,1,26.0,24.8,Yes,Unfurnished,66.4
+H2266,Jawahar Nagar,1821.0,3,2.0,2,35.0,1.8,Yes,Semi-Furnished,103.66
+H2267,Sanat Nagar,1181.0,2,2.0,1,9.0,7.5,No,Semi-Furnished,61.61
+H2268,Rajbagh,949.0,1,1.0,2,31.0,12.8,Yes,Semi-Furnished,56.06
+H2269,Pantha Chowk,1527.0,3,2.0,1,28.0,2.0,Yes,Furnished,55.88
+H2270,Jawahar Nagar,1007.0,2,1.0,2,15.0,8.4,No,Semi-Furnished,67.75
+H2271,Hyderpora,1468.0,3,3.0,1,6.0,21.9,No,Unfurnished,62.38
+H2272,Jawahar Nagar,1550.0,2,2.0,1,14.0,16.0,Yes,Semi-Furnished,97.64
+H2273,Pantha Chowk,2717.0,5,5.0,3,5.0,15.0,Yes,Semi-Furnished,104.92
+H2274,Jawahar Nagar,1057.0,1,1.0,1,25.0,1.4,No,Semi-Furnished,61.85
+H2275,Hyderpora,1437.0,3,3.0,2,20.0,11.3,Yes,Unfurnished,70.1
+H2276,Pantha Chowk,1415.0,3,3.0,3,15.0,3.9,No,Unfurnished,56.74
+H2277,Hyderpora,1727.0,3,2.0,1,6.0,10.3,Yes,Unfurnished,76.91
+H2278,Pantha Chowk,2044.0,5,5.0,1,19.0,10.3,No,Furnished,80.88
+H2279,Pantha Chowk,1245.0,3,2.0,2,5.0,11.2,Yes,Furnished,52.9
+H2280,Soura,1073.0,2,1.0,1,26.0,8.6,No,Furnished,41.47
+H2281,Soura,647.0,1,1.0,3,23.0,19.7,No,Semi-Furnished,20.17
+H2282,Nowgam,1018.0,2,1.0,1,25.0,12.1,Yes,Semi-Furnished,38.26
+H2283,Nowgam,1779.0,4,4.0,2,39.0,22.8,Yes,Unfurnished,54.4
+H2284,Budgam Road,1524.0,3,2.0,1,6.0,9.3,Yes,Unfurnished,55.15
+H2285,Bemina,972.0,1,1.0,1,2.0,4.4,Yes,Furnished,46.79
+H2286,Pantha Chowk,1306.0,3,2.0,1,0.0,9.5,Yes,Unfurnished,48.48
+H2287,Budgam Road,1516.0,3,3.0,3,17.0,21.9,No,Unfurnished,48.11
+H2288,Bemina,1762.0,4,4.0,2,5.0,9.6,Yes,Semi-Furnished,85.88
+H2289,Bemina,1191.0,2,2.0,2,3.0,20.7,Yes,Semi-Furnished,53.25
+H2290,Soura,1370.0,2,2.0,1,31.0,17.6,Yes,Furnished,44.97
+H2291,Pantha Chowk,554.0,1,1.0,1,21.0,7.2,Yes,Unfurnished,21.03
+H2292,Rajbagh,901.0,3,2.0,3,19.0,5.6,No,Semi-Furnished,62.42
+H2293,Rajbagh,2341.0,4,4.0,2,22.0,3.7,Yes,Furnished,161.25
+H2294,Sanat Nagar,450.0,1,1.0,2,39.0,11.8,Yes,Furnished,21.43
+H2295,Bemina,1324.0,3,2.0,2,19.0,17.7,Yes,Furnished,63.7
+H2296,Jawahar Nagar,1614.0,3,2.0,1,22.0,8.1,No,Semi-Furnished,93.38
+H2297,Hyderpora,1305.0,1,1.0,3,1.0,23.9,No,Furnished,61.81
+H2298,Hyderpora,1080.0,1,1.0,1,36.0,1.3,No,Semi-Furnished,46.44
+H2299,Pantha Chowk,1468.0,2,1.0,1,28.0,19.9,Yes,Semi-Furnished,46.87
+H2300,Soura,1497.0,3,3.0,2,28.0,5.1,Yes,Semi-Furnished,59.46
+H2301,Sanat Nagar,1457.0,3,3.0,1,20.0,25.0,No,Semi-Furnished,63.65
+H2302,Budgam Road,524.0,1,1.0,2,0.0,3.4,Yes,Semi-Furnished,27.17
+H2303,Budgam Road,1423.0,3,3.0,2,22.0,23.1,Yes,Semi-Furnished,41.39
+H2304,Soura,1055.0,2,1.0,2,6.0,10.6,Yes,Unfurnished,42.39
+H2305,Soura,1215.0,1,1.0,2,26.0,7.9,Yes,Furnished,44.75
+H2306,Sanat Nagar,1618.0,3,3.0,2,4.0,2.0,No,Semi-Furnished,95.53
+H2307,Soura,1833.0,3,3.0,1,36.0,6.3,No,Unfurnished,53.48
+H2308,Jawahar Nagar,1966.0,3,3.0,1,30.0,10.2,No,Unfurnished,105.83
+H2309,Nowgam,1242.0,2,2.0,2,17.0,23.5,Yes,Furnished,45.85
+H2310,Pantha Chowk,1980.0,4,4.0,1,6.0,24.2,No,Semi-Furnished,68.59
+H2311,Pantha Chowk,2110.0,4,3.0,1,36.0,2.9,No,Furnished,72.78
+H2312,Sanat Nagar,2091.0,3,2.0,2,34.0,14.5,Yes,Unfurnished,87.55
+H2313,Sanat Nagar,2223.0,4,4.0,2,7.0,1.8,Yes,Furnished,124.61
+H2314,Nowgam,1424.0,4,3.0,2,9.0,3.5,No,Unfurnished,63.7
+H2315,Bemina,1409.0,2,2.0,1,18.0,15.8,No,Furnished,60.4
+H2316,Soura,1929.0,2,,2,,13.6,Yes,,60.73
+H2317,Jawahar Nagar,789.0,2,1.0,2,7.0,22.6,No,Semi-Furnished,50.73
+H2318,Jawahar Nagar,1609.0,3,3.0,2,38.0,22.7,Yes,Unfurnished,82.1
+H2319,Rajbagh,1224.0,3,3.0,2,14.0,4.8,Yes,Semi-Furnished,90.13
+H2320,Hyderpora,1308.0,2,1.0,1,23.0,16.2,Yes,Unfurnished,54.8
+H2321,Jawahar Nagar,594.0,2,1.0,2,36.0,20.4,Yes,Semi-Furnished,29.85
+H2322,Sanat Nagar,1037.0,1,1.0,2,4.0,19.5,Yes,Semi-Furnished,50.95
+H2323,Pantha Chowk,1489.0,2,2.0,1,39.0,14.6,Yes,Furnished,48.09
+H2324,Budgam Road,1962.0,3,2.0,2,14.0,13.3,No,Semi-Furnished,62.08
+H2325,Budgam Road,2015.0,4,3.0,2,18.0,14.7,Yes,Furnished,63.26
+H2326,Nowgam,1458.0,3,2.0,2,3.0,10.9,Yes,Semi-Furnished,65.48
+H2327,Jawahar Nagar,1402.0,3,3.0,2,11.0,14.6,Yes,Unfurnished,81.06
+H2328,Soura,1068.0,2,1.0,2,31.0,22.4,No,Furnished,34.83
+H2329,Nowgam,1709.0,4,4.0,2,12.0,9.4,No,Furnished,82.43
+H2330,Pantha Chowk,1371.0,3,3.0,2,37.0,11.6,Yes,Furnished,48.07
+H2331,Hyderpora,1815.0,4,3.0,1,36.0,11.5,No,Semi-Furnished,80.7
+H2332,Jawahar Nagar,2411.0,4,,1,,21.8,Yes,,127.2
+H2333,Nowgam,1483.0,2,1.0,3,17.0,6.9,Yes,Unfurnished,57.42
+H2334,Hyderpora,721.0,2,2.0,2,6.0,11.5,Yes,Furnished,43.14
+H2335,Nowgam,1052.0,1,1.0,2,7.0,19.0,Yes,Semi-Furnished,40.42
+H2336,Bemina,742.0,1,1.0,1,36.0,10.4,No,Semi-Furnished,27.67
+H2337,Sanat Nagar,878.0,2,1.0,2,33.0,21.5,No,Semi-Furnished,36.79
+H2338,Jawahar Nagar,2179.0,4,4.0,2,0.0,13.9,Yes,Semi-Furnished,153.29
+H2339,Pantha Chowk,1618.0,3,3.0,2,20.0,3.4,Yes,Unfurnished,60.36
+H2340,Soura,710.0,2,2.0,3,39.0,9.8,No,Unfurnished,24.7
+H2341,Hyderpora,1840.0,2,2.0,2,17.0,4.5,Yes,Unfurnished,89.0
+H2342,Sanat Nagar,2155.0,4,4.0,1,24.0,11.5,Yes,Furnished,109.05
+H2343,Nowgam,1313.0,4,4.0,1,36.0,9.7,Yes,Unfurnished,51.51
+H2344,Bemina,1148.0,2,2.0,1,,9.1,Yes,Furnished,60.53
+H2345,Nowgam,1325.0,2,1.0,2,29.0,20.9,Yes,Unfurnished,42.96
+H2346,Rajbagh,1648.0,3,3.0,3,21.0,22.5,No,Semi-Furnished,98.31
+H2347,Jawahar Nagar,1833.0,4,3.0,2,0.0,19.1,No,Semi-Furnished,109.06
+H2348,Soura,2115.0,3,2.0,2,27.0,19.4,Yes,Semi-Furnished,69.71
+H2349,Rajbagh,2130.0,4,3.0,2,38.0,22.4,No,Unfurnished,116.68
+H2350,Soura,2116.0,4,4.0,1,26.0,23.0,Yes,Semi-Furnished,78.36
+H2351,Bemina,2208.0,4,3.0,1,18.0,5.2,No,Semi-Furnished,97.02
+H2352,Rajbagh,1844.0,3,2.0,2,13.0,22.5,Yes,Furnished,115.92
+H2353,Soura,704.0,2,2.0,1,7.0,4.9,Yes,Furnished,37.23
+H2354,Soura,1432.0,2,1.0,1,26.0,7.5,No,Furnished,53.63
+H2355,Budgam Road,1663.0,3,3.0,2,36.0,20.0,No,Unfurnished,46.02
+H2356,Pantha Chowk,1301.0,2,1.0,2,9.0,4.4,Yes,Furnished,54.63
+H2357,Soura,1974.0,3,3.0,1,16.0,24.1,Yes,Semi-Furnished,65.78
+H2358,Budgam Road,1313.0,2,1.0,1,30.0,23.4,Yes,Furnished,37.93
+H2359,Jawahar Nagar,1019.0,2,2.0,2,27.0,1.0,Yes,Furnished,73.23
+H2360,Pantha Chowk,2251.0,3,3.0,2,22.0,16.3,No,Unfurnished,69.05
+H2361,Pantha Chowk,1846.0,4,3.0,1,30.0,23.2,Yes,Semi-Furnished,59.02
+H2362,Soura,1614.0,3,2.0,2,39.0,14.0,Yes,Semi-Furnished,54.07
+H2363,Budgam Road,1982.0,3,3.0,2,7.0,13.9,No,Semi-Furnished,67.5
+H2364,Soura,2053.0,4,4.0,3,3.0,15.1,Yes,Furnished,84.22
+H2365,Budgam Road,1677.0,3,2.0,1,39.0,14.3,Yes,Unfurnished,47.24
+H2366,Pantha Chowk,450.0,1,1.0,2,9.0,15.0,No,Semi-Furnished,19.59
+H2367,Hyderpora,1149.0,2,1.0,2,22.0,17.3,No,Semi-Furnished,49.46
+H2368,Budgam Road,1263.0,2,2.0,1,34.0,23.9,No,Unfurnished,34.18
+H2369,Pantha Chowk,988.0,2,1.0,2,2.0,3.0,Yes,Semi-Furnished,44.87
+H2370,Sanat Nagar,1603.0,3,3.0,1,26.0,6.6,Yes,Semi-Furnished,78.51
+H2371,Rajbagh,2120.0,4,3.0,1,21.0,1.1,Yes,Unfurnished,129.51
+H2372,Jawahar Nagar,1248.0,3,3.0,1,24.0,2.6,Yes,Unfurnished,86.99
+H2373,Rajbagh,910.0,1,1.0,2,0.0,5.8,No,Semi-Furnished,68.93
+H2374,Bemina,2555.0,5,4.0,2,26.0,22.6,Yes,Furnished,106.61
+H2375,Rajbagh,1265.0,3,3.0,1,39.0,8.6,Yes,Furnished,82.61
+H2376,Sanat Nagar,859.0,1,1.0,1,32.0,15.4,Yes,Semi-Furnished,34.01
+H2377,Sanat Nagar,1624.0,2,1.0,2,26.0,8.5,Yes,Unfurnished,68.85
+H2378,Soura,1721.0,4,4.0,2,4.0,24.7,No,Furnished,62.27
+H2379,Sanat Nagar,1133.0,2,2.0,1,15.0,5.6,Yes,Semi-Furnished,60.79
+H2380,Pantha Chowk,1911.0,5,5.0,3,13.0,10.5,Yes,Unfurnished,68.82
+H2381,Jawahar Nagar,1247.0,3,2.0,2,31.0,9.9,Yes,Semi-Furnished,73.98
+H2382,Pantha Chowk,1020.0,2,1.0,2,25.0,6.1,Yes,Unfurnished,39.11
+H2383,Nowgam,1593.0,3,3.0,2,31.0,2.8,No,Furnished,69.48
+H2384,Sanat Nagar,1901.0,4,3.0,1,14.0,10.4,Yes,Semi-Furnished,91.78
+H2385,Rajbagh,1170.0,3,2.0,2,,5.8,Yes,Semi-Furnished,75.25
+H2386,Sanat Nagar,1672.0,3,3.0,2,14.0,1.6,Yes,Furnished,90.88
+H2387,Nowgam,1451.0,3,3.0,2,9.0,22.3,No,Semi-Furnished,51.05
+H2388,Rajbagh,2969.0,6,5.0,3,15.0,9.2,Yes,Semi-Furnished,182.92
+H2389,Jawahar Nagar,1132.0,3,2.0,1,3.0,1.3,No,Semi-Furnished,81.5
+H2390,Jawahar Nagar,2220.0,5,5.0,2,35.0,15.8,Yes,Unfurnished,117.75
+H2391,Soura,1473.0,2,1.0,1,34.0,12.5,Yes,Unfurnished,46.53
+H2392,Rajbagh,1434.0,2,1.0,1,14.0,17.6,Yes,Unfurnished,78.38
+H2393,Rajbagh,1875.0,4,4.0,1,35.0,9.6,Yes,Semi-Furnished,113.0
+H2394,Hyderpora,1965.0,3,2.0,1,12.0,4.4,Yes,Unfurnished,95.01
+H2395,Sanat Nagar,2159.0,4,3.0,1,13.0,16.3,Yes,Furnished,112.65
+H2396,Nowgam,1671.0,2,1.0,2,6.0,10.6,No,Unfurnished,60.06
+H2397,Pantha Chowk,1188.0,2,1.0,2,15.0,22.0,No,Semi-Furnished,41.67
+H2398,Budgam Road,1220.0,2,2.0,2,19.0,8.8,Yes,Unfurnished,44.63
+H2399,Hyderpora,1765.0,4,3.0,2,16.0,6.3,Yes,Semi-Furnished,85.63
+H2400,Nowgam,1802.0,3,2.0,2,36.0,5.5,No,Furnished,70.16
+H2401,Budgam Road,2227.0,5,5.0,2,11.0,7.1,Yes,Furnished,87.71
+H2402,Bemina,1718.0,3,2.0,2,22.0,6.7,Yes,Unfurnished,67.29
+H2403,Nowgam,2051.0,6,5.0,1,37.0,13.5,No,Furnished,90.9
+H2404,Jawahar Nagar,2289.0,5,4.0,2,14.0,9.9,No,Furnished,157.46
+H2405,Nowgam,1586.0,3,3.0,2,21.0,24.3,No,Unfurnished,49.97
+H2406,Sanat Nagar,728.0,1,1.0,3,35.0,5.9,Yes,Furnished,38.96
+H2407,Jawahar Nagar,887.0,1,1.0,2,28.0,23.6,No,Unfurnished,35.38
+H2408,Soura,752.0,1,1.0,1,27.0,9.1,Yes,Semi-Furnished,28.5
+H2409,Nowgam,2328.0,4,3.0,2,24.0,12.6,Yes,Furnished,93.28
+H2410,Bemina,1059.0,3,2.0,1,9.0,24.0,No,Unfurnished,42.65
+H2411,Rajbagh,2141.0,3,2.0,2,3.0,19.7,No,Semi-Furnished,131.91
+H2412,Sanat Nagar,1805.0,4,4.0,2,13.0,23.7,Yes,Unfurnished,83.4
+H2413,Budgam Road,2392.0,4,3.0,2,2.0,13.9,No,Semi-Furnished,80.25
+H2414,Hyderpora,2022.0,4,4.0,1,22.0,8.6,Yes,Unfurnished,94.42
+H2415,Pantha Chowk,1447.0,1,1.0,2,5.0,17.2,Yes,Semi-Furnished,49.08
+H2416,Pantha Chowk,1396.0,3,3.0,1,23.0,17.4,Yes,Semi-Furnished,51.63
+H2417,Budgam Road,1544.0,3,3.0,2,19.0,2.0,No,Unfurnished,53.81
+H2418,Rajbagh,1591.0,3,3.0,2,39.0,3.6,Yes,Unfurnished,97.8
+H2419,Rajbagh,1224.0,2,1.0,2,25.0,23.7,No,Unfurnished,61.17
+H2420,Nowgam,1483.0,2,2.0,2,38.0,18.3,Yes,Semi-Furnished,51.73
+H2421,Bemina,2337.0,5,4.0,2,39.0,20.7,Yes,Unfurnished,85.31
+H2422,Budgam Road,615.0,2,2.0,1,9.0,5.5,No,Unfurnished,29.88
+H2423,Sanat Nagar,1634.0,3,3.0,3,36.0,24.4,Yes,Semi-Furnished,70.01
+H2424,Jawahar Nagar,1028.0,2,1.0,3,20.0,8.2,Yes,Semi-Furnished,72.57
+H2425,Jawahar Nagar,1597.0,4,4.0,1,29.0,4.4,Yes,Unfurnished,95.18
+H2426,Sanat Nagar,1937.0,4,4.0,2,15.0,9.6,Yes,Semi-Furnished,98.96
+H2427,Nowgam,1470.0,2,2.0,2,15.0,9.4,Yes,Semi-Furnished,58.49
+H2428,Jawahar Nagar,1902.0,3,2.0,1,0.0,2.4,Yes,Unfurnished,123.37
+H2429,Budgam Road,673.0,2,1.0,1,13.0,21.3,Yes,Unfurnished,21.92
+H2430,Sanat Nagar,2076.0,4,3.0,1,10.0,21.9,Yes,Unfurnished,94.23
+H2431,Sanat Nagar,1186.0,2,2.0,2,27.0,5.7,Yes,Semi-Furnished,55.51
+H2432,Nowgam,1824.0,3,2.0,1,17.0,14.2,Yes,Unfurnished,63.69
+H2433,Budgam Road,1595.0,3,2.0,2,13.0,21.9,Yes,Semi-Furnished,53.98
+H2434,Bemina,450.0,1,1.0,2,3.0,10.1,Yes,Semi-Furnished,28.9
+H2435,Budgam Road,1107.0,2,1.0,1,30.0,13.2,Yes,Semi-Furnished,31.86
+H2436,Sanat Nagar,1615.0,3,3.0,2,19.0,6.9,No,Semi-Furnished,82.01
+H2437,Jawahar Nagar,2308.0,5,5.0,2,29.0,12.2,No,Unfurnished,121.45
+H2438,Budgam Road,1649.0,3,3.0,2,11.0,8.5,No,Unfurnished,61.18
+H2439,Soura,1634.0,3,2.0,2,4.0,20.8,No,Semi-Furnished,57.93
+H2440,Soura,765.0,1,1.0,2,6.0,4.8,Yes,Unfurnished,36.89
+H2441,Budgam Road,2244.0,4,4.0,3,32.0,1.8,Yes,Semi-Furnished,82.6
+H2442,Hyderpora,2440.0,5,5.0,2,26.0,22.6,Yes,Unfurnished,104.82
+H2443,Jawahar Nagar,1515.0,3,2.0,2,3.0,5.1,Yes,Furnished,106.88
+H2444,Nowgam,1386.0,2,2.0,1,7.0,14.2,No,Furnished,56.26
+H2445,Nowgam,658.0,1,1.0,2,12.0,18.0,Yes,Unfurnished,25.96
+H2446,Bemina,1959.0,3,3.0,3,22.0,8.8,No,Semi-Furnished,75.73
+H2447,Nowgam,2905.0,5,4.0,3,39.0,23.3,No,Unfurnished,97.86
+H2448,Sanat Nagar,1873.0,4,4.0,1,28.0,9.1,No,Unfurnished,79.3
+H2449,Nowgam,2157.0,4,4.0,2,26.0,5.7,Yes,Unfurnished,81.0
+H2450,Budgam Road,1782.0,5,4.0,2,13.0,2.6,Yes,Semi-Furnished,62.67
+H2451,Rajbagh,988.0,1,1.0,2,34.0,22.6,No,Furnished,49.03
+H2452,Hyderpora,9000.0,4,3.0,1,37.0,6.2,Yes,Unfurnished,94.98
+H2453,Nowgam,858.0,2,1.0,1,37.0,22.5,No,Semi-Furnished,25.31
+H2454,Rajbagh,1390.0,2,1.0,2,32.0,12.0,Yes,Semi-Furnished,80.03
+H2455,Nowgam,1645.0,2,2.0,2,10.0,23.4,Yes,Semi-Furnished,59.14
+H2456,Pantha Chowk,1959.0,3,2.0,2,1.0,3.1,Yes,Furnished,81.28
+H2457,Budgam Road,1716.0,3,2.0,2,31.0,21.5,No,Semi-Furnished,53.71
+H2458,Soura,1701.0,3,2.0,2,16.0,24.5,Yes,Semi-Furnished,57.18
+H2459,Budgam Road,1104.0,2,2.0,1,14.0,18.1,No,Furnished,39.67
+H2460,Bemina,830.0,2,1.0,1,30.0,4.2,Yes,Furnished,42.34
+H2461,Sanat Nagar,1532.0,3,2.0,1,2.0,24.9,Yes,Semi-Furnished,72.31
+H2462,Rajbagh,1131.0,2,1.0,1,1.0,20.2,Yes,Unfurnished,68.35
+H2463,Soura,820.0,2,1.0,2,4.0,6.0,Yes,Semi-Furnished,39.3
+H2464,Sanat Nagar,842.0,1,,2,,24.3,No,,36.16
+H2465,Budgam Road,1245.0,3,2.0,1,5.0,3.1,No,Semi-Furnished,55.42
+H2466,Hyderpora,537.0,2,2.0,1,25.0,4.1,No,Unfurnished,29.41
+H2467,Pantha Chowk,799.0,1,1.0,3,25.0,1.4,Yes,Semi-Furnished,35.72
+H2468,Jawahar Nagar,650.0,1,1.0,3,29.0,15.2,No,Unfurnished,35.49
+H2469,Jawahar Nagar,1595.0,3,2.0,2,25.0,10.7,Yes,Unfurnished,80.81
+H2470,Bemina,1712.0,2,1.0,1,21.0,3.1,Yes,Furnished,78.4
+H2471,Rajbagh,2544.0,4,3.0,2,33.0,12.8,Yes,Furnished,163.73
+H2472,Hyderpora,721.0,2,2.0,3,29.0,22.1,Yes,Semi-Furnished,33.31
+H2473,Nowgam,1147.0,2,2.0,2,11.0,3.2,Yes,Semi-Furnished,50.3
+H2474,Nowgam,1975.0,5,4.0,2,7.0,16.3,Yes,Unfurnished,79.96
+H2475,Jawahar Nagar,1387.0,3,2.0,2,30.0,5.0,No,Furnished,82.8
+H2476,Jawahar Nagar,1330.0,3,3.0,3,16.0,13.3,Yes,Unfurnished,78.6
+H2477,Nowgam,2389.0,5,4.0,2,10.0,9.2,Yes,Semi-Furnished,97.97
+H2478,Nowgam,1324.0,3,3.0,1,11.0,7.6,Yes,Unfurnished,56.17
+H2479,Pantha Chowk,899.0,1,1.0,2,12.0,1.3,Yes,Unfurnished,38.87
+H2480,Pantha Chowk,815.0,1,1.0,3,2.0,14.9,Yes,Semi-Furnished,34.36
+H2481,Bemina,1675.0,3,3.0,1,26.0,11.6,No,Semi-Furnished,72.95
+H2482,Jawahar Nagar,1659.0,2,1.0,1,17.0,17.6,Yes,Furnished,89.55
+H2483,Sanat Nagar,787.0,2,1.0,1,15.0,5.4,No,Semi-Furnished,41.15
+H2484,Budgam Road,988.0,2,,1,,24.6,No,,32.2
+H2485,Hyderpora,1778.0,3,3.0,1,39.0,1.5,Yes,Semi-Furnished,87.68
+H2486,Pantha Chowk,1800.0,4,4.0,2,29.0,5.7,Yes,Unfurnished,60.53
+H2487,Nowgam,1166.0,2,2.0,2,12.0,16.4,Yes,Unfurnished,41.26
+H2488,Nowgam,1824.0,3,2.0,2,6.0,4.2,Yes,Semi-Furnished,76.85
+H2489,Rajbagh,1797.0,3,3.0,2,9.0,7.3,Yes,Unfurnished,119.92
+H2490,Nowgam,573.0,1,1.0,2,17.0,13.0,Yes,Unfurnished,21.73
+H2491,Bemina,1338.0,3,2.0,2,35.0,19.2,Yes,Unfurnished,49.67
+H2492,Budgam Road,1716.0,3,2.0,1,31.0,21.7,Yes,Unfurnished,45.73
+H2493,Jawahar Nagar,1202.0,3,3.0,2,34.0,8.6,Yes,Semi-Furnished,81.16
+H2494,Jawahar Nagar,450.0,1,1.0,2,18.0,16.8,Yes,Unfurnished,28.67
+H2495,Nowgam,1353.0,3,2.0,2,6.0,1.6,No,Semi-Furnished,61.58
+H2496,Soura,1891.0,3,3.0,2,8.0,22.4,Yes,Unfurnished,64.28
+H2497,Budgam Road,2322.0,3,3.0,2,13.0,17.1,Yes,Unfurnished,71.78
+H2498,Hyderpora,450.0,1,1.0,2,3.0,22.7,Yes,Furnished,25.87
+H2499,Bemina,2859.0,5,5.0,1,20.0,6.0,No,Unfurnished,111.34
+H2500,Sanat Nagar,914.0,2,1.0,2,0.0,12.9,No,Unfurnished,45.53
+H2501,Bemina,1998.0,4,3.0,2,2.0,18.8,Yes,Unfurnished,80.92
+H2502,Nowgam,2142.0,5,4.0,2,26.0,1.6,Yes,Semi-Furnished,90.29
+H2503,Hyderpora,2011.0,4,4.0,2,14.0,21.2,No,Unfurnished,80.92
+H2504,Sanat Nagar,1578.0,3,2.0,2,37.0,18.0,Yes,Furnished,75.26
+H2505,Jawahar Nagar,896.0,2,2.0,2,30.0,19.9,Yes,Unfurnished,42.17
+H2506,Soura,1826.0,3,3.0,2,11.0,4.9,No,Semi-Furnished,71.68
+H2507,Sanat Nagar,1128.0,2,1.0,1,30.0,19.6,No,Semi-Furnished,45.86
+H2508,Jawahar Nagar,450.0,1,1.0,1,25.0,14.6,Yes,Furnished,29.74
+H2509,Sanat Nagar,2971.0,5,5.0,1,5.0,4.6,Yes,Furnished,156.6
+H2510,Budgam Road,1868.0,4,3.0,2,23.0,4.2,No,Unfurnished,57.6
+H2511,Hyderpora,2445.0,6,5.0,2,12.0,21.6,Yes,Semi-Furnished,110.89
+H2512,Nowgam,1026.0,2,1.0,2,2.0,10.6,Yes,Unfurnished,46.24
+H2513,Rajbagh,2263.0,4,4.0,1,10.0,7.5,No,Semi-Furnished,139.61
+H2514,Bemina,2327.0,4,3.0,1,8.0,9.8,Yes,Semi-Furnished,101.74
+H2515,Soura,2308.0,3,2.0,1,27.0,17.4,Yes,Unfurnished,69.47
+H2516,Soura,1489.0,3,2.0,2,16.0,4.3,No,Semi-Furnished,57.53
+H2517,Nowgam,875.0,2,2.0,2,5.0,4.9,Yes,Unfurnished,41.76
+H2518,Budgam Road,1408.0,3,2.0,1,17.0,16.6,Yes,Semi-Furnished,44.69
+H2519,Sanat Nagar,450.0,2,1.0,1,39.0,22.5,Yes,Unfurnished,14.06
+H2520,Jawahar Nagar,615.0,3,3.0,3,29.0,17.1,Yes,Semi-Furnished,47.37
+H2521,Rajbagh,1548.0,2,2.0,2,4.0,23.7,Yes,Furnished,105.17
+H2522,Jawahar Nagar,984.0,2,1.0,3,8.0,7.8,Yes,Semi-Furnished,69.43
+H2523,Soura,1414.0,3,2.0,1,21.0,9.5,Yes,Furnished,55.19
+H2524,Pantha Chowk,1443.0,3,3.0,1,,9.9,Yes,Furnished,61.17
+H2525,Jawahar Nagar,2504.0,5,5.0,2,28.0,9.6,No,Semi-Furnished,144.86
+H2526,Hyderpora,2175.0,4,3.0,3,12.0,7.4,No,Furnished,101.27
+H2527,Jawahar Nagar,1477.0,4,4.0,1,37.0,20.0,No,Semi-Furnished,80.93
+H2528,Budgam Road,2129.0,4,4.0,3,12.0,7.8,Yes,Semi-Furnished,81.86
+H2529,Jawahar Nagar,1095.0,2,1.0,2,24.0,11.0,Yes,Semi-Furnished,70.28
+H2530,Nowgam,1325.0,3,3.0,3,21.0,12.3,Yes,Semi-Furnished,54.95
+H2531,Rajbagh,1973.0,4,3.0,3,34.0,24.9,Yes,Furnished,121.02
+H2532,Soura,854.0,2,2.0,2,14.0,8.9,No,Unfurnished,33.64
+H2533,Pantha Chowk,1355.0,3,2.0,3,21.0,17.6,Yes,Unfurnished,48.89
+H2534,Soura,813.0,3,3.0,1,33.0,8.9,No,Semi-Furnished,33.33
+H2535,Sanat Nagar,1561.0,3,2.0,2,8.0,20.2,Yes,Semi-Furnished,76.87
+H2536,Budgam Road,2349.0,4,4.0,2,19.0,10.3,Yes,Semi-Furnished,78.07
+H2537,Sanat Nagar,1109.0,2,2.0,1,16.0,1.5,No,Unfurnished,54.97
+H2538,Soura,1617.0,3,2.0,2,9.0,13.6,No,Unfurnished,55.25
+H2539,Budgam Road,1033.0,1,1.0,2,24.0,9.1,Yes,Semi-Furnished,28.73
+H2540,Hyderpora,902.0,2,1.0,1,0.0,7.4,No,Furnished,54.09
+H2541,Nowgam,857.0,2,1.0,2,21.0,8.0,Yes,Semi-Furnished,37.16
+H2542,Budgam Road,2256.0,3,3.0,2,36.0,1.0,Yes,Unfurnished,70.74
+H2543,Jawahar Nagar,2728.0,5,4.0,1,31.0,18.5,Yes,Semi-Furnished,149.52
+H2544,Rajbagh,1751.0,4,4.0,2,26.0,14.1,No,Unfurnished,101.57
+H2545,Bemina,1128.0,2,1.0,1,21.0,16.3,Yes,Unfurnished,44.14
+H2546,Jawahar Nagar,1867.0,3,3.0,2,36.0,14.7,No,Unfurnished,87.91
+H2547,Budgam Road,1326.0,3,3.0,2,15.0,10.1,Yes,Semi-Furnished,51.38
+H2548,Budgam Road,1917.0,3,3.0,2,7.0,12.0,Yes,Unfurnished,65.3
+H2549,Bemina,1651.0,2,1.0,3,20.0,12.4,Yes,Furnished,73.11
+H2550,Sanat Nagar,1645.0,2,1.0,3,22.0,23.0,Yes,Unfurnished,61.24
+H2551,Soura,1816.0,3,3.0,2,20.0,9.4,Yes,Semi-Furnished,67.75
+H2552,Hyderpora,1199.0,3,2.0,1,27.0,4.7,No,Unfurnished,50.55
+H2553,Rajbagh,1290.0,3,2.0,1,0.0,3.0,No,Unfurnished,89.7
+H2554,Nowgam,605.0,1,1.0,2,10.0,9.1,Yes,Semi-Furnished,31.39
+H2555,Soura,1270.0,2,2.0,2,13.0,14.7,No,Unfurnished,45.49
+H2556,Rajbagh,760.0,1,1.0,2,25.0,15.0,Yes,Unfurnished,41.29
+H2557,Soura,1425.0,2,1.0,2,22.0,18.5,Yes,Semi-Furnished,46.36
+H2558,Hyderpora,1002.0,2,2.0,2,36.0,16.8,Yes,Furnished,43.09
+H2559,Budgam Road,1553.0,2,1.0,3,28.0,3.0,Yes,Unfurnished,51.27
+H2560,Budgam Road,1736.0,3,2.0,2,15.0,10.4,Yes,Unfurnished,55.83
+H2561,Soura,762.0,2,2.0,2,17.0,9.9,Yes,Furnished,34.77
+H2562,Bemina,1077.0,2,2.0,2,34.0,3.7,No,Semi-Furnished,41.61
+H2563,Bemina,1009.0,2,1.0,2,29.0,15.1,No,Furnished,40.2
+H2564,Soura,1888.0,3,3.0,2,1.0,19.6,No,Unfurnished,61.96
+H2565,Rajbagh,2387.0,3,3.0,3,20.0,2.0,Yes,Semi-Furnished,146.51
+H2566,Sanat Nagar,1943.0,3,2.0,2,9.0,13.7,No,Semi-Furnished,95.72
+H2567,Hyderpora,1318.0,3,3.0,2,14.0,3.9,No,Semi-Furnished,63.92
+H2568,Pantha Chowk,2262.0,5,5.0,1,34.0,19.6,Yes,Semi-Furnished,72.87
+H2569,Soura,713.0,1,1.0,2,9.0,14.4,No,Unfurnished,27.22
+H2570,Budgam Road,2280.0,5,5.0,3,18.0,2.6,Yes,Unfurnished,78.25
+H2571,Jawahar Nagar,1159.0,2,1.0,3,31.0,13.4,Yes,Unfurnished,61.31
+H2572,Sanat Nagar,450.0,2,1.0,3,31.0,6.8,Yes,Unfurnished,27.06
+H2573,Sanat Nagar,2878.0,6,5.0,2,36.0,6.0,Yes,Unfurnished,131.48
+H2574,Soura,2321.0,4,4.0,2,27.0,17.0,Yes,Furnished,83.33
+H2575,Hyderpora,963.0,2,1.0,3,29.0,10.7,Yes,Unfurnished,44.35
+H2576,Jawahar Nagar,1588.0,2,2.0,2,16.0,23.3,No,Semi-Furnished,89.66
+H2577,Soura,1388.0,2,2.0,1,8.0,23.0,Yes,Furnished,48.94
+H2578,Nowgam,1553.0,2,2.0,1,27.0,21.5,No,Unfurnished,47.13
+H2579,Pantha Chowk,729.0,1,1.0,2,28.0,10.8,Yes,Unfurnished,25.36
+H2580,Nowgam,1146.0,2,2.0,2,30.0,22.7,Yes,Unfurnished,36.72
+H2581,Jawahar Nagar,1743.0,3,3.0,2,20.0,2.7,Yes,Semi-Furnished,106.17
+H2582,Budgam Road,1616.0,3,3.0,2,3.0,19.6,Yes,Furnished,60.48
+H2583,Jawahar Nagar,2124.0,5,5.0,2,36.0,9.6,No,Unfurnished,122.87
+H2584,Rajbagh,1541.0,3,2.0,2,27.0,21.8,Yes,Semi-Furnished,83.33
+H2585,Budgam Road,2722.0,5,5.0,2,0.0,1.7,Yes,Unfurnished,98.56
+H2586,Hyderpora,1128.0,3,3.0,2,7.0,14.8,No,Unfurnished,56.17
+H2587,Nowgam,1635.0,4,4.0,1,30.0,2.7,Yes,Semi-Furnished,67.32
+H2588,Jawahar Nagar,504.0,1,1.0,2,27.0,8.1,Yes,Unfurnished,32.98
+H2589,Soura,848.0,1,1.0,2,18.0,14.6,No,Semi-Furnished,30.67
+H2590,Bemina,2191.0,4,4.0,2,16.0,4.3,No,Unfurnished,96.92
+H2591,Pantha Chowk,1010.0,2,2.0,1,34.0,17.7,Yes,Semi-Furnished,33.68
+H2592,Nowgam,1776.0,3,2.0,1,25.0,13.3,No,Unfurnished,55.36
+H2593,Pantha Chowk,1468.0,4,3.0,2,24.0,6.4,Yes,Unfurnished,57.5
+H2594,Budgam Road,957.0,1,1.0,1,6.0,13.9,No,Unfurnished,31.94
+H2595,Budgam Road,1319.0,3,3.0,2,0.0,11.7,No,Semi-Furnished,54.13
+H2596,Rajbagh,1233.0,2,1.0,1,31.0,1.8,No,Semi-Furnished,70.58
+H2597,Soura,1247.0,3,2.0,2,27.0,18.0,Yes,Unfurnished,43.91
+H2598,Nowgam,1892.0,3,2.0,2,37.0,18.2,No,Furnished,67.46
+H2599,Bemina,1839.0,4,4.0,3,21.0,22.8,Yes,Unfurnished,71.43
+H2600,Sanat Nagar,1200.0,2,2.0,1,27.0,23.6,No,Semi-Furnished,51.09
+H2601,Nowgam,1028.0,1,,1,,9.9,Yes,,38.1
+H2602,Jawahar Nagar,1647.0,2,1.0,2,18.0,16.4,No,Unfurnished,78.6
+H2603,Jawahar Nagar,1448.0,2,2.0,2,4.0,15.6,No,Semi-Furnished,88.08
+H2604,Budgam Road,2035.0,3,2.0,1,4.0,2.3,Yes,Semi-Furnished,72.12
+H2605,Soura,2881.0,6,5.0,2,15.0,18.4,Yes,Unfurnished,102.2
+H2606,Nowgam,1938.0,4,3.0,2,3.0,7.5,Yes,Unfurnished,78.01
+H2607,Soura,1482.0,3,2.0,1,22.0,11.2,No,Furnished,56.32
+H2608,Sanat Nagar,1411.0,2,1.0,2,10.0,15.9,Yes,Semi-Furnished,69.84
+H2609,Soura,1055.0,2,2.0,2,19.0,13.1,No,Unfurnished,36.96
+H2610,Jawahar Nagar,1029.0,1,1.0,1,28.0,7.7,Yes,Unfurnished,57.06
+H2611,Hyderpora,978.0,3,3.0,1,0.0,22.0,Yes,Semi-Furnished,54.83
+H2612,Jawahar Nagar,1294.0,3,2.0,3,17.0,3.3,No,Unfurnished,78.04
+H2613,Bemina,1278.0,3,3.0,1,5.0,15.5,Yes,Unfurnished,61.23
+H2614,Bemina,1887.0,3,3.0,3,4.0,5.4,Yes,Furnished,99.21
+H2615,Bemina,1293.0,1,1.0,2,27.0,23.2,Yes,Semi-Furnished,46.15
+H2616,Hyderpora,1397.0,2,2.0,2,19.0,23.5,No,Unfurnished,56.11
+H2617,Rajbagh,866.0,1,1.0,3,21.0,18.1,Yes,Semi-Furnished,55.04
+H2618,Bemina,2355.0,5,5.0,1,30.0,22.2,Yes,Unfurnished,96.01
+H2619,Budgam Road,1764.0,3,2.0,2,29.0,19.4,Yes,Semi-Furnished,51.42
+H2620,Bemina,2430.0,4,3.0,2,3.0,16.7,Yes,Semi-Furnished,109.03
+H2621,Hyderpora,1914.0,3,2.0,1,16.0,18.9,Yes,Unfurnished,77.43
+H2622,Rajbagh,2275.0,5,4.0,3,20.0,22.9,Yes,Furnished,145.72
+H2623,Bemina,1371.0,2,2.0,1,10.0,6.2,Yes,Unfurnished,61.93
+H2624,Pantha Chowk,1873.0,3,2.0,3,22.0,18.5,Yes,Semi-Furnished,62.65
+H2625,Hyderpora,2907.0,5,4.0,1,31.0,5.3,Yes,Unfurnished,132.69
+H2626,Rajbagh,864.0,1,1.0,2,28.0,12.1,No,Semi-Furnished,49.17
+H2627,Soura,2112.0,4,4.0,1,8.0,9.2,Yes,Unfurnished,78.02
+H2628,Soura,2383.0,5,4.0,2,25.0,16.2,Yes,Furnished,94.97
+H2629,Bemina,1719.0,4,3.0,3,2.0,16.3,No,Unfurnished,78.16
+H2630,Rajbagh,1898.0,2,2.0,2,7.0,22.7,Yes,Semi-Furnished,116.45
+H2631,Budgam Road,2165.0,4,4.0,1,14.0,21.2,No,Semi-Furnished,72.44
+H2632,Sanat Nagar,1151.0,2,1.0,1,21.0,2.6,Yes,Semi-Furnished,59.07
+H2633,Pantha Chowk,1717.0,3,2.0,2,18.0,5.2,Yes,Semi-Furnished,64.78
+H2634,Bemina,1038.0,2,1.0,2,9.0,2.1,Yes,Unfurnished,45.88
+H2635,Bemina,1141.0,2,2.0,1,8.0,18.0,No,Semi-Furnished,45.92
+H2636,Budgam Road,1172.0,3,3.0,3,13.0,9.3,Yes,Semi-Furnished,50.77
+H2637,Jawahar Nagar,1424.0,2,2.0,2,38.0,24.4,No,Furnished,69.4
+H2638,Rajbagh,1578.0,3,2.0,3,17.0,6.1,Yes,Unfurnished,108.43
+H2639,Soura,1741.0,3,2.0,1,9.0,24.0,No,Unfurnished,59.78
+H2640,Pantha Chowk,746.0,1,1.0,1,25.0,19.2,Yes,Semi-Furnished,21.44
+H2641,Pantha Chowk,2554.0,5,4.0,2,4.0,19.3,No,Semi-Furnished,91.07
+H2642,Jawahar Nagar,2115.0,4,4.0,2,2.0,15.6,Yes,Unfurnished,144.24
+H2643,Jawahar Nagar,1887.0,3,,1,,22.2,No,,89.21
+H2644,Bemina,1309.0,2,1.0,1,0.0,6.6,Yes,Furnished,68.32
+H2645,Soura,1453.0,3,3.0,1,5.0,21.9,Yes,Semi-Furnished,54.59
+H2646,Pantha Chowk,1792.0,3,3.0,2,11.0,22.1,Yes,Semi-Furnished,62.34
+H2647,Budgam Road,1719.0,3,3.0,2,11.0,15.6,Yes,Semi-Furnished,60.2
+H2648,Bemina,605.0,1,1.0,2,24.0,16.9,Yes,Unfurnished,23.76
+H2649,Pantha Chowk,1895.0,4,3.0,3,16.0,6.5,No,Semi-Furnished,73.47
+H2650,Sanat Nagar,3054.0,5,5.0,2,24.0,12.8,Yes,Unfurnished,130.61
+H2651,Jawahar Nagar,515.0,1,1.0,2,10.0,15.1,Yes,Semi-Furnished,37.78
+H2652,Bemina,2030.0,4,3.0,2,8.0,8.6,Yes,Unfurnished,86.44
+H2653,Rajbagh,1697.0,3,3.0,2,26.0,2.0,Yes,Furnished,120.9
+H2654,Soura,1441.0,2,1.0,2,3.0,23.8,No,Unfurnished,46.7
+H2655,Pantha Chowk,2232.0,5,5.0,2,5.0,20.3,No,Semi-Furnished,78.32
+H2656,Rajbagh,869.0,2,2.0,2,19.0,9.8,Yes,Unfurnished,58.59
+H2657,Jawahar Nagar,1587.0,3,3.0,1,25.0,13.8,Yes,Semi-Furnished,90.11
+H2658,Jawahar Nagar,2281.0,5,,2,,15.2,Yes,,127.32
+H2659,Jawahar Nagar,1395.0,3,2.0,3,4.0,24.0,No,Unfurnished,82.91
+H2660,Hyderpora,1277.0,2,2.0,2,35.0,14.4,No,Unfurnished,44.48
+H2661,Nowgam,1561.0,4,4.0,1,23.0,18.4,Yes,Unfurnished,60.48
+H2662,Pantha Chowk,1262.0,2,1.0,2,23.0,20.3,Yes,Semi-Furnished,42.13
+H2663,Hyderpora,2326.0,4,4.0,2,39.0,3.4,No,Semi-Furnished,98.75
+H2664,Pantha Chowk,1015.0,2,1.0,1,28.0,15.0,No,Furnished,35.82
+H2665,Soura,1966.0,3,2.0,3,31.0,23.3,Yes,Unfurnished,63.01
+H2666,Budgam Road,831.0,1,1.0,3,4.0,20.8,No,Semi-Furnished,27.27
+H2667,Jawahar Nagar,1858.0,4,3.0,1,37.0,23.1,No,Furnished,103.13
+H2668,Hyderpora,1444.0,4,3.0,2,35.0,4.9,No,Unfurnished,66.21
+H2669,Pantha Chowk,450.0,1,1.0,1,21.0,19.7,Yes,Unfurnished,13.59
+H2670,Soura,1497.0,3,2.0,1,22.0,7.7,Yes,Semi-Furnished,58.13
+H2671,Jawahar Nagar,930.0,2,2.0,1,6.0,22.0,Yes,Unfurnished,56.99
+H2672,Budgam Road,1262.0,2,1.0,1,,19.8,Yes,Semi-Furnished,39.64
+H2673,Soura,2322.0,4,4.0,2,14.0,10.0,No,Semi-Furnished,76.47
+H2674,Jawahar Nagar,903.0,2,1.0,2,18.0,14.9,Yes,Furnished,60.19
+H2675,Rajbagh,933.0,2,1.0,2,31.0,12.3,No,Semi-Furnished,51.79
+H2676,Sanat Nagar,2270.0,4,3.0,2,34.0,23.6,Yes,Semi-Furnished,89.89
+H2677,Hyderpora,1562.0,4,3.0,2,5.0,14.3,No,Unfurnished,71.58
+H2678,Jawahar Nagar,2324.0,5,5.0,1,22.0,2.9,Yes,Furnished,138.82
+H2679,Rajbagh,1673.0,3,2.0,1,26.0,13.9,No,Unfurnished,87.91
+H2680,Rajbagh,1028.0,2,2.0,2,2.0,1.5,Yes,Furnished,93.39
+H2681,Sanat Nagar,1465.0,2,2.0,2,12.0,4.3,Yes,Semi-Furnished,66.01
+H2682,Bemina,2157.0,4,3.0,2,36.0,12.8,Yes,Semi-Furnished,91.18
+H2683,Sanat Nagar,2003.0,4,4.0,1,36.0,12.1,Yes,Unfurnished,84.33
+H2684,Hyderpora,1500.0,2,1.0,1,29.0,2.7,Yes,Unfurnished,61.88
+H2685,Soura,1526.0,3,2.0,3,14.0,9.2,No,Semi-Furnished,55.67
+H2686,Sanat Nagar,1440.0,2,1.0,2,9.0,7.9,No,Unfurnished,68.13
+H2687,Hyderpora,1191.0,3,2.0,1,12.0,7.9,No,Furnished,63.17
+H2688,Soura,2533.0,6,5.0,2,21.0,11.6,Yes,Furnished,98.9
+H2689,Rajbagh,1504.0,3,2.0,1,10.0,1.8,No,Unfurnished,88.99
+H2690,Pantha Chowk,895.0,2,1.0,2,16.0,1.8,No,Unfurnished,34.51
+H2691,Pantha Chowk,1245.0,2,1.0,2,21.0,6.6,No,Semi-Furnished,46.73
+H2692,Sanat Nagar,1888.0,4,3.0,2,28.0,18.2,Yes,Semi-Furnished,82.6
+H2693,Budgam Road,1843.0,4,3.0,1,38.0,23.5,Yes,Unfurnished,54.2
+H2694,Sanat Nagar,1427.0,3,3.0,3,2.0,19.1,Yes,Furnished,81.82
+H2695,Pantha Chowk,1143.0,2,1.0,3,21.0,2.8,Yes,Furnished,43.29
+H2696,Nowgam,1513.0,3,2.0,3,23.0,20.8,Yes,Semi-Furnished,59.72
+H2697,Sanat Nagar,605.0,1,1.0,2,29.0,20.7,Yes,Furnished,25.58
+H2698,Rajbagh,804.0,2,2.0,1,6.0,21.3,No,Furnished,61.51
+H2699,Bemina,1927.0,3,3.0,3,20.0,18.5,Yes,Unfurnished,83.64
+H2700,Soura,1244.0,3,2.0,2,4.0,7.3,Yes,Furnished,56.84
+H2701,Sanat Nagar,1700.0,3,3.0,2,3.0,12.9,Yes,Furnished,93.01
+H2702,Hyderpora,2151.0,5,5.0,2,10.0,11.6,No,Semi-Furnished,99.0
+H2703,Jawahar Nagar,1847.0,3,3.0,1,23.0,1.8,No,Unfurnished,97.07
+H2704,Bemina,1511.0,3,2.0,3,18.0,14.0,Yes,Furnished,74.59
+H2705,Rajbagh,2638.0,4,3.0,2,23.0,7.4,Yes,Semi-Furnished,158.2
+H2706,Pantha Chowk,1857.0,4,4.0,1,18.0,23.9,No,Unfurnished,57.82
+H2707,Hyderpora,1310.0,2,,2,,17.0,Yes,,52.08
+H2708,Budgam Road,1891.0,4,4.0,1,26.0,20.4,Yes,Furnished,68.68
+H2709,Jawahar Nagar,1718.0,3,2.0,2,11.0,1.8,Yes,Unfurnished,110.85
+H2710,Jawahar Nagar,1042.0,2,1.0,3,7.0,18.1,Yes,Furnished,70.21
+H2711,Jawahar Nagar,1539.0,2,1.0,2,10.0,20.3,No,Semi-Furnished,82.51
+H2712,Nowgam,1412.0,3,3.0,2,36.0,12.1,No,Semi-Furnished,52.46
+H2713,Budgam Road,450.0,1,1.0,2,13.0,7.1,Yes,Furnished,25.28
+H2714,Nowgam,1408.0,3,3.0,1,37.0,12.7,Yes,Unfurnished,44.69
+H2715,Hyderpora,1349.0,1,1.0,1,1.0,14.2,No,Unfurnished,52.88
+H2716,Pantha Chowk,1266.0,2,1.0,2,32.0,11.4,Yes,Unfurnished,40.67
+H2717,Jawahar Nagar,621.0,1,1.0,1,6.0,8.6,Yes,Semi-Furnished,46.76
+H2718,Jawahar Nagar,1310.0,3,2.0,2,3.0,17.0,Yes,Unfurnished,85.85
+H2719,Soura,1479.0,2,1.0,2,11.0,22.4,Yes,Furnished,56.69
+H2720,Budgam Road,1554.0,3,3.0,2,4.0,7.4,Yes,Semi-Furnished,66.96
+H2721,Sanat Nagar,893.0,1,1.0,1,20.0,22.2,Yes,Semi-Furnished,35.15
+H2722,Sanat Nagar,1838.0,2,2.0,1,28.0,2.3,Yes,Unfurnished,83.55
+H2723,Hyderpora,850.0,1,1.0,2,36.0,17.5,Yes,Unfurnished,29.58
+H2724,Budgam Road,1380.0,3,3.0,3,21.0,9.3,Yes,Semi-Furnished,54.83
+H2725,Sanat Nagar,2198.0,4,4.0,2,28.0,13.6,Yes,Furnished,111.15
+H2726,Budgam Road,1130.0,3,3.0,2,27.0,9.5,No,Furnished,45.6
+H2727,Hyderpora,1227.0,2,2.0,2,20.0,2.9,No,Furnished,60.96
+H2728,Soura,2074.0,4,3.0,1,,5.0,Yes,Unfurnished,71.18
+H2729,Nowgam,1295.0,2,1.0,2,28.0,24.7,No,Semi-Furnished,39.64
+H2730,Hyderpora,1341.0,3,3.0,1,6.0,11.0,Yes,Semi-Furnished,69.04
+H2731,Hyderpora,1618.0,4,3.0,2,17.0,23.8,Yes,Semi-Furnished,72.45
+H2732,Pantha Chowk,2061.0,4,3.0,2,26.0,13.5,Yes,Semi-Furnished,68.93
+H2733,Bemina,450.0,1,1.0,1,1.0,22.6,No,Unfurnished,21.71
+H2734,Pantha Chowk,1057.0,2,1.0,2,5.0,11.7,No,Unfurnished,39.03
+H2735,Budgam Road,962.0,1,1.0,2,27.0,24.8,No,Semi-Furnished,26.65
+H2736,Jawahar Nagar,921.0,3,3.0,1,18.0,12.5,Yes,Unfurnished,58.01
+H2737,Budgam Road,1044.0,1,1.0,3,28.0,7.2,Yes,Furnished,34.18
+H2738,Bemina,1052.0,1,1.0,1,10.0,5.2,No,Unfurnished,43.68
+H2739,Jawahar Nagar,1661.0,3,2.0,3,26.0,2.7,No,Unfurnished,94.02
+H2740,Sanat Nagar,1026.0,2,1.0,1,39.0,3.6,Yes,Semi-Furnished,49.77
+H2741,Jawahar Nagar,1565.0,4,3.0,2,34.0,17.4,Yes,Furnished,101.18
+H2742,Bemina,1714.0,2,1.0,3,12.0,9.7,No,Semi-Furnished,76.45
+H2743,Jawahar Nagar,1111.0,2,2.0,2,31.0,22.0,Yes,Unfurnished,59.38
+H2744,Hyderpora,1570.0,3,2.0,2,36.0,5.7,Yes,Furnished,77.95
+H2745,Pantha Chowk,2372.0,4,4.0,1,33.0,23.4,Yes,Semi-Furnished,77.11
+H2746,Pantha Chowk,1672.0,3,2.0,2,27.0,5.6,No,Semi-Furnished,56.23
+H2747,Pantha Chowk,1160.0,2,2.0,2,1.0,7.5,Yes,Semi-Furnished,51.06
+H2748,Sanat Nagar,1465.0,4,4.0,1,28.0,9.2,Yes,Semi-Furnished,74.65
+H2749,Sanat Nagar,1012.0,1,1.0,2,39.0,7.3,Yes,Semi-Furnished,42.31
+H2750,Soura,1644.0,2,1.0,3,13.0,11.0,Yes,Semi-Furnished,62.05
+H2751,Pantha Chowk,1959.0,4,4.0,2,23.0,20.3,Yes,Unfurnished,65.87
+H2752,Budgam Road,1064.0,3,2.0,1,12.0,2.7,Yes,Semi-Furnished,46.92
+H2753,Jawahar Nagar,1389.0,2,1.0,2,23.0,6.9,Yes,Furnished,84.38
+H2754,Soura,2091.0,2,2.0,2,12.0,2.3,Yes,Unfurnished,77.78
+H2755,Hyderpora,1236.0,3,2.0,3,24.0,19.6,Yes,Unfurnished,54.34
+H2756,Bemina,1600.0,3,3.0,2,17.0,3.9,No,Unfurnished,69.13
+H2757,Hyderpora,956.0,2,2.0,1,10.0,13.2,No,Furnished,47.9
+H2758,Hyderpora,1065.0,2,2.0,1,28.0,21.8,Yes,Semi-Furnished,40.94
+H2759,Pantha Chowk,1228.0,2,2.0,1,12.0,8.6,Yes,Unfurnished,41.78
+H2760,Budgam Road,2632.0,5,5.0,3,21.0,3.8,Yes,Furnished,108.33
+H2761,Rajbagh,1287.0,3,3.0,2,35.0,7.4,Yes,Furnished,82.08
+H2762,Soura,1224.0,3,3.0,1,36.0,23.6,Yes,Semi-Furnished,41.25
+H2763,Sanat Nagar,1207.0,1,1.0,3,24.0,3.3,Yes,Unfurnished,55.77
+H2764,Bemina,1414.0,2,1.0,1,33.0,21.7,No,Semi-Furnished,47.1
+H2765,Nowgam,1841.0,4,4.0,2,38.0,3.9,Yes,Semi-Furnished,72.77
+H2766,Pantha Chowk,1599.0,3,3.0,3,10.0,4.9,No,Furnished,65.96
+H2767,Rajbagh,2570.0,4,4.0,3,8.0,19.5,Yes,Furnished,175.22
+H2768,Hyderpora,1611.0,3,3.0,1,10.0,16.3,Yes,Unfurnished,73.88
+H2769,Sanat Nagar,2253.0,4,3.0,2,23.0,8.7,Yes,Furnished,114.92
+H2770,Pantha Chowk,1644.0,3,2.0,1,4.0,17.9,No,Unfurnished,50.65
+H2771,Hyderpora,1815.0,3,2.0,2,24.0,4.6,Yes,Unfurnished,72.92
+H2772,Budgam Road,749.0,1,1.0,1,11.0,22.1,Yes,Semi-Furnished,26.42
+H2773,Budgam Road,1434.0,2,2.0,1,1.0,14.8,Yes,Unfurnished,46.34
+H2774,Rajbagh,1464.0,3,2.0,1,0.0,23.7,Yes,Unfurnished,80.34
+H2775,Soura,1374.0,2,1.0,1,25.0,15.3,No,Unfurnished,43.8
+H2776,Budgam Road,450.0,1,1.0,2,17.0,14.7,Yes,Furnished,17.61
+H2777,Budgam Road,1958.0,3,3.0,1,15.0,21.6,No,Semi-Furnished,63.56
+H2778,Pantha Chowk,1299.0,3,2.0,2,14.0,15.0,Yes,Unfurnished,48.66
+H2779,Soura,1272.0,3,3.0,1,17.0,3.1,Yes,Semi-Furnished,54.96
+H2780,Budgam Road,1367.0,2,1.0,2,23.0,15.7,Yes,Unfurnished,43.32
+H2781,Soura,1381.0,3,2.0,1,7.0,8.0,Yes,Furnished,55.81
+H2782,Sanat Nagar,1712.0,3,3.0,2,39.0,16.3,Yes,Unfurnished,67.17
+H2783,Budgam Road,839.0,2,1.0,2,23.0,25.0,Yes,Unfurnished,23.85
+H2784,Soura,1016.0,2,,1,,15.6,Yes,,39.59
+H2785,Soura,1651.0,4,4.0,2,26.0,21.0,Yes,Semi-Furnished,60.32
+H2786,Pantha Chowk,1576.0,4,3.0,1,15.0,9.5,Yes,Semi-Furnished,63.14
+H2787,Soura,1304.0,2,1.0,1,35.0,1.3,Yes,Unfurnished,42.51
+H2788,Bemina,1202.0,2,1.0,1,37.0,2.1,Yes,Unfurnished,43.02
+H2789,Sanat Nagar,1066.0,2,1.0,3,33.0,1.4,Yes,Furnished,59.16
+H2790,Sanat Nagar,1470.0,3,3.0,1,28.0,6.2,Yes,Furnished,77.19
+H2791,Jawahar Nagar,2114.0,4,4.0,1,39.0,7.5,No,Unfurnished,116.1
+H2792,Rajbagh,950.0,1,1.0,3,16.0,8.7,Yes,Semi-Furnished,70.12
+H2793,Soura,2292.0,3,2.0,1,39.0,16.7,Yes,Semi-Furnished,72.94
+H2794,Budgam Road,1939.0,4,3.0,1,10.0,19.0,Yes,Unfurnished,65.2
+H2795,Jawahar Nagar,1264.0,3,2.0,1,28.0,19.5,Yes,Unfurnished,63.62
+H2796,Bemina,1907.0,4,4.0,2,34.0,19.0,Yes,Unfurnished,78.49
+H2797,Pantha Chowk,738.0,1,1.0,1,11.0,21.5,No,Furnished,25.91
+H2798,Budgam Road,600.0,2,1.0,3,25.0,18.3,No,Semi-Furnished,21.08
+H2799,Nowgam,829.0,1,,1,,12.0,Yes,,31.17
+H2800,Pantha Chowk,1287.0,3,2.0,2,33.0,10.9,No,Unfurnished,39.39
+H2801,Sanat Nagar,1331.0,3,2.0,2,3.0,3.0,Yes,Semi-Furnished,79.62
+H2802,Budgam Road,1232.0,2,2.0,2,20.0,1.3,Yes,Furnished,51.24
+H2803,Pantha Chowk,1552.0,2,1.0,2,22.0,21.6,No,Unfurnished,47.88
+H2804,Nowgam,450.0,1,1.0,2,16.0,4.6,Yes,Semi-Furnished,22.7
+H2805,Jawahar Nagar,1758.0,3,2.0,1,12.0,21.7,No,Unfurnished,89.98
+H2806,Sanat Nagar,762.0,1,1.0,3,29.0,10.6,Yes,Unfurnished,38.52
+H2807,Hyderpora,1156.0,2,1.0,2,21.0,2.4,Yes,Semi-Furnished,56.61
+H2808,Sanat Nagar,1285.0,2,1.0,2,33.0,20.9,No,Unfurnished,46.33
+H2809,Rajbagh,899.0,2,2.0,2,30.0,18.1,No,Semi-Furnished,55.49
+H2810,Jawahar Nagar,787.0,2,2.0,3,33.0,24.9,Yes,Semi-Furnished,46.58
+H2811,Pantha Chowk,977.0,1,1.0,1,2.0,14.0,Yes,Unfurnished,35.25
+H2812,Bemina,1494.0,3,2.0,1,28.0,23.3,No,Furnished,56.81
+H2813,Nowgam,1807.0,3,3.0,3,35.0,13.2,Yes,Semi-Furnished,65.66
+H2814,Bemina,1793.0,4,4.0,2,31.0,7.3,No,Semi-Furnished,77.3
+H2815,Budgam Road,983.0,2,1.0,2,1.0,10.6,Yes,Semi-Furnished,38.38
+H2816,Rajbagh,1088.0,1,1.0,2,0.0,16.8,No,Unfurnished,61.3
+H2817,Sanat Nagar,1021.0,2,2.0,2,19.0,22.4,Yes,Semi-Furnished,47.81
+H2818,Nowgam,1734.0,3,3.0,2,32.0,20.6,Yes,Semi-Furnished,62.15
+H2819,Budgam Road,450.0,1,1.0,2,8.0,23.3,Yes,Semi-Furnished,17.26
+H2820,Hyderpora,2144.0,4,3.0,1,19.0,13.9,Yes,Semi-Furnished,97.15
+H2821,Soura,1248.0,3,2.0,2,1.0,12.1,Yes,Unfurnished,47.4
+H2822,Budgam Road,1093.0,2,1.0,1,17.0,13.6,Yes,Furnished,41.03
+H2823,Nowgam,1677.0,3,3.0,3,19.0,23.4,No,Semi-Furnished,61.68
+H2824,Budgam Road,2037.0,2,1.0,1,15.0,9.8,Yes,Unfurnished,60.41
+H2825,Pantha Chowk,1678.0,3,3.0,2,10.0,2.4,Yes,Semi-Furnished,66.73
+H2826,Jawahar Nagar,2047.0,3,3.0,2,27.0,10.4,No,Furnished,122.52
+H2827,Bemina,1570.0,2,2.0,1,3.0,16.6,Yes,Semi-Furnished,69.11
+H2828,Sanat Nagar,2139.0,4,3.0,2,31.0,21.0,No,Unfurnished,85.84
+H2829,Bemina,2147.0,4,3.0,2,32.0,23.6,Yes,Unfurnished,83.13
+H2830,Rajbagh,1448.0,2,2.0,1,4.0,17.5,Yes,Semi-Furnished,95.36
+H2831,Soura,2248.0,4,3.0,3,9.0,20.5,No,Furnished,82.38
+H2832,Sanat Nagar,1586.0,2,2.0,2,20.0,20.5,Yes,Semi-Furnished,70.26
+H2833,Budgam Road,1545.0,3,2.0,2,37.0,20.4,No,Semi-Furnished,42.74
+H2834,Soura,1021.0,1,1.0,3,36.0,15.4,No,Unfurnished,28.99
+H2835,Bemina,1350.0,2,2.0,1,24.0,23.7,No,Unfurnished,47.79
+H2836,Hyderpora,9000.0,5,4.0,1,2.0,22.4,Yes,Furnished,102.69
+H2837,Soura,817.0,2,1.0,3,14.0,1.2,Yes,Unfurnished,37.21
+H2838,Bemina,1838.0,4,4.0,1,20.0,3.9,Yes,Semi-Furnished,86.99
+H2839,Jawahar Nagar,1681.0,3,3.0,2,2.0,24.8,Yes,Semi-Furnished,98.04
+H2840,Rajbagh,1644.0,2,2.0,1,17.0,17.0,Yes,Semi-Furnished,96.48
+H2841,Hyderpora,450.0,1,1.0,2,34.0,4.4,No,Semi-Furnished,21.69
+H2842,Hyderpora,1446.0,3,3.0,2,1.0,22.9,Yes,Semi-Furnished,71.04
+H2843,Soura,1837.0,3,3.0,2,4.0,3.1,Yes,Unfurnished,71.14
+H2844,Jawahar Nagar,1103.0,2,2.0,2,30.0,13.9,Yes,Semi-Furnished,60.93
+H2845,Rajbagh,1547.0,4,3.0,2,31.0,10.3,Yes,Semi-Furnished,101.23
+H2846,Soura,450.0,1,1.0,2,38.0,7.9,Yes,Unfurnished,15.58
+H2847,Soura,1849.0,2,2.0,2,21.0,6.7,Yes,Furnished,72.56
+H2848,Budgam Road,1156.0,2,1.0,1,13.0,3.1,Yes,Semi-Furnished,43.04
+H2849,Rajbagh,1953.0,3,2.0,3,18.0,10.1,No,Furnished,126.44
+H2850,Nowgam,542.0,2,1.0,2,13.0,3.4,Yes,Furnished,35.48
+H2851,Pantha Chowk,1860.0,4,3.0,1,,16.0,No,Unfurnished,64.42
+H2852,Soura,1377.0,3,3.0,1,35.0,8.7,Yes,Unfurnished,49.74
+H2853,Hyderpora,1920.0,3,2.0,2,16.0,19.4,Yes,Furnished,85.68
+H2854,Hyderpora,1019.0,1,1.0,2,15.0,23.5,No,Unfurnished,37.05
+H2855,Bemina,1178.0,2,1.0,2,0.0,22.3,Yes,Furnished,50.28
+H2856,Rajbagh,2666.0,5,5.0,1,13.0,18.7,Yes,Furnished,172.76
+H2857,Soura,1068.0,1,1.0,2,30.0,19.7,Yes,Semi-Furnished,30.73
+H2858,Hyderpora,1133.0,2,2.0,1,0.0,3.2,Yes,Semi-Furnished,64.0
+H2859,Hyderpora,1356.0,3,2.0,2,28.0,24.3,No,Semi-Furnished,48.77
+H2860,Pantha Chowk,968.0,2,1.0,2,13.0,14.8,Yes,Furnished,37.11
+H2861,Soura,2119.0,3,2.0,1,5.0,14.0,Yes,Semi-Furnished,77.23
+H2862,Pantha Chowk,2397.0,3,3.0,2,16.0,17.2,No,Unfurnished,75.33
+H2863,Rajbagh,1134.0,2,1.0,2,20.0,5.5,Yes,Semi-Furnished,69.09
+H2864,Pantha Chowk,602.0,1,1.0,3,30.0,12.3,Yes,Unfurnished,20.15
+H2865,Nowgam,2109.0,4,4.0,1,7.0,3.9,Yes,Unfurnished,95.78
+H2866,Bemina,2076.0,4,3.0,2,32.0,23.0,Yes,Unfurnished,81.0
+H2867,Nowgam,1927.0,3,3.0,3,28.0,13.0,Yes,Furnished,78.12
+H2868,Rajbagh,2101.0,4,4.0,1,26.0,4.2,No,Semi-Furnished,112.09
+H2869,Pantha Chowk,1049.0,2,1.0,3,7.0,24.3,Yes,Unfurnished,33.93
+H2870,Nowgam,1412.0,3,3.0,2,7.0,14.9,No,Furnished,63.25
+H2871,Rajbagh,780.0,1,1.0,1,6.0,19.1,Yes,Semi-Furnished,49.78
+H2872,Pantha Chowk,763.0,1,1.0,3,28.0,20.3,Yes,Unfurnished,23.04
+H2873,Hyderpora,2010.0,4,3.0,2,11.0,17.7,Yes,Unfurnished,92.5
+H2874,Jawahar Nagar,1151.0,1,1.0,1,30.0,11.6,Yes,Semi-Furnished,60.98
+H2875,Nowgam,2685.0,4,4.0,1,38.0,7.7,Yes,Unfurnished,97.12
+H2876,Rajbagh,1539.0,3,2.0,2,33.0,2.2,Yes,Semi-Furnished,89.54
+H2877,Hyderpora,1167.0,3,2.0,2,32.0,16.0,Yes,Unfurnished,55.28
+H2878,Soura,1915.0,4,3.0,1,24.0,3.6,Yes,Semi-Furnished,72.51
+H2879,Rajbagh,2437.0,5,4.0,2,16.0,9.9,No,Unfurnished,137.79
+H2880,Budgam Road,1753.0,3,3.0,1,12.0,22.4,Yes,Unfurnished,59.12
+H2881,Nowgam,867.0,1,1.0,2,31.0,22.7,No,Semi-Furnished,26.35
+H2882,Sanat Nagar,1693.0,2,1.0,2,23.0,20.7,Yes,Furnished,79.25
+H2883,Jawahar Nagar,2215.0,4,3.0,2,14.0,5.6,Yes,Semi-Furnished,134.16
+H2884,Rajbagh,1244.0,3,3.0,3,16.0,23.6,Yes,Unfurnished,76.34
+H2885,Jawahar Nagar,1098.0,2,1.0,1,7.0,4.4,No,Unfurnished,70.53
+H2886,Sanat Nagar,2029.0,4,3.0,3,4.0,23.0,Yes,Semi-Furnished,94.2
+H2887,Budgam Road,1573.0,3,3.0,2,35.0,19.0,Yes,Furnished,52.35
+H2888,Hyderpora,927.0,2,1.0,2,39.0,24.3,Yes,Unfurnished,30.5
+H2889,Jawahar Nagar,1303.0,2,2.0,1,1.0,24.6,Yes,Semi-Furnished,75.7
+H2890,Soura,1107.0,2,1.0,2,5.0,13.6,Yes,Unfurnished,40.29
+H2891,Hyderpora,1654.0,3,3.0,2,31.0,8.5,No,Furnished,72.7
+H2892,Budgam Road,1557.0,3,3.0,2,16.0,23.0,Yes,Unfurnished,50.61
+H2893,Soura,2098.0,4,3.0,3,38.0,8.5,Yes,Unfurnished,72.0
+H2894,Pantha Chowk,1869.0,3,3.0,2,36.0,9.0,Yes,Unfurnished,64.16
+H2895,Soura,687.0,1,1.0,1,3.0,14.7,Yes,Semi-Furnished,28.76
+H2896,Rajbagh,1712.0,3,2.0,3,20.0,4.4,Yes,Unfurnished,102.49
+H2897,Hyderpora,1966.0,3,2.0,2,34.0,11.9,Yes,Furnished,82.05
+H2898,Bemina,1737.0,4,4.0,2,2.0,4.3,Yes,Furnished,95.35
+H2899,Budgam Road,2036.0,2,1.0,2,31.0,11.9,No,Semi-Furnished,58.9
+H2900,Jawahar Nagar,1214.0,2,2.0,1,11.0,22.8,Yes,Unfurnished,72.12
+H2901,Hyderpora,1006.0,3,2.0,1,1.0,23.1,Yes,Unfurnished,53.61
+H2902,Budgam Road,1984.0,3,2.0,1,26.0,24.0,No,Furnished,65.34
+H2903,Nowgam,946.0,1,1.0,2,17.0,18.4,Yes,Semi-Furnished,33.09
+H2904,Rajbagh,450.0,1,1.0,3,8.0,18.9,No,Semi-Furnished,31.16
+H2905,Budgam Road,2033.0,4,4.0,2,10.0,11.3,No,Furnished,75.13
+H2906,Bemina,1123.0,2,1.0,2,29.0,22.5,Yes,Semi-Furnished,40.02
+H2907,Soura,1341.0,3,2.0,1,15.0,4.2,No,Semi-Furnished,56.53
+H2908,Nowgam,773.0,1,1.0,1,34.0,5.0,No,Unfurnished,26.78
+H2909,Nowgam,811.0,1,1.0,2,15.0,3.8,Yes,Unfurnished,34.21
+H2910,Bemina,899.0,4,3.0,1,2.0,10.8,Yes,Unfurnished,51.12
+H2911,Bemina,1312.0,2,2.0,1,15.0,2.4,Yes,Unfurnished,62.88
+H2912,Rajbagh,1692.0,3,3.0,1,6.0,17.9,Yes,Unfurnished,96.73
+H2913,Nowgam,450.0,1,1.0,1,0.0,5.4,Yes,Furnished,30.09
+H2914,Sanat Nagar,1891.0,4,4.0,2,36.0,17.5,Yes,Unfurnished,77.19
+H2915,Bemina,885.0,2,2.0,2,10.0,14.5,Yes,Semi-Furnished,43.94
+H2916,Jawahar Nagar,946.0,2,2.0,2,39.0,17.6,Yes,Semi-Furnished,48.46
+H2917,Soura,1852.0,3,2.0,3,11.0,17.9,No,Furnished,69.75
+H2918,Pantha Chowk,1461.0,2,1.0,1,39.0,19.9,Yes,Furnished,44.69
+H2919,Bemina,701.0,2,1.0,3,25.0,12.5,Yes,Semi-Furnished,35.73
+H2920,Bemina,2459.0,4,3.0,2,5.0,14.7,Yes,Semi-Furnished,111.75
+H2921,Hyderpora,1052.0,2,2.0,2,27.0,7.0,Yes,Semi-Furnished,49.94
+H2922,Rajbagh,1629.0,2,1.0,3,0.0,13.0,Yes,Semi-Furnished,98.22
+H2923,Soura,1604.0,3,2.0,2,30.0,3.1,No,Semi-Furnished,55.83
+H2924,Budgam Road,2234.0,4,3.0,1,17.0,23.9,Yes,Furnished,74.48
+H2925,Hyderpora,1263.0,2,2.0,1,25.0,23.3,Yes,Unfurnished,47.38
+H2926,Rajbagh,2024.0,3,3.0,1,3.0,2.8,Yes,Semi-Furnished,130.62
+H2927,Bemina,1114.0,2,1.0,2,35.0,1.3,Yes,Unfurnished,49.42
+H2928,Jawahar Nagar,2084.0,4,4.0,2,6.0,10.5,No,Unfurnished,127.35
+H2929,Budgam Road,1103.0,1,1.0,2,22.0,13.6,No,Semi-Furnished,33.76
+H2930,Budgam Road,1312.0,2,1.0,1,2.0,12.5,Yes,Semi-Furnished,46.34
+H2931,Bemina,2486.0,4,4.0,1,12.0,9.1,Yes,Semi-Furnished,109.01
+H2932,Bemina,1665.0,4,4.0,2,37.0,15.9,Yes,Unfurnished,67.35
+H2933,Budgam Road,1557.0,1,1.0,2,1.0,10.6,Yes,Semi-Furnished,54.27
+H2934,Rajbagh,2666.0,5,5.0,2,1.0,10.7,Yes,Semi-Furnished,162.53
+H2935,Budgam Road,1688.0,2,1.0,1,29.0,1.8,Yes,Unfurnished,51.53
+H2936,Pantha Chowk,1076.0,2,2.0,1,15.0,15.2,Yes,Semi-Furnished,36.05
+H2937,Hyderpora,1882.0,4,4.0,2,22.0,3.0,Yes,Semi-Furnished,94.65
+H2938,Soura,886.0,1,1.0,2,27.0,21.6,Yes,Semi-Furnished,27.93
+H2939,Soura,2087.0,4,3.0,1,6.0,12.5,No,Semi-Furnished,72.58
+H2940,Pantha Chowk,2127.0,3,3.0,3,24.0,9.5,No,Unfurnished,69.0
+H2941,Rajbagh,1202.0,3,3.0,1,20.0,16.9,No,Semi-Furnished,72.29
+H2942,Soura,1173.0,3,2.0,1,14.0,22.3,Yes,Semi-Furnished,41.52
+H2943,Bemina,1592.0,4,4.0,2,37.0,5.0,Yes,Semi-Furnished,81.2
+H2944,Budgam Road,1507.0,2,2.0,2,3.0,10.6,Yes,Semi-Furnished,58.02
+H2945,Budgam Road,992.0,1,,2,,24.4,No,,27.54
+H2946,Sanat Nagar,1795.0,4,4.0,2,2.0,21.7,No,Unfurnished,82.14
+H2947,Nowgam,450.0,1,1.0,3,12.0,10.4,Yes,Furnished,26.33
+H2948,Hyderpora,1275.0,2,2.0,2,15.0,9.7,Yes,Furnished,65.08
+H2949,Nowgam,1290.0,3,2.0,1,32.0,20.6,Yes,Unfurnished,43.78
+H2950,Budgam Road,1358.0,2,1.0,2,29.0,3.0,No,Unfurnished,40.67
+H2951,Nowgam,1660.0,3,3.0,2,15.0,3.8,No,Furnished,72.05
+H2952,Soura,861.0,2,1.0,1,33.0,14.7,No,Semi-Furnished,26.97
+H2953,Soura,1806.0,4,4.0,1,0.0,14.6,Yes,Unfurnished,64.32
+H2954,Sanat Nagar,1406.0,2,1.0,2,28.0,14.7,Yes,Furnished,70.66
+H2955,Nowgam,1162.0,2,2.0,3,3.0,19.4,No,Unfurnished,46.45
+H2956,Bemina,789.0,1,1.0,3,13.0,22.2,Yes,Furnished,34.05
+H2957,Bemina,885.0,2,1.0,2,38.0,10.6,No,Unfurnished,30.59
+H2958,Jawahar Nagar,1687.0,4,4.0,2,5.0,8.8,Yes,Furnished,118.61
+H2959,Jawahar Nagar,999.0,2,1.0,2,3.0,21.4,Yes,Unfurnished,56.41
+H2960,Bemina,1533.0,3,2.0,3,3.0,6.9,Yes,Furnished,78.37
+H2961,Sanat Nagar,2052.0,4,,2,,22.0,Yes,,79.69
+H2962,Nowgam,2037.0,2,1.0,3,18.0,18.0,No,Unfurnished,62.9
+H2963,Sanat Nagar,2311.0,5,4.0,2,1.0,21.3,Yes,Unfurnished,109.68
+H2964,Sanat Nagar,1346.0,2,1.0,1,16.0,16.3,No,Semi-Furnished,60.13
+H2965,Bemina,936.0,2,2.0,2,16.0,3.5,Yes,Unfurnished,42.27
+H2966,Nowgam,2031.0,4,4.0,1,4.0,18.2,Yes,Semi-Furnished,82.42
+H2967,Pantha Chowk,1661.0,2,1.0,2,11.0,12.9,Yes,Semi-Furnished,55.32
+H2968,Hyderpora,2084.0,3,2.0,2,17.0,5.4,Yes,Semi-Furnished,91.52
+H2969,Bemina,1506.0,3,3.0,2,13.0,3.5,Yes,Semi-Furnished,73.61
+H2970,Sanat Nagar,2122.0,5,4.0,1,22.0,7.3,No,Semi-Furnished,100.16
+H2971,Hyderpora,1940.0,3,2.0,2,3.0,4.0,Yes,Unfurnished,93.72
+H2972,Pantha Chowk,1873.0,3,2.0,2,16.0,4.3,No,Semi-Furnished,69.34
+H2973,Bemina,1762.0,4,3.0,2,16.0,21.2,Yes,Semi-Furnished,75.82
+H2974,Sanat Nagar,1707.0,3,2.0,2,34.0,23.8,Yes,Unfurnished,65.16
+H2975,Nowgam,1621.0,4,4.0,2,30.0,24.9,No,Semi-Furnished,63.43
+H2976,Soura,1617.0,3,3.0,2,27.0,14.4,Yes,Unfurnished,60.26
+H2977,Pantha Chowk,2015.0,3,2.0,2,20.0,14.6,No,Semi-Furnished,67.53
+H2978,Sanat Nagar,1234.0,3,2.0,3,32.0,2.4,Yes,Unfurnished,61.48
+H2979,Pantha Chowk,2403.0,5,4.0,1,5.0,3.8,Yes,Semi-Furnished,98.37
+H2980,Budgam Road,1445.0,2,1.0,3,29.0,19.5,Yes,Semi-Furnished,47.15
+H2981,Bemina,2012.0,5,5.0,2,32.0,14.7,No,Unfurnished,79.45
+H2982,Bemina,1453.0,2,1.0,1,30.0,14.6,Yes,Semi-Furnished,60.93
+H2983,Sanat Nagar,1372.0,3,3.0,2,34.0,19.1,No,Unfurnished,56.2
+H2984,Sanat Nagar,2557.0,4,3.0,2,32.0,20.5,Yes,Unfurnished,110.88
+H2985,Budgam Road,1339.0,1,1.0,2,18.0,18.0,Yes,Semi-Furnished,40.45
+H2986,Sanat Nagar,836.0,2,1.0,2,36.0,1.3,Yes,Semi-Furnished,43.86
+H2987,Hyderpora,1129.0,3,2.0,2,14.0,14.1,No,Semi-Furnished,53.81
+H2988,Pantha Chowk,1335.0,4,3.0,2,9.0,21.1,Yes,Furnished,55.48
+H2989,Soura,2621.0,6,5.0,2,0.0,20.7,No,Unfurnished,96.62
+H2990,Jawahar Nagar,1608.0,3,3.0,1,1.0,23.8,Yes,Unfurnished,88.0
+H2991,Rajbagh,1986.0,3,3.0,1,2.0,13.5,Yes,Unfurnished,118.0
+H2992,Sanat Nagar,979.0,1,1.0,2,3.0,13.5,Yes,Unfurnished,49.53
+H2993,Budgam Road,1683.0,3,2.0,3,15.0,1.6,Yes,Semi-Furnished,62.29
+H2994,Sanat Nagar,1849.0,3,2.0,1,12.0,13.3,Yes,Semi-Furnished,97.21
+H2995,Sanat Nagar,2437.0,4,4.0,3,4.0,14.5,No,Semi-Furnished,108.88
+H2996,Hyderpora,1138.0,1,1.0,2,23.0,23.0,No,Semi-Furnished,47.35
+H2997,Hyderpora,1814.0,3,2.0,2,38.0,22.2,Yes,Unfurnished,65.26
+H2998,Rajbagh,1657.0,3,3.0,1,1.0,2.5,Yes,Semi-Furnished,123.75
+H2999,Jawahar Nagar,969.0,3,2.0,2,25.0,4.4,No,Furnished,75.1
+H3000,Pantha Chowk,1490.0,3,3.0,2,32.0,10.2,No,Furnished,56.05
+H3001,Bemina,1363.0,2,1.0,2,12.0,19.7,No,Unfurnished,47.84
+H3002,Sanat Nagar,450.0,1,1.0,1,15.0,5.0,Yes,Unfurnished,27.55
+H3003,Budgam Road,1811.0,3,2.0,1,23.0,19.6,No,Semi-Furnished,55.14
+H3004,Hyderpora,1781.0,3,2.0,2,11.0,15.2,Yes,Semi-Furnished,84.36
+H3005,Budgam Road,1272.0,1,1.0,1,6.0,22.1,Yes,Semi-Furnished,41.98
+H3006,Jawahar Nagar,804.0,2,2.0,3,32.0,9.2,Yes,Unfurnished,52.58
+H3007,Hyderpora,2270.0,4,3.0,2,36.0,10.7,Yes,Furnished,112.33
+H3008,Budgam Road,1638.0,2,1.0,3,32.0,2.4,No,Semi-Furnished,50.5
+H3009,Soura,2029.0,4,4.0,1,20.0,13.4,Yes,Furnished,83.64
+H3010,Soura,2233.0,5,4.0,2,34.0,19.6,Yes,Semi-Furnished,71.72
+H3011,Hyderpora,1229.0,3,3.0,1,27.0,13.3,No,Unfurnished,53.03
+H3012,Budgam Road,1922.0,4,4.0,1,27.0,13.5,Yes,Furnished,66.13
+H3013,Bemina,1375.0,2,2.0,2,7.0,23.0,No,Semi-Furnished,51.47
+H3014,Nowgam,1467.0,2,1.0,2,2.0,19.4,No,Unfurnished,53.85
+H3015,Hyderpora,1455.0,3,3.0,2,18.0,8.5,Yes,Unfurnished,68.55
+H3016,Sanat Nagar,1499.0,3,2.0,2,7.0,23.7,Yes,Semi-Furnished,75.46
+H3017,Jawahar Nagar,2079.0,3,2.0,1,28.0,18.4,Yes,Semi-Furnished,102.2
+H3018,Hyderpora,1564.0,2,2.0,2,24.0,8.2,Yes,Unfurnished,62.91
+H3019,Sanat Nagar,1420.0,3,2.0,1,15.0,6.1,Yes,Furnished,78.06
+H3020,Hyderpora,1356.0,2,2.0,1,20.0,17.2,Yes,Unfurnished,53.67
+H3021,Soura,1677.0,4,4.0,2,2.0,13.2,Yes,Furnished,74.55
+H3022,Budgam Road,1035.0,2,2.0,2,20.0,15.4,Yes,Semi-Furnished,35.47
+H3023,Soura,1239.0,3,,2,,4.1,Yes,,51.2
+H3024,Hyderpora,1473.0,4,4.0,3,4.0,19.4,Yes,Unfurnished,69.11
+H3025,Rajbagh,1206.0,3,2.0,3,32.0,21.7,Yes,Semi-Furnished,74.52
+H3026,Jawahar Nagar,1438.0,3,2.0,1,20.0,11.1,Yes,Unfurnished,81.3
+H3027,Soura,1182.0,2,1.0,3,18.0,8.3,Yes,Semi-Furnished,43.52
+H3028,Nowgam,2542.0,4,4.0,2,28.0,24.4,Yes,Furnished,99.09
+H3029,Budgam Road,2191.0,4,3.0,2,39.0,24.4,Yes,Semi-Furnished,67.9
+H3030,Hyderpora,1734.0,4,4.0,1,19.0,4.0,No,Furnished,90.61
+H3031,Hyderpora,1472.0,4,3.0,2,22.0,14.0,Yes,Semi-Furnished,72.66
+H3032,Sanat Nagar,2639.0,6,5.0,2,27.0,11.5,Yes,Unfurnished,120.13
+H3033,Rajbagh,1668.0,3,3.0,1,35.0,7.7,Yes,Semi-Furnished,100.32
+H3034,Jawahar Nagar,1455.0,3,2.0,2,14.0,13.5,Yes,Furnished,85.3
+H3035,Soura,1658.0,4,3.0,1,1.0,17.0,Yes,Semi-Furnished,61.07
+H3036,Nowgam,1659.0,3,3.0,2,27.0,9.8,Yes,Unfurnished,57.97
+H3037,Sanat Nagar,2233.0,4,4.0,2,25.0,8.4,Yes,Semi-Furnished,110.76
+H3038,Bemina,1490.0,2,2.0,2,5.0,21.7,Yes,Furnished,71.71
+H3039,Nowgam,2592.0,5,5.0,1,20.0,16.8,Yes,Semi-Furnished,99.42
+H3040,Bemina,1041.0,1,1.0,2,23.0,8.3,No,Semi-Furnished,42.75
+H3041,Bemina,1861.0,4,3.0,2,14.0,4.7,Yes,Semi-Furnished,93.83
+H3042,Sanat Nagar,979.0,1,1.0,2,4.0,10.2,Yes,Semi-Furnished,51.58
+H3043,Nowgam,2445.0,5,5.0,2,36.0,23.5,Yes,Unfurnished,87.15
+H3044,Pantha Chowk,1328.0,2,1.0,2,25.0,20.9,Yes,Semi-Furnished,42.82
+H3045,Sanat Nagar,1470.0,3,3.0,2,3.0,6.0,Yes,Semi-Furnished,77.68
+H3046,Sanat Nagar,1981.0,3,3.0,1,3.0,15.5,Yes,Unfurnished,93.1
+H3047,Hyderpora,2153.0,4,3.0,2,19.0,1.1,Yes,Furnished,111.78
+H3048,Jawahar Nagar,922.0,2,1.0,3,34.0,22.8,Yes,Furnished,46.51
+H3049,Hyderpora,1320.0,2,2.0,3,12.0,23.6,Yes,Unfurnished,52.78
+H3050,Budgam Road,775.0,1,1.0,2,8.0,6.2,Yes,Furnished,32.02
+H3051,Nowgam,1571.0,3,3.0,2,38.0,9.2,Yes,Semi-Furnished,64.09
+H3052,Jawahar Nagar,1447.0,1,1.0,3,25.0,8.2,No,Unfurnished,82.32
+H3053,Jawahar Nagar,1319.0,3,3.0,2,31.0,5.5,Yes,Unfurnished,82.7
+H3054,Rajbagh,1144.0,2,1.0,1,13.0,17.4,Yes,Unfurnished,70.27
+H3055,Pantha Chowk,1299.0,2,2.0,2,8.0,10.0,No,Semi-Furnished,45.54
+H3056,Bemina,1112.0,2,2.0,3,4.0,1.1,Yes,Unfurnished,62.15
+H3057,Sanat Nagar,1775.0,3,2.0,2,5.0,6.3,No,Semi-Furnished,97.67
+H3058,Budgam Road,2288.0,4,3.0,2,21.0,16.9,Yes,Furnished,86.74
+H3059,Sanat Nagar,496.0,1,1.0,1,0.0,17.8,Yes,Unfurnished,26.71
+H3060,Sanat Nagar,1440.0,2,2.0,3,20.0,1.4,Yes,Unfurnished,75.2
+H3061,Sanat Nagar,1283.0,4,4.0,3,7.0,14.2,Yes,Semi-Furnished,75.36
+H3062,Bemina,1756.0,2,2.0,2,30.0,16.3,No,Unfurnished,65.63
+H3063,Rajbagh,1005.0,2,1.0,3,37.0,16.3,Yes,Unfurnished,50.94
+H3064,Nowgam,1424.0,3,2.0,1,31.0,16.6,Yes,Unfurnished,48.71
+H3065,Bemina,959.0,1,1.0,2,34.0,19.7,Yes,Furnished,34.43
+H3066,Pantha Chowk,1862.0,2,2.0,1,34.0,9.0,No,Semi-Furnished,59.54
+H3067,Soura,1552.0,3,3.0,2,31.0,21.4,Yes,Semi-Furnished,52.53
+H3068,Bemina,1416.0,2,1.0,3,19.0,11.6,Yes,Furnished,68.45
+H3069,Soura,1692.0,3,2.0,3,16.0,2.5,No,Unfurnished,63.9
+H3070,Budgam Road,1372.0,3,3.0,1,18.0,16.6,Yes,Unfurnished,46.61
+H3071,Jawahar Nagar,692.0,1,1.0,2,19.0,9.2,No,Unfurnished,41.36
+H3072,Jawahar Nagar,1810.0,3,3.0,2,7.0,16.2,Yes,Semi-Furnished,109.68
+H3073,Jawahar Nagar,1650.0,1,1.0,1,23.0,10.0,Yes,Semi-Furnished,88.83
+H3074,Rajbagh,1420.0,3,2.0,3,3.0,12.9,Yes,Furnished,108.38
+H3075,Sanat Nagar,2012.0,3,3.0,2,32.0,14.3,Yes,Semi-Furnished,91.36
+H3076,Budgam Road,2134.0,4,3.0,1,3.0,18.0,No,Unfurnished,68.65
+H3077,Soura,932.0,2,2.0,2,0.0,8.1,Yes,Semi-Furnished,43.71
+H3078,Bemina,1094.0,1,1.0,2,35.0,17.1,Yes,Semi-Furnished,39.13
+H3079,Hyderpora,2305.0,5,5.0,3,7.0,6.6,Yes,Unfurnished,108.05
+H3080,Soura,2238.0,5,5.0,1,2.0,20.0,No,Unfurnished,71.47
+H3081,Pantha Chowk,1116.0,3,3.0,2,23.0,6.6,Yes,Semi-Furnished,47.71
+H3082,Sanat Nagar,886.0,1,1.0,1,1.0,2.7,Yes,Semi-Furnished,54.06
+H3083,Nowgam,1168.0,2,2.0,3,5.0,1.9,Yes,Semi-Furnished,53.56
+H3084,Nowgam,1241.0,2,2.0,1,16.0,15.4,No,Unfurnished,47.84
+H3085,Nowgam,676.0,1,1.0,3,37.0,8.8,Yes,Unfurnished,22.87
+H3086,Budgam Road,1516.0,2,1.0,2,34.0,14.8,Yes,Semi-Furnished,48.06
+H3087,Soura,834.0,2,1.0,2,1.0,8.5,No,Semi-Furnished,38.0
+H3088,Bemina,871.0,2,2.0,2,13.0,11.5,Yes,Semi-Furnished,45.11
+H3089,Soura,1976.0,4,4.0,2,38.0,21.9,Yes,Semi-Furnished,70.73
+H3090,Rajbagh,1145.0,2,1.0,2,5.0,23.2,No,Unfurnished,66.5
+H3091,Bemina,1463.0,3,3.0,1,8.0,2.0,Yes,Semi-Furnished,74.46
+H3092,Jawahar Nagar,1827.0,3,3.0,1,32.0,23.8,Yes,Semi-Furnished,90.76
+H3093,Sanat Nagar,1923.0,2,2.0,1,7.0,13.1,No,Semi-Furnished,81.68
+H3094,Pantha Chowk,1325.0,2,1.0,1,5.0,18.8,No,Semi-Furnished,45.24
+H3095,Bemina,1523.0,3,3.0,2,16.0,23.3,Yes,Unfurnished,66.32
+H3096,Rajbagh,1071.0,3,3.0,2,35.0,5.5,Yes,Unfurnished,72.61
+H3097,Hyderpora,2409.0,4,4.0,2,25.0,10.2,No,Semi-Furnished,105.34
+H3098,Rajbagh,1838.0,3,,2,,22.3,Yes,,95.55
+H3099,Jawahar Nagar,926.0,1,1.0,3,39.0,13.5,Yes,Unfurnished,46.55
+H3100,Bemina,1502.0,3,2.0,3,24.0,22.5,Yes,Semi-Furnished,67.12
+H3101,Bemina,1871.0,3,2.0,1,19.0,21.1,Yes,Furnished,76.24
+H3102,Sanat Nagar,1749.0,3,3.0,2,38.0,25.0,Yes,Furnished,79.82
+H3103,Nowgam,2451.0,4,3.0,3,35.0,16.9,Yes,Semi-Furnished,89.82
+H3104,Hyderpora,2214.0,4,3.0,1,21.0,2.6,Yes,Unfurnished,94.9
+H3105,Jawahar Nagar,1220.0,2,2.0,2,35.0,22.7,No,Unfurnished,53.16
+H3106,Budgam Road,1454.0,2,1.0,2,17.0,5.4,Yes,Semi-Furnished,54.73
+H3107,Jawahar Nagar,834.0,2,1.0,2,39.0,4.8,Yes,Unfurnished,48.49
+H3108,Bemina,1630.0,3,2.0,2,15.0,9.9,Yes,Unfurnished,69.0
+H3109,Jawahar Nagar,1579.0,3,2.0,2,14.0,6.0,Yes,Semi-Furnished,102.09
+H3110,Pantha Chowk,2906.0,6,5.0,2,14.0,4.3,Yes,Semi-Furnished,115.61
+H3111,Sanat Nagar,1551.0,4,3.0,3,18.0,16.3,No,Furnished,81.5
+H3112,Budgam Road,450.0,1,1.0,2,0.0,22.8,Yes,Unfurnished,19.25
+H3113,Pantha Chowk,1151.0,2,1.0,1,0.0,7.3,Yes,Semi-Furnished,46.56
+H3114,Jawahar Nagar,1558.0,3,3.0,2,21.0,10.0,No,Semi-Furnished,90.05
+H3115,Rajbagh,847.0,1,1.0,2,15.0,16.4,No,Unfurnished,47.02
+H3116,Rajbagh,1049.0,3,3.0,3,38.0,8.2,No,Unfurnished,61.44
+H3117,Jawahar Nagar,1310.0,3,2.0,2,14.0,12.8,Yes,Furnished,87.3
+H3118,Bemina,1678.0,4,3.0,2,22.0,22.9,No,Unfurnished,68.75
+H3119,Jawahar Nagar,1414.0,2,1.0,2,4.0,3.8,Yes,Furnished,107.23
+H3120,Pantha Chowk,1038.0,1,1.0,2,4.0,13.8,Yes,Semi-Furnished,40.6
+H3121,Hyderpora,1910.0,4,3.0,1,33.0,6.1,No,Furnished,90.0
+H3122,Budgam Road,1219.0,2,2.0,2,23.0,19.6,Yes,Furnished,39.86
+H3123,Rajbagh,1240.0,2,1.0,3,11.0,6.0,No,Unfurnished,73.61
+H3124,Jawahar Nagar,783.0,1,1.0,2,35.0,20.5,No,Unfurnished,33.63
+H3125,Hyderpora,1091.0,2,2.0,1,5.0,10.7,Yes,Semi-Furnished,57.24
+H3126,Jawahar Nagar,1839.0,4,3.0,1,28.0,23.3,Yes,Unfurnished,92.98
+H3127,Jawahar Nagar,659.0,1,1.0,3,4.0,9.7,No,Unfurnished,45.42
+H3128,Rajbagh,1463.0,3,3.0,1,3.0,12.8,Yes,Semi-Furnished,108.36
+H3129,Sanat Nagar,1873.0,3,3.0,2,0.0,3.6,Yes,Semi-Furnished,106.27
+H3130,Soura,1304.0,2,2.0,3,23.0,7.7,No,Unfurnished,45.76
+H3131,Budgam Road,1625.0,4,4.0,3,30.0,11.0,No,Furnished,61.27
+H3132,Hyderpora,919.0,2,2.0,2,10.0,22.4,Yes,Semi-Furnished,46.88
+H3133,Jawahar Nagar,2181.0,4,3.0,3,21.0,15.1,Yes,Furnished,138.89
+H3134,Hyderpora,2073.0,3,3.0,2,30.0,20.4,No,Unfurnished,79.25
+H3135,Nowgam,1622.0,3,2.0,3,20.0,21.5,Yes,Furnished,59.02
+H3136,Jawahar Nagar,587.0,1,1.0,2,5.0,3.2,Yes,Semi-Furnished,45.84
+H3137,Bemina,956.0,2,2.0,1,16.0,8.6,Yes,Unfurnished,40.02
+H3138,Budgam Road,2008.0,3,3.0,2,29.0,21.0,Yes,Unfurnished,52.7
+H3139,Bemina,2391.0,4,3.0,1,38.0,19.1,No,Furnished,94.29
+H3140,Hyderpora,1654.0,2,2.0,3,32.0,14.5,Yes,Semi-Furnished,71.01
+H3141,Budgam Road,2149.0,4,4.0,1,15.0,10.7,Yes,Furnished,77.11
+H3142,Soura,1184.0,3,2.0,2,4.0,13.0,No,Unfurnished,46.69
+H3143,Jawahar Nagar,1402.0,3,3.0,1,18.0,1.4,Yes,Unfurnished,91.78
+H3144,Nowgam,1501.0,2,1.0,2,12.0,4.1,Yes,Furnished,64.94
+H3145,Pantha Chowk,1720.0,3,3.0,2,27.0,9.5,Yes,Unfurnished,54.16
+H3146,Jawahar Nagar,705.0,2,2.0,3,9.0,4.4,Yes,Unfurnished,60.99
+H3147,Pantha Chowk,1989.0,3,2.0,1,37.0,6.5,Yes,Unfurnished,66.89
+H3148,Nowgam,2188.0,4,4.0,2,4.0,20.4,Yes,Semi-Furnished,84.92
+H3149,Soura,903.0,3,3.0,3,34.0,19.4,Yes,Unfurnished,35.47
+H3150,Sanat Nagar,795.0,2,1.0,1,9.0,18.5,Yes,Unfurnished,38.52
+H3151,Rajbagh,1682.0,4,3.0,2,35.0,14.6,Yes,Furnished,103.4
+H3152,Rajbagh,1160.0,2,2.0,1,37.0,23.1,Yes,Unfurnished,54.04
+H3153,Nowgam,450.0,1,1.0,2,7.0,6.5,No,Unfurnished,21.77
+H3154,Pantha Chowk,1920.0,2,1.0,3,38.0,15.9,Yes,Unfurnished,54.6
+H3155,Nowgam,1581.0,3,,1,,11.1,No,,55.02
+H3156,Bemina,1252.0,3,2.0,3,12.0,23.6,Yes,Semi-Furnished,59.09
+H3157,Soura,2599.0,6,5.0,2,32.0,9.2,No,Furnished,100.58
+H3158,Pantha Chowk,1572.0,4,4.0,1,3.0,6.7,Yes,Semi-Furnished,62.27
+H3159,Jawahar Nagar,1108.0,2,2.0,3,13.0,19.4,No,Semi-Furnished,67.92
+H3160,Rajbagh,1553.0,3,3.0,2,0.0,20.4,No,Furnished,95.44
+H3161,Pantha Chowk,959.0,1,1.0,1,32.0,18.3,Yes,Furnished,29.5
+H3162,Rajbagh,1104.0,2,1.0,1,8.0,19.8,Yes,Unfurnished,65.26
+H3163,Budgam Road,1701.0,3,2.0,3,38.0,5.6,No,Semi-Furnished,55.43
+H3164,Jawahar Nagar,1212.0,2,2.0,3,26.0,15.5,No,Semi-Furnished,64.46
+H3165,Jawahar Nagar,1265.0,3,2.0,2,29.0,13.9,Yes,Unfurnished,70.52
+H3166,Sanat Nagar,2368.0,4,3.0,2,14.0,22.8,No,Semi-Furnished,103.61
+H3167,Sanat Nagar,1947.0,2,2.0,2,29.0,10.5,Yes,Semi-Furnished,87.04
+H3168,Sanat Nagar,1917.0,3,2.0,2,37.0,6.9,No,Furnished,95.42
+H3169,Rajbagh,1775.0,2,1.0,1,33.0,8.4,Yes,Semi-Furnished,107.09
+H3170,Budgam Road,1752.0,2,2.0,2,0.0,13.3,Yes,Semi-Furnished,67.08
+H3171,Budgam Road,2257.0,5,5.0,3,35.0,24.6,Yes,Unfurnished,67.89
+H3172,Soura,1490.0,3,2.0,2,21.0,17.8,Yes,Unfurnished,48.52
+H3173,Pantha Chowk,2465.0,5,5.0,2,31.0,18.3,Yes,Semi-Furnished,86.01
+H3174,Pantha Chowk,1005.0,3,2.0,3,34.0,12.2,No,Furnished,39.25
+H3175,Pantha Chowk,1367.0,3,2.0,2,3.0,10.5,Yes,Unfurnished,47.1
+H3176,Bemina,783.0,1,1.0,2,21.0,23.4,Yes,Furnished,30.05
+H3177,Nowgam,1321.0,3,3.0,3,8.0,11.8,Yes,Unfurnished,61.42
+H3178,Soura,1770.0,3,3.0,2,16.0,4.0,Yes,Semi-Furnished,65.61
+H3179,Nowgam,2255.0,4,4.0,2,4.0,19.7,Yes,Furnished,91.45
+H3180,Budgam Road,1155.0,2,2.0,1,23.0,5.8,Yes,Semi-Furnished,40.54
+H3181,Soura,1503.0,2,1.0,2,18.0,10.4,Yes,Unfurnished,52.32
+H3182,Bemina,1313.0,2,1.0,2,1.0,15.7,Yes,Unfurnished,56.44
+H3183,Nowgam,1116.0,2,2.0,2,2.0,21.0,Yes,Semi-Furnished,45.67
+H3184,Jawahar Nagar,882.0,2,1.0,2,17.0,1.2,Yes,Semi-Furnished,59.19
+H3185,Pantha Chowk,1532.0,3,2.0,3,22.0,16.6,Yes,Semi-Furnished,56.06
+H3186,Pantha Chowk,599.0,1,1.0,2,25.0,4.3,No,Unfurnished,22.81
+H3187,Nowgam,1557.0,3,3.0,3,36.0,16.1,Yes,Semi-Furnished,56.18
+H3188,Soura,1511.0,4,3.0,2,16.0,15.5,Yes,Furnished,63.0
+H3189,Bemina,1158.0,3,3.0,2,39.0,13.4,Yes,Semi-Furnished,52.06
+H3190,Bemina,974.0,3,2.0,1,38.0,11.2,Yes,Unfurnished,36.82
+H3191,Hyderpora,780.0,1,1.0,2,1.0,14.0,Yes,Semi-Furnished,38.38
+H3192,Sanat Nagar,2473.0,4,4.0,2,8.0,24.0,Yes,Semi-Furnished,110.11
+H3193,Rajbagh,802.0,2,2.0,1,27.0,9.5,Yes,Semi-Furnished,51.29
+H3194,Bemina,2310.0,4,3.0,2,5.0,12.3,Yes,Semi-Furnished,88.06
+H3195,Soura,1812.0,3,3.0,3,5.0,4.5,Yes,Semi-Furnished,72.35
+H3196,Sanat Nagar,1311.0,3,2.0,1,33.0,10.3,No,Furnished,66.42
+H3197,Soura,898.0,2,2.0,2,34.0,2.2,Yes,Unfurnished,34.06
+H3198,Nowgam,2042.0,3,3.0,2,26.0,22.8,No,Semi-Furnished,73.18
+H3199,Bemina,2399.0,5,5.0,2,1.0,9.3,Yes,Unfurnished,93.14
+H3200,Soura,1014.0,3,2.0,1,29.0,23.5,No,Unfurnished,30.69
+H3201,Budgam Road,1345.0,2,2.0,2,4.0,4.2,Yes,Semi-Furnished,56.87
+H3202,Pantha Chowk,2047.0,4,4.0,2,25.0,16.9,No,Unfurnished,70.84
+H3203,Soura,1675.0,3,3.0,3,12.0,15.5,No,Semi-Furnished,60.37
+H3204,Rajbagh,2540.0,4,3.0,2,39.0,16.9,Yes,Semi-Furnished,136.17
+H3205,Bemina,1204.0,2,1.0,2,,20.1,Yes,Semi-Furnished,55.39
+H3206,Hyderpora,1782.0,3,3.0,2,1.0,2.8,Yes,Furnished,92.37
+H3207,Rajbagh,850.0,3,2.0,3,26.0,18.7,Yes,Semi-Furnished,55.53
+H3208,Bemina,2590.0,4,3.0,2,2.0,1.6,Yes,Semi-Furnished,109.77
+H3209,Jawahar Nagar,1120.0,3,2.0,1,8.0,8.2,Yes,Furnished,83.55
+H3210,Hyderpora,450.0,1,1.0,2,38.0,21.3,No,Unfurnished,12.88
+H3211,Jawahar Nagar,1435.0,2,2.0,3,28.0,14.7,Yes,Unfurnished,83.25
+H3212,Sanat Nagar,1427.0,3,3.0,2,9.0,23.3,Yes,Semi-Furnished,71.77
+H3213,Sanat Nagar,2496.0,5,4.0,3,37.0,21.7,Yes,Semi-Furnished,108.73
+H3214,Pantha Chowk,1324.0,3,2.0,1,31.0,11.2,Yes,Unfurnished,43.68
+H3215,Hyderpora,1493.0,2,1.0,2,18.0,7.8,Yes,Furnished,67.79
+H3216,Nowgam,1809.0,4,4.0,2,4.0,5.9,No,Unfurnished,74.02
+H3217,Pantha Chowk,2325.0,4,,1,,2.0,Yes,,80.02
+H3218,Rajbagh,1467.0,4,3.0,2,10.0,18.2,Yes,Semi-Furnished,101.04
+H3219,Sanat Nagar,2041.0,4,4.0,2,39.0,20.3,No,Unfurnished,86.32
+H3220,Bemina,1769.0,3,3.0,2,23.0,2.1,Yes,Semi-Furnished,73.66
+H3221,Pantha Chowk,1346.0,2,2.0,2,12.0,12.8,No,Unfurnished,46.18
+H3222,Soura,1540.0,3,2.0,2,25.0,20.9,Yes,Unfurnished,51.55
+H3223,Soura,1515.0,2,2.0,1,35.0,16.3,Yes,Semi-Furnished,45.57
+H3224,Bemina,1024.0,2,1.0,1,7.0,11.0,Yes,Semi-Furnished,53.8
+H3225,Budgam Road,2131.0,4,4.0,2,28.0,23.8,Yes,Unfurnished,62.48
+H3226,Jawahar Nagar,779.0,2,1.0,2,13.0,11.1,Yes,Semi-Furnished,60.94
+H3227,Bemina,2109.0,3,2.0,1,0.0,8.5,Yes,Semi-Furnished,98.7
+H3228,Bemina,1996.0,3,3.0,1,14.0,12.9,No,Unfurnished,82.21
+H3229,Rajbagh,1452.0,3,3.0,2,11.0,9.3,Yes,Unfurnished,96.06
+H3230,Rajbagh,1102.0,1,1.0,1,9.0,10.4,Yes,Semi-Furnished,73.59
+H3231,Budgam Road,1382.0,1,1.0,3,28.0,12.9,Yes,Semi-Furnished,40.87
+H3232,Pantha Chowk,1746.0,3,3.0,1,30.0,2.9,Yes,Semi-Furnished,61.11
+H3233,Sanat Nagar,1886.0,3,2.0,3,1.0,15.5,No,Furnished,86.6
+H3234,Rajbagh,1649.0,3,3.0,2,29.0,15.0,Yes,Semi-Furnished,101.8
+H3235,Jawahar Nagar,2016.0,4,3.0,2,34.0,18.1,Yes,Unfurnished,102.33
+H3236,Rajbagh,1210.0,2,1.0,2,22.0,6.8,Yes,Semi-Furnished,80.18
+H3237,Budgam Road,1622.0,3,3.0,2,36.0,2.0,Yes,Unfurnished,55.89
+H3238,Rajbagh,684.0,1,1.0,1,15.0,18.0,Yes,Unfurnished,36.35
+H3239,Soura,1897.0,4,4.0,2,30.0,9.9,No,Unfurnished,66.95
+H3240,Budgam Road,1580.0,4,3.0,1,1.0,15.3,No,Unfurnished,55.58
+H3241,Jawahar Nagar,1284.0,2,1.0,1,32.0,7.5,No,Semi-Furnished,70.04
+H3242,Sanat Nagar,2104.0,4,3.0,3,29.0,9.4,Yes,Unfurnished,98.07
+H3243,Sanat Nagar,1860.0,3,3.0,3,23.0,7.3,Yes,Furnished,97.61
+H3244,Soura,450.0,1,1.0,2,11.0,12.8,No,Furnished,21.75
+H3245,Pantha Chowk,1521.0,3,,1,,16.5,No,,54.94
+H3246,Soura,743.0,1,1.0,2,15.0,6.6,Yes,Semi-Furnished,30.08
+H3247,Sanat Nagar,2055.0,4,3.0,2,18.0,8.6,Yes,Unfurnished,90.88
+H3248,Soura,2794.0,4,3.0,2,27.0,12.1,Yes,Unfurnished,87.7
+H3249,Soura,1230.0,2,1.0,2,16.0,17.7,Yes,Furnished,48.4
+H3250,Bemina,1539.0,2,1.0,2,6.0,9.9,Yes,Semi-Furnished,68.2
+H3251,Jawahar Nagar,1369.0,4,3.0,1,28.0,2.5,Yes,Unfurnished,95.1
+H3252,Sanat Nagar,1682.0,3,2.0,2,7.0,13.5,Yes,Semi-Furnished,71.4
+H3253,Budgam Road,1835.0,3,2.0,1,18.0,11.9,No,Unfurnished,54.09
+H3254,Hyderpora,2169.0,4,3.0,2,22.0,24.9,No,Semi-Furnished,87.03
+H3255,Jawahar Nagar,987.0,2,1.0,2,12.0,14.9,Yes,Semi-Furnished,63.18
+H3256,Pantha Chowk,2317.0,3,3.0,2,16.0,2.1,Yes,Semi-Furnished,90.61
+H3257,Hyderpora,1016.0,2,2.0,3,10.0,16.5,Yes,Semi-Furnished,51.24
+H3258,Bemina,1644.0,4,3.0,3,27.0,3.0,No,Semi-Furnished,72.24
+H3259,Rajbagh,2102.0,4,4.0,2,17.0,9.9,Yes,Furnished,149.84
+H3260,Nowgam,1871.0,3,3.0,2,25.0,1.8,Yes,Semi-Furnished,82.0
+H3261,Hyderpora,1012.0,2,1.0,2,15.0,15.4,No,Unfurnished,37.73
+H3262,Jawahar Nagar,1135.0,2,1.0,1,32.0,5.1,Yes,Furnished,72.2
+H3263,Budgam Road,1260.0,2,2.0,2,30.0,23.7,Yes,Unfurnished,35.92
+H3264,Hyderpora,1473.0,3,2.0,1,4.0,5.6,Yes,Semi-Furnished,73.14
+H3265,Rajbagh,2096.0,4,3.0,2,31.0,24.2,Yes,Unfurnished,108.67
+H3266,Jawahar Nagar,828.0,2,2.0,2,20.0,22.9,No,Unfurnished,44.64
+H3267,Sanat Nagar,1743.0,3,3.0,1,31.0,13.4,Yes,Furnished,84.45
+H3268,Soura,1817.0,3,2.0,1,27.0,12.1,Yes,Unfurnished,58.81
+H3269,Soura,1790.0,3,3.0,2,33.0,10.3,Yes,Unfurnished,56.7
+H3270,Budgam Road,1742.0,4,4.0,3,36.0,19.0,Yes,Unfurnished,56.01
+H3271,Nowgam,2290.0,5,4.0,2,14.0,5.5,Yes,Furnished,98.45
+H3272,Pantha Chowk,1754.0,3,3.0,2,0.0,9.5,Yes,Semi-Furnished,69.74
+H3273,Sanat Nagar,1946.0,2,2.0,2,14.0,2.4,Yes,Unfurnished,87.72
+H3274,Nowgam,1793.0,4,3.0,2,30.0,11.3,Yes,Furnished,75.07
+H3275,Nowgam,2432.0,5,4.0,2,33.0,5.6,Yes,Furnished,105.1
+H3276,Bemina,512.0,1,1.0,2,26.0,23.1,Yes,Unfurnished,17.53
+H3277,Hyderpora,2167.0,3,3.0,2,7.0,11.8,Yes,Unfurnished,98.62
+H3278,Soura,1364.0,2,1.0,2,1.0,6.3,Yes,Furnished,54.85
+H3279,Budgam Road,1354.0,3,2.0,2,28.0,7.6,Yes,Unfurnished,46.75
+H3280,Pantha Chowk,996.0,1,1.0,2,32.0,5.3,Yes,Semi-Furnished,35.17
+H3281,Sanat Nagar,528.0,1,1.0,1,20.0,3.1,Yes,Unfurnished,29.36
+H3282,Soura,1301.0,2,2.0,1,6.0,2.3,Yes,Semi-Furnished,54.33
+H3283,Soura,1143.0,3,2.0,2,26.0,18.2,No,Furnished,36.35
+H3284,Pantha Chowk,1757.0,3,,1,,3.5,No,,65.36
+H3285,Nowgam,734.0,1,1.0,2,27.0,21.2,Yes,Unfurnished,22.21
+H3286,Jawahar Nagar,2244.0,4,4.0,3,0.0,24.2,Yes,Semi-Furnished,121.44
+H3287,Soura,1641.0,4,4.0,1,26.0,22.9,No,Unfurnished,54.47
+H3288,Jawahar Nagar,1371.0,3,2.0,2,38.0,5.2,Yes,Semi-Furnished,79.66
+H3289,Bemina,1131.0,2,,1,,20.0,Yes,,50.47
+H3290,Hyderpora,1091.0,1,1.0,2,35.0,15.3,No,Unfurnished,37.75
+H3291,Soura,912.0,1,1.0,2,0.0,23.7,No,Semi-Furnished,33.12
+H3292,Jawahar Nagar,1217.0,3,3.0,2,0.0,8.0,Yes,Unfurnished,85.77
+H3293,Soura,1503.0,2,2.0,2,38.0,15.5,Yes,Unfurnished,45.16
+H3294,Jawahar Nagar,1408.0,3,2.0,2,13.0,15.8,No,Semi-Furnished,86.01
+H3295,Bemina,764.0,2,1.0,2,35.0,5.6,Yes,Unfurnished,34.63
+H3296,Jawahar Nagar,1362.0,3,3.0,1,21.0,15.4,Yes,Unfurnished,69.38
+H3297,Rajbagh,1036.0,2,1.0,1,20.0,18.4,Yes,Unfurnished,56.71
+H3298,Sanat Nagar,1583.0,3,2.0,2,2.0,20.4,No,Semi-Furnished,73.28
+H3299,Pantha Chowk,2470.0,4,3.0,1,26.0,21.5,Yes,Semi-Furnished,76.02
+H3300,Nowgam,1825.0,3,3.0,3,16.0,1.6,Yes,Semi-Furnished,83.09
+H3301,Soura,1337.0,4,3.0,1,3.0,19.2,Yes,Unfurnished,54.56
+H3302,Sanat Nagar,655.0,1,1.0,2,16.0,8.8,No,Semi-Furnished,33.37
+H3303,Jawahar Nagar,764.0,1,1.0,2,18.0,19.4,Yes,Unfurnished,38.29
+H3304,Pantha Chowk,623.0,2,1.0,2,26.0,4.6,Yes,Unfurnished,26.87
+H3305,Soura,1878.0,3,3.0,2,23.0,10.0,Yes,Unfurnished,63.09
+H3306,Hyderpora,1102.0,2,1.0,1,30.0,10.7,Yes,Semi-Furnished,46.89
+H3307,Sanat Nagar,1533.0,2,2.0,2,27.0,17.7,Yes,Unfurnished,57.26
+H3308,Budgam Road,1177.0,2,1.0,2,35.0,15.8,Yes,Semi-Furnished,35.39
+H3309,Hyderpora,1547.0,3,2.0,2,8.0,20.5,Yes,Furnished,79.91
+H3310,Rajbagh,2229.0,5,4.0,2,35.0,1.1,No,Unfurnished,127.75
+H3311,Budgam Road,1144.0,2,1.0,2,3.0,7.8,Yes,Unfurnished,42.28
+H3312,Bemina,1323.0,3,3.0,3,4.0,18.7,Yes,Unfurnished,66.42
+H3313,Hyderpora,1081.0,1,1.0,2,38.0,6.7,Yes,Semi-Furnished,47.05
+H3314,Bemina,1955.0,4,3.0,1,1.0,21.2,Yes,Furnished,98.66
+H3315,Sanat Nagar,967.0,1,1.0,2,33.0,8.5,Yes,Unfurnished,42.36
+H3316,Nowgam,911.0,2,1.0,3,11.0,17.0,No,Semi-Furnished,39.38
+H3317,Sanat Nagar,778.0,2,1.0,3,7.0,2.3,Yes,Unfurnished,44.49
+H3318,Hyderpora,768.0,2,2.0,2,5.0,23.0,Yes,Furnished,40.15
+H3319,Rajbagh,1745.0,3,3.0,2,32.0,3.7,No,Semi-Furnished,97.23
+H3320,Budgam Road,2836.0,6,5.0,2,4.0,10.9,Yes,Semi-Furnished,115.36
+H3321,Jawahar Nagar,982.0,2,2.0,2,32.0,10.3,Yes,Unfurnished,56.45
+H3322,Nowgam,1995.0,3,2.0,2,12.0,8.3,Yes,Semi-Furnished,78.69
+H3323,Sanat Nagar,1631.0,3,2.0,2,7.0,13.9,No,Furnished,80.36
+H3324,Jawahar Nagar,927.0,1,1.0,2,4.0,13.6,No,Unfurnished,51.91
+H3325,Jawahar Nagar,1356.0,2,1.0,3,32.0,20.1,Yes,Unfurnished,57.05
+H3326,Soura,1379.0,3,2.0,2,11.0,24.3,Yes,Unfurnished,52.43
+H3327,Rajbagh,1141.0,2,1.0,3,15.0,20.2,No,Furnished,70.0
+H3328,Budgam Road,2504.0,5,4.0,2,25.0,18.4,Yes,Furnished,88.7
+H3329,Hyderpora,509.0,1,1.0,1,13.0,5.7,Yes,Semi-Furnished,28.58
+H3330,Hyderpora,1698.0,3,2.0,2,4.0,6.1,Yes,Unfurnished,80.5
+H3331,Jawahar Nagar,1672.0,2,2.0,2,6.0,1.3,No,Unfurnished,100.87
+H3332,Bemina,1199.0,2,,2,,3.2,Yes,,54.26
+H3333,Soura,1578.0,2,2.0,1,23.0,19.8,Yes,Semi-Furnished,53.53
+H3334,Pantha Chowk,1956.0,3,3.0,2,27.0,2.4,Yes,Unfurnished,64.68
+H3335,Pantha Chowk,1579.0,3,,2,,7.5,No,,61.22
+H3336,Nowgam,1717.0,3,3.0,1,2.0,10.2,Yes,Unfurnished,71.66
+H3337,Sanat Nagar,1860.0,2,1.0,1,20.0,4.8,Yes,Semi-Furnished,88.6
+H3338,Rajbagh,450.0,1,1.0,3,7.0,9.2,Yes,Unfurnished,40.05
+H3339,Nowgam,2269.0,4,4.0,3,3.0,7.1,No,Furnished,97.8
+H3340,Hyderpora,2685.0,5,5.0,3,7.0,10.8,No,Unfurnished,112.57
+H3341,Hyderpora,2010.0,4,3.0,2,31.0,5.3,Yes,Furnished,101.56
+H3342,Hyderpora,2027.0,4,4.0,2,16.0,1.6,Yes,Semi-Furnished,100.38
+H3343,Rajbagh,768.0,2,2.0,2,12.0,22.8,Yes,Furnished,51.05
+H3344,Bemina,1438.0,3,2.0,2,19.0,18.8,Yes,Semi-Furnished,64.03
+H3345,Jawahar Nagar,1078.0,2,1.0,2,10.0,19.5,Yes,Unfurnished,56.02
+H3346,Budgam Road,1195.0,2,1.0,1,24.0,7.1,Yes,Unfurnished,37.68
+H3347,Budgam Road,2003.0,3,3.0,1,25.0,23.6,Yes,Furnished,67.93
+H3348,Budgam Road,1082.0,2,1.0,2,24.0,21.0,Yes,Unfurnished,33.17
+H3349,Hyderpora,1432.0,3,2.0,2,7.0,10.8,No,Semi-Furnished,68.28
+H3350,Budgam Road,508.0,1,1.0,3,16.0,7.9,Yes,Semi-Furnished,23.25
+H3351,Budgam Road,1418.0,3,2.0,2,36.0,20.0,Yes,Semi-Furnished,44.94
+H3352,Bemina,1547.0,3,3.0,2,22.0,1.5,No,Unfurnished,67.34
+H3353,Rajbagh,1134.0,2,1.0,1,25.0,14.7,Yes,Unfurnished,59.29
+H3354,Budgam Road,1126.0,2,1.0,1,33.0,21.8,Yes,Unfurnished,30.46
+H3355,Nowgam,2481.0,5,5.0,1,,22.9,Yes,Unfurnished,86.75
+H3356,Hyderpora,871.0,2,1.0,2,39.0,23.2,Yes,Unfurnished,29.53
+H3357,Budgam Road,954.0,1,,3,,11.3,No,,35.67
+H3358,Pantha Chowk,1079.0,1,1.0,1,15.0,1.4,Yes,Furnished,44.87
+H3359,Budgam Road,2123.0,4,4.0,1,17.0,9.4,Yes,Unfurnished,69.62
+H3360,Rajbagh,2593.0,5,5.0,2,15.0,7.5,Yes,Unfurnished,160.71
+H3361,Rajbagh,1673.0,3,2.0,1,10.0,14.9,Yes,Unfurnished,108.06
+H3362,Hyderpora,1127.0,2,1.0,1,15.0,18.4,No,Unfurnished,43.21
+H3363,Hyderpora,1278.0,4,3.0,3,10.0,24.5,No,Semi-Furnished,60.88
+H3364,Sanat Nagar,2054.0,3,3.0,1,32.0,8.7,Yes,Unfurnished,85.25
+H3365,Bemina,1026.0,2,1.0,2,16.0,9.7,Yes,Semi-Furnished,49.05
+H3366,Nowgam,2256.0,4,3.0,2,9.0,3.1,Yes,Semi-Furnished,88.09
+H3367,Soura,2237.0,3,2.0,2,31.0,21.0,Yes,Furnished,77.83
+H3368,Soura,1537.0,3,3.0,3,29.0,13.0,Yes,Semi-Furnished,59.2
+H3369,Rajbagh,1836.0,4,4.0,2,20.0,6.6,No,Furnished,120.67
+H3370,Bemina,1890.0,4,4.0,1,5.0,13.1,No,Furnished,86.74
+H3371,Sanat Nagar,2308.0,5,4.0,1,33.0,12.6,Yes,Semi-Furnished,100.63
+H3372,Sanat Nagar,953.0,2,2.0,2,28.0,20.6,Yes,Unfurnished,40.36
+H3373,Budgam Road,2114.0,4,3.0,2,4.0,6.5,Yes,Unfurnished,70.24
+H3374,Bemina,1305.0,3,2.0,1,36.0,13.2,Yes,Semi-Furnished,51.87
+H3375,Hyderpora,1101.0,2,1.0,1,11.0,11.7,Yes,Semi-Furnished,51.88
+H3376,Pantha Chowk,1553.0,3,3.0,2,24.0,3.4,Yes,Furnished,61.34
+H3377,Hyderpora,1389.0,3,2.0,1,1.0,4.3,Yes,Unfurnished,73.44
+H3378,Soura,987.0,2,2.0,2,33.0,6.8,Yes,Semi-Furnished,40.8
+H3379,Pantha Chowk,669.0,1,1.0,2,36.0,11.4,No,Unfurnished,17.65
+H3380,Pantha Chowk,1010.0,2,1.0,2,32.0,14.3,Yes,Semi-Furnished,32.11
+H3381,Sanat Nagar,2255.0,3,2.0,2,2.0,18.9,No,Furnished,108.79
+H3382,Bemina,2521.0,5,5.0,2,7.0,22.8,Yes,Unfurnished,99.64
+H3383,Rajbagh,1838.0,5,4.0,2,21.0,3.2,Yes,Semi-Furnished,125.34
+H3384,Soura,2117.0,5,5.0,1,1.0,24.4,Yes,Semi-Furnished,82.6
+H3385,Bemina,1231.0,2,1.0,3,26.0,10.9,No,Semi-Furnished,54.56
+H3386,Rajbagh,1460.0,2,1.0,2,34.0,19.7,No,Unfurnished,73.23
+H3387,Jawahar Nagar,1647.0,3,3.0,2,8.0,9.0,Yes,Semi-Furnished,106.03
+H3388,Jawahar Nagar,938.0,1,,1,,18.5,Yes,,52.63
+H3389,Rajbagh,985.0,2,1.0,3,39.0,17.5,Yes,Semi-Furnished,52.14
+H3390,Rajbagh,1551.0,3,3.0,2,36.0,1.5,Yes,Unfurnished,93.74
+H3391,Nowgam,1333.0,3,2.0,2,39.0,21.9,No,Furnished,43.31
+H3392,Sanat Nagar,947.0,3,2.0,1,14.0,2.1,Yes,Unfurnished,49.88
+H3393,Pantha Chowk,1701.0,2,1.0,1,9.0,12.8,No,Unfurnished,52.47
+H3394,Nowgam,1363.0,3,2.0,1,33.0,6.2,Yes,Furnished,59.29
+H3395,Nowgam,2031.0,3,3.0,1,5.0,15.2,No,Semi-Furnished,79.68
+H3396,Hyderpora,1497.0,2,2.0,1,11.0,5.4,Yes,Semi-Furnished,65.94
+H3397,Nowgam,1344.0,2,1.0,2,25.0,15.6,No,Furnished,48.71
+H3398,Budgam Road,1566.0,3,2.0,2,4.0,19.5,Yes,Semi-Furnished,53.76
+H3399,Sanat Nagar,1411.0,3,3.0,1,20.0,15.2,No,Unfurnished,63.82
+H3400,Nowgam,1153.0,1,1.0,1,5.0,21.1,No,Semi-Furnished,38.4
+H3401,Nowgam,1291.0,3,3.0,1,24.0,10.2,Yes,Unfurnished,52.66
+H3402,Soura,1890.0,5,,1,,17.0,Yes,,72.02
+H3403,Soura,1836.0,4,3.0,1,24.0,11.7,Yes,Semi-Furnished,69.88
+H3404,Soura,2169.0,4,4.0,2,34.0,23.0,No,Semi-Furnished,73.51
+H3405,Nowgam,620.0,1,1.0,1,38.0,3.3,No,Furnished,22.13
+H3406,Rajbagh,1296.0,2,1.0,3,15.0,21.9,Yes,Semi-Furnished,75.07
+H3407,Budgam Road,1284.0,3,3.0,3,30.0,1.3,Yes,Furnished,57.37
+H3408,Pantha Chowk,1589.0,3,3.0,2,39.0,21.5,Yes,Unfurnished,47.76
+H3409,Hyderpora,1265.0,3,2.0,1,12.0,3.0,Yes,Unfurnished,66.84
+H3410,Bemina,1233.0,4,4.0,1,15.0,17.7,Yes,Unfurnished,58.45
+H3411,Jawahar Nagar,1907.0,4,3.0,2,29.0,3.4,Yes,Furnished,122.21
+H3412,Hyderpora,1593.0,3,2.0,3,13.0,19.7,Yes,Semi-Furnished,74.28
+H3413,Nowgam,893.0,3,3.0,3,17.0,6.3,Yes,Semi-Furnished,48.48
+H3414,Soura,2194.0,3,3.0,2,2.0,2.7,Yes,Unfurnished,86.97
+H3415,Hyderpora,2018.0,3,3.0,3,39.0,21.9,Yes,Unfurnished,82.78
+H3416,Jawahar Nagar,1202.0,2,2.0,1,21.0,14.8,No,Unfurnished,60.07
+H3417,Jawahar Nagar,1932.0,3,2.0,2,19.0,21.3,Yes,Unfurnished,104.99
+H3418,Hyderpora,1118.0,2,2.0,2,14.0,20.0,Yes,Unfurnished,45.21
+H3419,Nowgam,2085.0,4,3.0,1,0.0,3.3,Yes,Semi-Furnished,89.36
+H3420,Budgam Road,1387.0,4,3.0,2,34.0,3.3,No,Unfurnished,47.31
+H3421,Budgam Road,1083.0,3,3.0,2,36.0,18.2,Yes,Furnished,39.59
+H3422,Nowgam,1306.0,3,3.0,3,31.0,21.3,Yes,Semi-Furnished,50.0
+H3423,Jawahar Nagar,1102.0,2,1.0,1,11.0,5.3,No,Unfurnished,70.43
+H3424,Budgam Road,1600.0,3,2.0,1,8.0,22.3,Yes,Unfurnished,49.08
+H3425,Hyderpora,1591.0,3,2.0,1,32.0,1.6,Yes,Unfurnished,72.83
+H3426,Budgam Road,1519.0,2,2.0,1,15.0,19.4,Yes,Semi-Furnished,49.99
+H3427,Soura,1211.0,2,2.0,1,24.0,16.1,No,Unfurnished,38.24
+H3428,Sanat Nagar,450.0,1,1.0,2,5.0,10.2,Yes,Semi-Furnished,29.49
+H3429,Bemina,1548.0,3,3.0,3,29.0,10.2,Yes,Semi-Furnished,71.42
+H3430,Bemina,514.0,2,1.0,1,29.0,8.4,Yes,Unfurnished,24.66
+H3431,Sanat Nagar,1627.0,4,4.0,2,29.0,12.4,Yes,Furnished,90.01
+H3432,Soura,2088.0,3,3.0,1,17.0,13.0,Yes,Semi-Furnished,74.61
+H3433,Bemina,1642.0,3,2.0,1,36.0,5.0,Yes,Unfurnished,64.65
+H3434,Soura,1297.0,2,2.0,1,38.0,1.3,Yes,Unfurnished,45.35
+H3435,Hyderpora,1406.0,3,2.0,2,33.0,13.6,Yes,Unfurnished,59.83
+H3436,Bemina,1431.0,2,2.0,1,18.0,5.6,Yes,Unfurnished,63.03
+H3437,Soura,1214.0,3,3.0,1,25.0,3.4,Yes,Semi-Furnished,55.16
+H3438,Jawahar Nagar,1196.0,2,1.0,2,2.0,7.1,No,Semi-Furnished,75.99
+H3439,Nowgam,1020.0,2,1.0,1,13.0,4.5,Yes,Semi-Furnished,49.49
+H3440,Jawahar Nagar,2118.0,4,3.0,3,39.0,21.8,Yes,Semi-Furnished,97.54
+H3441,Rajbagh,1492.0,2,1.0,1,19.0,8.0,Yes,Semi-Furnished,94.82
+H3442,Budgam Road,1997.0,5,4.0,2,9.0,16.5,Yes,Semi-Furnished,70.85
+H3443,Budgam Road,1370.0,2,2.0,3,11.0,1.2,Yes,Unfurnished,56.25
+H3444,Soura,1538.0,4,4.0,1,0.0,16.9,No,Semi-Furnished,59.06
+H3445,Pantha Chowk,1411.0,3,3.0,1,13.0,23.9,No,Unfurnished,47.61
+H3446,Nowgam,1741.0,4,4.0,2,36.0,19.1,Yes,Semi-Furnished,62.09
+H3447,Rajbagh,1930.0,5,5.0,2,18.0,19.3,Yes,Unfurnished,112.44
+H3448,Bemina,1625.0,3,3.0,2,35.0,11.0,Yes,Semi-Furnished,71.77
+H3449,Sanat Nagar,1150.0,3,3.0,1,16.0,12.5,Yes,Semi-Furnished,64.48
+H3450,Soura,1094.0,1,1.0,2,5.0,22.6,No,Unfurnished,33.52
+H3451,Jawahar Nagar,2363.0,5,5.0,2,11.0,6.7,Yes,Semi-Furnished,172.11
+H3452,Nowgam,1354.0,2,2.0,1,6.0,13.1,No,Semi-Furnished,52.36
+H3453,Budgam Road,1349.0,2,2.0,2,12.0,18.5,Yes,Semi-Furnished,49.71
+H3454,Jawahar Nagar,2262.0,4,4.0,2,12.0,9.1,Yes,Unfurnished,126.61
+H3455,Pantha Chowk,2066.0,4,3.0,2,12.0,12.3,Yes,Unfurnished,68.68
+H3456,Soura,1778.0,4,4.0,2,4.0,1.8,Yes,Furnished,82.1
+H3457,Rajbagh,1292.0,1,1.0,2,7.0,17.4,No,Unfurnished,66.56
+H3458,Hyderpora,2724.0,5,4.0,2,0.0,5.0,No,Unfurnished,124.52
+H3459,Sanat Nagar,1704.0,3,3.0,1,23.0,7.2,Yes,Semi-Furnished,75.08
+H3460,Soura,1784.0,4,4.0,3,18.0,6.4,No,Unfurnished,66.93
+H3461,Jawahar Nagar,1411.0,2,1.0,1,3.0,18.2,No,Unfurnished,73.2
+H3462,Hyderpora,765.0,2,1.0,2,38.0,10.6,Yes,Unfurnished,30.29
+H3463,Hyderpora,806.0,1,1.0,2,9.0,24.9,Yes,Unfurnished,33.08
+H3464,Hyderpora,1712.0,4,3.0,2,36.0,20.2,Yes,Unfurnished,68.53
+H3465,Pantha Chowk,1704.0,4,3.0,2,6.0,23.2,Yes,Semi-Furnished,61.7
+H3466,Pantha Chowk,1375.0,2,2.0,2,29.0,17.5,No,Unfurnished,42.48
+H3467,Rajbagh,891.0,2,1.0,2,28.0,6.5,No,Furnished,60.64
+H3468,Budgam Road,750.0,1,1.0,1,25.0,8.8,Yes,Unfurnished,24.91
+H3469,Jawahar Nagar,1330.0,3,2.0,2,11.0,9.7,Yes,Unfurnished,88.76
+H3470,Jawahar Nagar,743.0,2,2.0,2,14.0,5.9,Yes,Semi-Furnished,57.52
+H3471,Hyderpora,1967.0,3,2.0,2,3.0,12.2,Yes,Unfurnished,91.38
+H3472,Pantha Chowk,2099.0,4,4.0,3,26.0,20.0,No,Semi-Furnished,69.04
+H3473,Hyderpora,2971.0,4,3.0,2,32.0,13.5,Yes,Semi-Furnished,128.98
+H3474,Nowgam,1957.0,2,2.0,3,9.0,5.0,Yes,Semi-Furnished,81.12
+H3475,Soura,1192.0,1,1.0,1,17.0,18.6,Yes,Furnished,40.06
+H3476,Hyderpora,1047.0,2,2.0,3,23.0,24.2,Yes,Semi-Furnished,41.64
+H3477,Bemina,450.0,1,1.0,2,32.0,12.4,Yes,Furnished,19.23
+H3478,Soura,1191.0,2,1.0,3,20.0,4.4,Yes,Unfurnished,42.74
+H3479,Jawahar Nagar,1408.0,3,3.0,1,12.0,18.5,Yes,Semi-Furnished,89.22
+H3480,Budgam Road,2003.0,4,4.0,2,25.0,13.9,Yes,Semi-Furnished,69.02
+H3481,Bemina,1818.0,3,3.0,3,13.0,20.4,Yes,Semi-Furnished,77.78
+H3482,Nowgam,1806.0,3,2.0,2,22.0,15.5,Yes,Semi-Furnished,69.13
+H3483,Pantha Chowk,1611.0,2,2.0,1,22.0,21.9,Yes,Furnished,55.88
+H3484,Soura,1844.0,5,5.0,1,26.0,1.3,Yes,Unfurnished,77.25
+H3485,Soura,2253.0,3,2.0,3,2.0,16.6,Yes,Unfurnished,75.37
+H3486,Budgam Road,946.0,2,1.0,2,4.0,15.4,Yes,Semi-Furnished,37.47
+H3487,Jawahar Nagar,1262.0,3,2.0,1,39.0,19.7,Yes,Semi-Furnished,68.12
+H3488,Bemina,778.0,2,1.0,1,13.0,6.2,No,Unfurnished,35.31
+H3489,Budgam Road,2342.0,4,4.0,2,5.0,15.1,No,Furnished,85.04
+H3490,Sanat Nagar,2174.0,4,4.0,1,3.0,7.4,Yes,Unfurnished,102.07
+H3491,Sanat Nagar,1891.0,4,,2,,19.1,No,,86.99
+H3492,Budgam Road,877.0,2,1.0,2,32.0,2.9,Yes,Furnished,35.27
+H3493,Budgam Road,1590.0,2,2.0,1,26.0,4.8,No,Unfurnished,44.77
+H3494,Sanat Nagar,1378.0,3,3.0,1,29.0,23.7,No,Semi-Furnished,55.85
+H3495,Rajbagh,1542.0,3,2.0,3,30.0,18.7,No,Furnished,87.67
+H3496,Hyderpora,1402.0,3,2.0,1,30.0,7.1,No,Unfurnished,59.14
+H3497,Budgam Road,1770.0,4,3.0,1,8.0,8.5,No,Semi-Furnished,61.81
+H3498,Hyderpora,1295.0,2,1.0,2,34.0,11.4,No,Semi-Furnished,53.31
+H3499,Jawahar Nagar,1944.0,3,2.0,2,35.0,6.6,No,Semi-Furnished,101.73
+H3500,Hyderpora,1626.0,3,3.0,2,8.0,4.4,Yes,Unfurnished,77.47
+H3501,Hyderpora,1348.0,4,3.0,3,21.0,24.3,No,Semi-Furnished,62.9
+H3502,Nowgam,1442.0,3,2.0,1,0.0,6.1,Yes,Unfurnished,62.03
+H3503,Nowgam,1271.0,2,1.0,1,16.0,19.0,Yes,Unfurnished,43.8
+H3504,Sanat Nagar,1923.0,5,4.0,2,22.0,18.2,Yes,Unfurnished,89.83
+H3505,Hyderpora,1359.0,2,1.0,2,7.0,18.7,Yes,Furnished,68.27
+H3506,Hyderpora,1653.0,4,3.0,1,26.0,8.3,Yes,Semi-Furnished,84.54
+H3507,Jawahar Nagar,1296.0,2,1.0,2,6.0,6.3,No,Unfurnished,75.98
+H3508,Hyderpora,728.0,1,1.0,1,17.0,15.8,Yes,Unfurnished,29.75
+H3509,Jawahar Nagar,1971.0,4,3.0,1,34.0,24.9,No,Semi-Furnished,95.23
+H3510,Jawahar Nagar,950.0,3,3.0,2,28.0,10.3,Yes,Semi-Furnished,70.39
+H3511,Sanat Nagar,1853.0,3,3.0,2,38.0,6.2,Yes,Semi-Furnished,82.91
+H3512,Pantha Chowk,1718.0,3,2.0,1,1.0,13.2,No,Furnished,61.2
+H3513,Rajbagh,639.0,1,1.0,1,16.0,5.6,No,Unfurnished,43.12
+H3514,Budgam Road,1009.0,2,1.0,1,34.0,9.3,Yes,Unfurnished,32.5
+H3515,Jawahar Nagar,1233.0,2,1.0,1,28.0,18.6,Yes,Furnished,63.54
+H3516,Pantha Chowk,1073.0,2,1.0,2,31.0,6.8,Yes,Unfurnished,36.07
+H3517,Jawahar Nagar,885.0,1,1.0,2,27.0,11.8,Yes,Semi-Furnished,46.6
+H3518,Nowgam,1885.0,3,2.0,2,12.0,16.4,No,Furnished,70.9
+H3519,Hyderpora,1375.0,3,2.0,3,19.0,4.8,No,Semi-Furnished,73.4
+H3520,Sanat Nagar,1701.0,3,2.0,2,2.0,4.5,Yes,Furnished,97.48
+H3521,Bemina,1276.0,3,2.0,2,19.0,24.2,No,Unfurnished,47.79
+H3522,Bemina,1659.0,3,3.0,2,25.0,21.8,Yes,Semi-Furnished,68.3
+H3523,Nowgam,1109.0,2,1.0,2,22.0,22.2,Yes,Semi-Furnished,39.48
+H3524,Soura,1486.0,2,2.0,2,2.0,14.7,No,Semi-Furnished,54.79
+H3525,Sanat Nagar,1803.0,4,4.0,3,13.0,13.1,Yes,Unfurnished,84.21
+H3526,Bemina,1523.0,3,3.0,1,0.0,3.6,Yes,Unfurnished,69.33
+H3527,Rajbagh,1262.0,3,3.0,2,29.0,6.8,No,Furnished,95.0
+H3528,Sanat Nagar,935.0,1,,1,,3.7,Yes,,51.62
+H3529,Sanat Nagar,1587.0,2,2.0,1,16.0,13.8,Yes,Unfurnished,73.89
+H3530,Budgam Road,1679.0,2,1.0,3,3.0,11.5,Yes,Semi-Furnished,57.46
+H3531,Soura,1366.0,2,2.0,2,20.0,5.1,Yes,Furnished,59.67
+H3532,Soura,1100.0,3,3.0,2,2.0,3.4,Yes,Semi-Furnished,55.39
+H3533,Sanat Nagar,1782.0,4,4.0,1,7.0,14.8,Yes,Unfurnished,86.62
+H3534,Jawahar Nagar,2790.0,5,4.0,2,2.0,4.4,No,Semi-Furnished,187.5
+H3535,Bemina,1343.0,3,2.0,1,39.0,1.3,Yes,Semi-Furnished,56.88
+H3536,Bemina,1675.0,4,3.0,2,34.0,6.4,Yes,Semi-Furnished,74.68
+H3537,Soura,1696.0,3,2.0,3,3.0,20.3,Yes,Unfurnished,57.73
+H3538,Budgam Road,450.0,1,1.0,2,31.0,16.8,Yes,Unfurnished,12.64
+H3539,Bemina,1564.0,3,3.0,2,,13.4,Yes,Furnished,70.3
+H3540,Jawahar Nagar,1133.0,1,1.0,2,18.0,6.4,Yes,Semi-Furnished,66.06
+H3541,Budgam Road,2220.0,4,3.0,1,26.0,12.2,Yes,Unfurnished,68.53
+H3542,Hyderpora,1368.0,3,2.0,2,14.0,1.2,Yes,Unfurnished,73.86
+H3543,Pantha Chowk,1096.0,2,1.0,2,13.0,8.8,Yes,Semi-Furnished,39.01
+H3544,Bemina,1386.0,2,1.0,1,31.0,12.5,Yes,Unfurnished,48.0
+H3545,Sanat Nagar,1587.0,3,2.0,2,39.0,3.2,No,Unfurnished,65.41
+H3546,Rajbagh,1209.0,2,1.0,3,14.0,14.9,Yes,Semi-Furnished,74.84
+H3547,Soura,1473.0,3,3.0,2,1.0,11.6,Yes,Unfurnished,61.14
+H3548,Hyderpora,796.0,1,1.0,2,20.0,2.3,No,Furnished,44.35
+H3549,Sanat Nagar,1383.0,2,1.0,1,10.0,4.5,Yes,Unfurnished,68.41
+H3550,Hyderpora,1903.0,2,1.0,2,32.0,12.7,Yes,Furnished,82.39
+H3551,Jawahar Nagar,2524.0,4,4.0,2,13.0,22.5,No,Unfurnished,147.28
+H3552,Pantha Chowk,1867.0,2,2.0,2,28.0,2.4,Yes,Unfurnished,58.32
+H3553,Bemina,1641.0,2,2.0,2,25.0,14.5,Yes,Semi-Furnished,63.06
+H3554,Sanat Nagar,2116.0,4,4.0,2,28.0,7.8,Yes,Semi-Furnished,103.8
+H3555,Nowgam,2030.0,4,4.0,1,23.0,10.3,Yes,Unfurnished,76.92
+H3556,Budgam Road,2365.0,3,2.0,1,2.0,23.1,Yes,Furnished,79.64
+H3557,Pantha Chowk,2063.0,4,4.0,1,28.0,16.1,Yes,Semi-Furnished,68.59
+H3558,Soura,1439.0,3,2.0,1,14.0,7.8,No,Semi-Furnished,50.97
+H3559,Jawahar Nagar,1634.0,3,3.0,2,34.0,11.8,Yes,Unfurnished,88.17
+H3560,Bemina,1593.0,3,2.0,1,19.0,24.6,Yes,Furnished,64.66
+H3561,Soura,1657.0,2,2.0,1,0.0,21.8,Yes,Semi-Furnished,57.78
+H3562,Budgam Road,1604.0,2,1.0,2,14.0,11.2,Yes,Unfurnished,48.4
+H3563,Hyderpora,1093.0,1,1.0,1,22.0,13.7,Yes,Furnished,51.72
+H3564,Budgam Road,450.0,1,1.0,2,6.0,12.0,Yes,Semi-Furnished,21.99
+H3565,Jawahar Nagar,1151.0,3,2.0,1,16.0,4.6,Yes,Unfurnished,81.77
+H3566,Bemina,450.0,1,1.0,1,31.0,24.2,Yes,Unfurnished,12.06
+H3567,Pantha Chowk,1535.0,2,1.0,2,,6.5,No,Unfurnished,48.27
+H3568,Jawahar Nagar,1502.0,2,2.0,3,13.0,6.3,Yes,Unfurnished,89.72
+H3569,Soura,629.0,1,1.0,1,21.0,3.6,No,Unfurnished,24.57
+H3570,Jawahar Nagar,1858.0,3,2.0,1,38.0,23.6,Yes,Semi-Furnished,91.56
+H3571,Jawahar Nagar,1951.0,4,3.0,2,13.0,23.0,Yes,Unfurnished,107.19
+H3572,Jawahar Nagar,1550.0,2,1.0,2,24.0,16.3,No,Semi-Furnished,72.89
+H3573,Pantha Chowk,2367.0,4,3.0,3,0.0,13.7,Yes,Semi-Furnished,87.29
+H3574,Pantha Chowk,2473.0,4,4.0,1,1.0,14.9,Yes,Semi-Furnished,93.65
+H3575,Rajbagh,873.0,2,2.0,1,12.0,9.9,Yes,Semi-Furnished,57.08
+H3576,Soura,2039.0,3,2.0,1,21.0,22.4,No,Unfurnished,59.87
+H3577,Rajbagh,9000.0,3,2.0,1,17.0,14.4,Yes,Semi-Furnished,107.66
+H3578,Budgam Road,1718.0,4,3.0,2,0.0,21.5,No,Unfurnished,60.85
+H3579,Sanat Nagar,1986.0,3,3.0,2,13.0,17.7,No,Unfurnished,85.02
+H3580,Rajbagh,1126.0,2,2.0,2,22.0,17.3,No,Semi-Furnished,67.22
+H3581,Pantha Chowk,1192.0,3,3.0,2,15.0,17.1,Yes,Semi-Furnished,50.51
+H3582,Pantha Chowk,1070.0,2,1.0,2,2.0,19.6,Yes,Unfurnished,40.58
+H3583,Rajbagh,1107.0,1,1.0,3,26.0,20.5,Yes,Semi-Furnished,58.09
+H3584,Bemina,1449.0,2,1.0,1,8.0,17.4,No,Unfurnished,53.62
+H3585,Pantha Chowk,745.0,2,2.0,1,13.0,8.7,No,Furnished,35.22
+H3586,Bemina,956.0,2,2.0,1,1.0,7.3,Yes,Unfurnished,49.48
+H3587,Nowgam,1800.0,3,2.0,2,34.0,5.7,Yes,Semi-Furnished,66.48
+H3588,Budgam Road,1463.0,3,2.0,2,0.0,21.5,Yes,Unfurnished,49.24
+H3589,Rajbagh,1699.0,4,,2,,12.7,Yes,,116.89
+H3590,Hyderpora,518.0,1,1.0,2,19.0,1.0,Yes,Unfurnished,30.52
+H3591,Nowgam,1092.0,1,1.0,2,17.0,15.4,Yes,Unfurnished,37.74
+H3592,Pantha Chowk,1211.0,2,2.0,2,9.0,21.7,Yes,Unfurnished,40.47
+H3593,Hyderpora,1517.0,3,3.0,1,17.0,23.0,Yes,Semi-Furnished,62.13
+H3594,Budgam Road,1195.0,3,2.0,1,16.0,23.5,Yes,Semi-Furnished,43.44
+H3595,Nowgam,1985.0,3,3.0,2,36.0,21.8,No,Semi-Furnished,69.76
+H3596,Bemina,1470.0,2,1.0,1,23.0,5.2,Yes,Furnished,71.62
+H3597,Soura,1509.0,2,2.0,3,24.0,13.4,Yes,Unfurnished,50.54
+H3598,Budgam Road,1507.0,2,2.0,2,35.0,18.0,Yes,Semi-Furnished,45.7
+H3599,Soura,1868.0,3,2.0,1,38.0,16.4,Yes,Furnished,65.45
+H3600,Nowgam,1255.0,2,2.0,2,35.0,9.6,No,Semi-Furnished,47.02
+H3601,Pantha Chowk,2084.0,4,3.0,2,0.0,1.9,Yes,Semi-Furnished,76.3
+H3602,Nowgam,1739.0,3,3.0,2,11.0,22.4,Yes,Semi-Furnished,68.05
+H3603,Jawahar Nagar,1580.0,3,3.0,3,38.0,19.7,No,Unfurnished,74.89
+H3604,Pantha Chowk,1522.0,2,2.0,1,8.0,21.8,Yes,Furnished,54.59
+H3605,Budgam Road,1771.0,3,2.0,2,7.0,10.3,Yes,Semi-Furnished,61.9
+H3606,Bemina,2028.0,4,4.0,2,,7.0,Yes,Semi-Furnished,101.23
+H3607,Bemina,1992.0,3,2.0,3,35.0,21.3,Yes,Unfurnished,74.19
+H3608,Nowgam,1695.0,3,3.0,1,6.0,16.7,Yes,Semi-Furnished,68.15
+H3609,Budgam Road,1956.0,3,3.0,2,1.0,17.0,Yes,Semi-Furnished,74.23
+H3610,Soura,1562.0,3,2.0,1,0.0,1.8,Yes,Semi-Furnished,65.99
+H3611,Pantha Chowk,2151.0,3,3.0,2,34.0,3.6,Yes,Semi-Furnished,72.44
+H3612,Rajbagh,1486.0,2,1.0,3,7.0,19.5,Yes,Semi-Furnished,89.63
+H3613,Pantha Chowk,450.0,1,1.0,2,25.0,22.2,Yes,Furnished,14.37
+H3614,Hyderpora,2196.0,4,3.0,1,27.0,9.5,Yes,Unfurnished,93.22
+H3615,Sanat Nagar,1556.0,3,2.0,3,27.0,21.9,No,Semi-Furnished,69.9
+H3616,Jawahar Nagar,891.0,1,1.0,2,23.0,5.3,No,Furnished,56.84
+H3617,Hyderpora,1397.0,3,2.0,2,15.0,14.9,Yes,Semi-Furnished,66.36
+H3618,Sanat Nagar,1040.0,2,1.0,3,2.0,9.4,Yes,Semi-Furnished,62.69
+H3619,Pantha Chowk,2592.0,5,5.0,2,15.0,13.8,No,Semi-Furnished,92.85
+H3620,Hyderpora,1759.0,4,4.0,1,26.0,5.7,Yes,Furnished,95.33
+H3621,Pantha Chowk,684.0,1,1.0,2,6.0,10.2,No,Semi-Furnished,28.95
+H3622,Soura,1784.0,3,2.0,2,12.0,12.1,Yes,Semi-Furnished,62.4
+H3623,Bemina,1293.0,3,3.0,2,5.0,14.9,Yes,Unfurnished,57.15
+H3624,Bemina,2497.0,4,4.0,1,7.0,5.9,Yes,Unfurnished,98.36
+H3625,Pantha Chowk,953.0,2,1.0,2,24.0,15.5,Yes,Semi-Furnished,35.16
+H3626,Nowgam,450.0,1,1.0,1,34.0,6.1,No,Unfurnished,17.21
+H3627,Bemina,1534.0,3,3.0,1,13.0,24.4,No,Semi-Furnished,60.9
+H3628,Soura,1319.0,2,1.0,1,12.0,6.8,Yes,Furnished,50.88
+H3629,Bemina,1283.0,2,1.0,2,1.0,3.6,Yes,Semi-Furnished,65.8
+H3630,Jawahar Nagar,450.0,1,1.0,1,19.0,7.5,Yes,Semi-Furnished,33.32
+H3631,Soura,1722.0,3,2.0,1,6.0,14.6,Yes,Unfurnished,61.78
+H3632,Rajbagh,2370.0,5,5.0,2,32.0,11.7,Yes,Unfurnished,133.66
+H3633,Hyderpora,507.0,1,1.0,2,6.0,16.8,Yes,Furnished,28.4
+H3634,Bemina,2109.0,4,3.0,2,3.0,3.6,Yes,Semi-Furnished,109.32
+H3635,Hyderpora,1204.0,3,2.0,1,7.0,10.9,Yes,Furnished,63.11
+H3636,Jawahar Nagar,2721.0,5,4.0,2,25.0,14.3,Yes,Semi-Furnished,158.15
+H3637,Bemina,1727.0,3,3.0,1,18.0,24.4,Yes,Furnished,79.17
+H3638,Jawahar Nagar,1402.0,4,3.0,2,21.0,22.3,Yes,Unfurnished,72.95
+H3639,Bemina,2075.0,5,5.0,2,36.0,14.7,Yes,Semi-Furnished,94.12
+H3640,Soura,1774.0,4,3.0,2,7.0,8.2,No,Semi-Furnished,70.0
+H3641,Jawahar Nagar,1192.0,2,2.0,2,23.0,3.8,Yes,Semi-Furnished,76.8
+H3642,Jawahar Nagar,1869.0,3,3.0,3,19.0,16.2,Yes,Unfurnished,105.96
+H3643,Rajbagh,1234.0,3,2.0,2,29.0,14.5,Yes,Unfurnished,67.54
+H3644,Budgam Road,570.0,1,1.0,2,26.0,12.4,Yes,Furnished,18.9
+H3645,Soura,2556.0,5,5.0,2,4.0,18.3,Yes,Unfurnished,100.59
+H3646,Rajbagh,1318.0,2,1.0,1,5.0,12.2,Yes,Semi-Furnished,83.51
+H3647,Nowgam,1183.0,2,2.0,2,27.0,19.7,Yes,Furnished,46.93
+H3648,Hyderpora,1676.0,3,3.0,2,0.0,7.9,Yes,Unfurnished,86.48
+H3649,Soura,689.0,1,1.0,1,34.0,8.9,No,Unfurnished,21.67
+H3650,Bemina,796.0,2,1.0,2,18.0,22.9,No,Unfurnished,30.81
+H3651,Budgam Road,1240.0,2,1.0,1,39.0,14.9,Yes,Semi-Furnished,37.26
+H3652,Hyderpora,1230.0,1,1.0,1,6.0,23.9,Yes,Furnished,58.0
+H3653,Sanat Nagar,1537.0,2,2.0,1,28.0,2.5,Yes,Semi-Furnished,75.76
+H3654,Hyderpora,2084.0,3,3.0,2,25.0,23.2,No,Semi-Furnished,88.77
+H3655,Sanat Nagar,1254.0,2,1.0,2,24.0,2.4,Yes,Unfurnished,59.02
+H3656,Hyderpora,1756.0,3,3.0,1,10.0,18.9,Yes,Unfurnished,74.13
+H3657,Sanat Nagar,9000.0,4,4.0,2,38.0,14.9,Yes,Unfurnished,80.6
+H3658,Bemina,936.0,1,1.0,3,1.0,3.9,No,Unfurnished,47.08
+H3659,Sanat Nagar,1619.0,3,3.0,3,5.0,8.3,No,Unfurnished,82.26
+H3660,Hyderpora,1010.0,1,1.0,2,15.0,12.5,Yes,Unfurnished,48.25
+H3661,Soura,2053.0,3,2.0,1,31.0,14.4,Yes,Semi-Furnished,71.14
+H3662,Soura,1737.0,2,1.0,2,23.0,12.7,Yes,Unfurnished,55.84
+H3663,Bemina,1509.0,2,1.0,2,28.0,1.7,Yes,Unfurnished,68.05
+H3664,Hyderpora,803.0,2,1.0,3,2.0,24.9,Yes,Unfurnished,38.62
+H3665,Sanat Nagar,1560.0,2,2.0,3,29.0,9.5,Yes,Semi-Furnished,74.51
+H3666,Sanat Nagar,1101.0,3,2.0,2,24.0,18.3,No,Unfurnished,49.78
+H3667,Nowgam,1867.0,4,3.0,1,14.0,23.3,Yes,Unfurnished,65.8
+H3668,Budgam Road,1438.0,2,2.0,1,2.0,24.4,Yes,Unfurnished,42.77
+H3669,Jawahar Nagar,1078.0,2,2.0,2,3.0,5.4,Yes,Unfurnished,74.83
+H3670,Sanat Nagar,1981.0,3,3.0,3,5.0,22.4,Yes,Unfurnished,88.47
+H3671,Rajbagh,1875.0,3,2.0,2,5.0,13.3,Yes,Unfurnished,107.75
+H3672,Pantha Chowk,1191.0,3,2.0,2,8.0,16.7,No,Unfurnished,42.8
+H3673,Soura,2104.0,4,4.0,2,27.0,6.9,Yes,Semi-Furnished,78.66
+H3674,Jawahar Nagar,1345.0,3,3.0,2,27.0,4.5,Yes,Unfurnished,80.78
+H3675,Soura,1339.0,3,3.0,2,12.0,14.9,Yes,Furnished,51.73
+H3676,Sanat Nagar,1564.0,3,,1,,22.7,Yes,,73.65
+H3677,Sanat Nagar,1109.0,2,2.0,1,37.0,11.0,No,Semi-Furnished,52.02
+H3678,Hyderpora,1270.0,2,1.0,2,24.0,23.9,No,Semi-Furnished,50.58
+H3679,Nowgam,1417.0,3,2.0,1,4.0,17.9,Yes,Unfurnished,57.56
+H3680,Nowgam,2296.0,3,2.0,1,14.0,1.5,Yes,Unfurnished,85.02
+H3681,Rajbagh,2280.0,4,3.0,3,32.0,23.4,Yes,Furnished,143.35
+H3682,Soura,1365.0,3,3.0,2,27.0,3.7,Yes,Semi-Furnished,53.36
+H3683,Bemina,2337.0,4,3.0,2,19.0,6.3,No,Semi-Furnished,97.36
+H3684,Pantha Chowk,1477.0,4,3.0,3,5.0,14.5,No,Furnished,63.53
+H3685,Nowgam,1698.0,2,2.0,1,11.0,23.5,Yes,Semi-Furnished,56.34
+H3686,Pantha Chowk,1959.0,3,2.0,1,7.0,4.2,Yes,Semi-Furnished,73.78
+H3687,Sanat Nagar,1652.0,3,2.0,3,10.0,8.1,Yes,Unfurnished,82.6
+H3688,Nowgam,2756.0,4,3.0,3,9.0,2.1,Yes,Unfurnished,113.83
+H3689,Bemina,1627.0,2,1.0,2,,3.1,No,Furnished,71.92
+H3690,Budgam Road,877.0,1,,1,,11.3,Yes,,30.33
+H3691,Nowgam,2179.0,3,2.0,2,14.0,14.8,Yes,Unfurnished,74.7
+H3692,Soura,1286.0,2,1.0,1,1.0,13.3,Yes,Furnished,51.2
+H3693,Nowgam,1342.0,3,3.0,1,9.0,2.1,No,Unfurnished,49.04
+H3694,Soura,450.0,1,1.0,3,31.0,11.3,No,Furnished,17.38
+H3695,Jawahar Nagar,2021.0,4,4.0,1,8.0,11.7,No,Unfurnished,122.86
+H3696,Sanat Nagar,1926.0,4,3.0,1,22.0,23.4,Yes,Unfurnished,84.45
+H3697,Soura,1915.0,4,4.0,1,38.0,8.9,Yes,Furnished,73.89
+H3698,Jawahar Nagar,2009.0,3,2.0,2,39.0,16.2,No,Furnished,120.73
+H3699,Rajbagh,2379.0,5,5.0,2,16.0,12.7,Yes,Semi-Furnished,158.47
+H3700,Nowgam,1476.0,2,2.0,1,21.0,19.7,No,Furnished,50.09
+H3701,Pantha Chowk,1988.0,3,2.0,2,24.0,15.5,No,Unfurnished,60.01
+H3702,Sanat Nagar,1113.0,3,2.0,3,9.0,24.8,Yes,Unfurnished,53.32
+H3703,Jawahar Nagar,1316.0,3,3.0,1,28.0,16.3,No,Furnished,84.83
+H3704,Soura,2050.0,4,4.0,1,27.0,9.2,No,Furnished,73.81
+H3705,Sanat Nagar,1703.0,4,4.0,2,13.0,11.1,Yes,Semi-Furnished,92.74
+H3706,Soura,807.0,2,2.0,1,,21.5,No,Unfurnished,30.3
+H3707,Jawahar Nagar,1688.0,2,2.0,2,37.0,9.8,No,Semi-Furnished,84.97
+H3708,Jawahar Nagar,1405.0,2,2.0,1,8.0,23.2,Yes,Unfurnished,75.64
+H3709,Pantha Chowk,1074.0,1,1.0,1,11.0,11.6,No,Unfurnished,31.63
+H3710,Nowgam,1726.0,3,3.0,2,29.0,23.6,Yes,Furnished,65.03
+H3711,Sanat Nagar,1290.0,2,2.0,2,7.0,4.6,Yes,Unfurnished,59.79
+H3712,Hyderpora,683.0,2,1.0,1,5.0,19.8,No,Unfurnished,31.31
+H3713,Nowgam,922.0,2,1.0,1,,11.7,No,Semi-Furnished,43.81
+H3714,Rajbagh,2420.0,4,4.0,3,25.0,6.4,Yes,Semi-Furnished,155.82
+H3715,Pantha Chowk,712.0,1,1.0,1,10.0,15.2,Yes,Unfurnished,25.52
+H3716,Hyderpora,1616.0,2,,1,,2.4,No,,83.73
+H3717,Pantha Chowk,1817.0,3,3.0,2,2.0,5.8,Yes,Furnished,84.48
+H3718,Budgam Road,1832.0,4,4.0,1,11.0,21.3,Yes,Unfurnished,62.38
+H3719,Rajbagh,863.0,2,1.0,1,25.0,13.6,Yes,Unfurnished,52.01
+H3720,Budgam Road,1333.0,1,1.0,3,19.0,9.1,No,Furnished,44.97
+H3721,Hyderpora,1573.0,3,3.0,1,23.0,4.5,Yes,Semi-Furnished,74.9
+H3722,Budgam Road,1916.0,4,4.0,2,15.0,4.8,No,Semi-Furnished,66.35
+H3723,Nowgam,1165.0,2,1.0,2,0.0,6.5,No,Unfurnished,47.78
+H3724,Sanat Nagar,895.0,2,2.0,1,22.0,12.1,Yes,Furnished,46.57
+H3725,Soura,2021.0,3,2.0,1,37.0,1.5,Yes,Furnished,78.67
+H3726,Sanat Nagar,2075.0,4,3.0,2,8.0,5.9,Yes,Semi-Furnished,111.4
+H3727,Bemina,1692.0,3,3.0,2,29.0,11.3,Yes,Furnished,76.72
+H3728,Nowgam,1183.0,2,2.0,1,5.0,22.2,Yes,Unfurnished,42.54
+H3729,Sanat Nagar,1712.0,3,3.0,1,22.0,21.8,Yes,Semi-Furnished,66.13
+H3730,Pantha Chowk,1557.0,3,2.0,3,2.0,23.4,Yes,Furnished,58.8
+H3731,Rajbagh,1936.0,3,2.0,2,37.0,6.4,No,Semi-Furnished,110.98
+H3732,Bemina,850.0,2,1.0,2,5.0,4.0,Yes,Semi-Furnished,49.44
+H3733,Rajbagh,1560.0,2,1.0,3,21.0,21.4,No,Unfurnished,66.99
+H3734,Soura,1417.0,2,2.0,1,9.0,17.8,Yes,Unfurnished,42.72
+H3735,Hyderpora,923.0,2,1.0,1,7.0,6.9,Yes,Semi-Furnished,50.36
+H3736,Jawahar Nagar,1612.0,3,3.0,2,8.0,11.4,Yes,Semi-Furnished,99.09
+H3737,Rajbagh,1518.0,2,,2,,23.2,No,,78.54
+H3738,Soura,1287.0,2,2.0,2,20.0,20.6,Yes,Furnished,45.96
+H3739,Jawahar Nagar,1706.0,3,2.0,2,38.0,23.5,No,Unfurnished,81.07
+H3740,Budgam Road,762.0,2,2.0,3,9.0,12.9,Yes,Furnished,31.89
+H3741,Sanat Nagar,1472.0,3,3.0,3,2.0,5.6,Yes,Unfurnished,77.88
+H3742,Hyderpora,1724.0,4,3.0,2,,13.9,Yes,Unfurnished,83.7
+H3743,Rajbagh,1648.0,2,,2,,3.7,Yes,,109.27
+H3744,Hyderpora,2060.0,4,3.0,2,0.0,3.8,Yes,Unfurnished,95.71
+H3745,Rajbagh,875.0,2,2.0,1,9.0,3.2,Yes,Semi-Furnished,70.6
+H3746,Sanat Nagar,716.0,2,2.0,1,28.0,7.0,Yes,Semi-Furnished,39.87
+H3747,Pantha Chowk,1624.0,3,2.0,1,36.0,4.9,No,Semi-Furnished,51.97
+H3748,Pantha Chowk,1737.0,3,3.0,2,14.0,7.2,No,Furnished,69.85
+H3749,Bemina,2602.0,6,5.0,3,3.0,17.7,Yes,Semi-Furnished,125.42
+H3750,Pantha Chowk,1821.0,4,4.0,2,6.0,17.1,No,Semi-Furnished,67.16
+H3751,Jawahar Nagar,1046.0,2,2.0,1,32.0,1.6,Yes,Unfurnished,65.79
+H3752,Nowgam,1919.0,3,2.0,2,36.0,21.6,Yes,Semi-Furnished,61.15
+H3753,Soura,1060.0,3,2.0,2,8.0,20.7,Yes,Semi-Furnished,44.21
+H3754,Pantha Chowk,727.0,1,1.0,2,31.0,23.7,Yes,Semi-Furnished,19.74
+H3755,Rajbagh,2857.0,6,5.0,2,25.0,6.2,Yes,Semi-Furnished,173.98
+H3756,Nowgam,1669.0,4,4.0,1,8.0,18.5,Yes,Semi-Furnished,67.66
+H3757,Sanat Nagar,1872.0,3,3.0,1,27.0,14.4,Yes,Semi-Furnished,90.63
+H3758,Bemina,1793.0,3,3.0,1,34.0,18.0,Yes,Semi-Furnished,69.02
+H3759,Pantha Chowk,2442.0,4,3.0,2,30.0,22.7,Yes,Semi-Furnished,77.78
+H3760,Nowgam,1648.0,3,3.0,1,31.0,2.9,Yes,Unfurnished,60.28
+H3761,Pantha Chowk,2133.0,4,4.0,2,2.0,21.2,Yes,Unfurnished,71.43
+H3762,Jawahar Nagar,966.0,3,3.0,2,21.0,21.6,No,Unfurnished,58.09
+H3763,Nowgam,776.0,2,1.0,3,19.0,16.5,Yes,Furnished,38.06
+H3764,Pantha Chowk,2242.0,4,3.0,2,39.0,10.6,Yes,Semi-Furnished,80.82
+H3765,Rajbagh,2267.0,5,5.0,2,5.0,14.0,Yes,Furnished,165.07
+H3766,Budgam Road,1766.0,3,2.0,2,19.0,4.4,Yes,Semi-Furnished,65.67
+H3767,Sanat Nagar,1618.0,3,2.0,1,5.0,18.9,No,Furnished,78.52
+H3768,Bemina,1586.0,4,4.0,2,14.0,14.2,No,Semi-Furnished,71.55
+H3769,Rajbagh,1142.0,2,2.0,1,6.0,14.8,Yes,Furnished,75.7
+H3770,Budgam Road,2300.0,4,3.0,1,16.0,18.0,No,Unfurnished,74.11
+H3771,Jawahar Nagar,1843.0,3,3.0,2,5.0,3.4,Yes,Furnished,126.79
+H3772,Pantha Chowk,1763.0,3,2.0,1,14.0,2.1,Yes,Unfurnished,60.96
+H3773,Rajbagh,1696.0,2,1.0,2,37.0,3.9,Yes,Semi-Furnished,94.51
+H3774,Rajbagh,2045.0,4,3.0,2,23.0,2.9,Yes,Semi-Furnished,134.32
+H3775,Jawahar Nagar,1763.0,3,3.0,2,22.0,20.2,Yes,Unfurnished,92.22
+H3776,Soura,1888.0,3,3.0,3,,4.2,No,Unfurnished,62.97
+H3777,Nowgam,892.0,1,1.0,1,10.0,10.0,Yes,Unfurnished,35.51
+H3778,Jawahar Nagar,1765.0,3,3.0,1,11.0,16.8,No,Unfurnished,102.27
+H3779,Rajbagh,2637.0,4,4.0,2,19.0,7.2,Yes,Semi-Furnished,154.14
+H3780,Sanat Nagar,1230.0,2,2.0,3,10.0,22.9,No,Semi-Furnished,57.97
+H3781,Jawahar Nagar,1433.0,4,4.0,1,2.0,22.9,Yes,Unfurnished,86.27
+H3782,Soura,1964.0,4,4.0,2,12.0,10.4,Yes,Unfurnished,71.64
+H3783,Pantha Chowk,1998.0,4,3.0,3,8.0,15.1,No,Unfurnished,73.73
+H3784,Bemina,1825.0,2,2.0,1,23.0,19.9,No,Semi-Furnished,69.84
+H3785,Bemina,659.0,1,1.0,2,25.0,24.6,No,Semi-Furnished,21.87
+H3786,Hyderpora,1761.0,2,2.0,2,7.0,17.6,Yes,Furnished,85.45
+H3787,Sanat Nagar,884.0,2,1.0,2,27.0,11.8,Yes,Semi-Furnished,43.02
+H3788,Jawahar Nagar,1071.0,2,2.0,2,11.0,2.0,Yes,Semi-Furnished,81.71
+H3789,Rajbagh,1785.0,3,2.0,3,24.0,16.4,Yes,Unfurnished,97.86
+H3790,Nowgam,1346.0,2,2.0,2,6.0,16.8,No,Unfurnished,50.62
+H3791,Budgam Road,1921.0,3,2.0,2,39.0,17.6,Yes,Semi-Furnished,57.53
+H3792,Hyderpora,3137.0,5,5.0,2,8.0,9.4,No,Unfurnished,133.31
+H3793,Soura,1904.0,4,3.0,1,39.0,21.7,No,Semi-Furnished,59.48
+H3794,Jawahar Nagar,1876.0,3,3.0,2,32.0,15.2,No,Unfurnished,92.51
+H3795,Hyderpora,1034.0,1,1.0,1,,10.1,Yes,Semi-Furnished,42.32
+H3796,Soura,1166.0,2,2.0,3,4.0,6.8,Yes,Furnished,56.75
+H3797,Nowgam,947.0,1,1.0,3,18.0,1.7,Yes,Semi-Furnished,41.1
+H3798,Rajbagh,1223.0,2,1.0,2,34.0,18.1,No,Unfurnished,58.18
+H3799,Rajbagh,932.0,2,2.0,3,30.0,8.6,Yes,Unfurnished,60.09
+H3199,Bemina,2399.0,5,5.0,2,1.0,9.3,Yes,Unfurnished,93.14
+H3380,Pantha Chowk,1010.0,2,1.0,2,32.0,14.3,Yes,Semi-Furnished,32.11
+H3135,Nowgam,1622.0,3,2.0,3,20.0,21.5,Yes,Furnished,59.02
+H2258,Bemina,2425.0,5,5.0,2,27.0,24.1,No,Unfurnished,92.93
+H3721,Hyderpora,1573.0,3,3.0,1,23.0,4.5,Yes,Semi-Furnished,74.9
+H3717,Pantha Chowk,1817.0,3,3.0,2,2.0,5.8,Yes,Furnished,84.48
+H2303,Budgam Road,1423.0,3,3.0,2,22.0,23.1,Yes,Semi-Furnished,41.39
+H2852,Soura,1377.0,3,3.0,1,35.0,8.7,Yes,Unfurnished,49.74
+H2997,Hyderpora,1814.0,3,2.0,2,38.0,22.2,Yes,Unfurnished,65.26
+H3640,Soura,1774.0,4,3.0,2,7.0,8.2,No,Semi-Furnished,70.0
+H2476,Jawahar Nagar,1330.0,3,3.0,3,16.0,13.3,Yes,Unfurnished,78.6
+H3002,Sanat Nagar,450.0,1,1.0,1,15.0,5.0,Yes,Unfurnished,27.55
